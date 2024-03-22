@@ -1,0 +1,47 @@
+{
+    "addon_version": "4.0.03", 
+    "files": {
+        "channels": [
+            "animefenix", 
+            "animeonline", 
+            "cinecalidadlol", 
+            "cuevana3lw", 
+            "dontorrents", 
+            "dontorrentsin", 
+            "ennovelas", 
+            "entrepeliculasyseries", 
+            "frozenlayer", 
+            "gnula24", 
+            "gnula24h", 
+            "henaojara", 
+            "kiriasian", 
+            "mangoporn", 
+            "megaserie", 
+            "mejortorrentapp", 
+            "peliplayhd", 
+            "pelisxd", 
+            "ppeliculas", 
+            "subtorrents", 
+            "tiodonghua"
+        ], 
+        "core": [
+            "servertools"
+        ], 
+        "modules": [
+            "tester"
+        ], 
+        "platformcode": [
+            "platformtools"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ], 
+        "servers": [
+            "mixdrop", 
+            "various"
+        ]
+    }, 
+    "fix_version": 5, 
+    "hash": "38337f8561598185e1a95d588c35cbd5"
+}
