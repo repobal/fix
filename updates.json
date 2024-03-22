@@ -28,10 +28,12 @@
             "servertools"
         ], 
         "modules": [
+            "helper", 
             "tester"
         ], 
         "platformcode": [
-            "platformtools"
+            "platformtools", 
+            "updater"
         ], 
         "root dir": [
             "dominios", 
@@ -42,6 +44,6 @@
             "various"
         ]
     }, 
-    "fix_version": 5, 
-    "hash": "38337f8561598185e1a95d588c35cbd5"
+    "fix_version": 6, 
+    "hash": "258d64bc0d65687bb186c83ee168af09"
 }
