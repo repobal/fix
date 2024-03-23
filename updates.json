@@ -25,9 +25,12 @@
             "tiodonghua"
         ], 
         "core": [
+            "httptools", 
+            "requeststools", 
             "servertools"
         ], 
         "modules": [
+            "actions", 
             "helper", 
             "tester"
         ], 
@@ -44,6 +47,6 @@
             "various"
         ]
     }, 
-    "fix_version": 6, 
-    "hash": "258d64bc0d65687bb186c83ee168af09"
+    "fix_version": 7, 
+    "hash": "ef4a843390cf0f9576ab67a32179a484"
 }
