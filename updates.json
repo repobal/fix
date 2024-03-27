@@ -1,4 +1,22 @@
 {
     "addon_version": "4.0.04", 
-    "hash": "80601d76d9b820f4606472d13092a92e"
+    "files": {
+        "channels": [
+            "cinecalidadlol", 
+            "cuevana3video", 
+            "dontorrents"
+        ], 
+        "modules": [
+            "helper"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ], 
+        "servers": [
+            "voe"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "078aa4ce24372313f408dd7e039b0fcf"
 }
