@@ -2,9 +2,14 @@
     "addon_version": "4.0.04", 
     "files": {
         "channels": [
+            "areshd", 
             "cinecalidadlol", 
             "cuevana3video", 
-            "dontorrents"
+            "dontorrents", 
+            "gnula", 
+            "mejortorrentapp", 
+            "mejortorrentnz", 
+            "tupelihd"
         ], 
         "modules": [
             "helper"
@@ -17,6 +22,6 @@
             "voe"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "078aa4ce24372313f408dd7e039b0fcf"
+    "fix_version": 2, 
+    "hash": "7a3c4a51d06be0617fe5fe1aaba748cd"
 }
