@@ -4,14 +4,19 @@
         "channels": [
             "areshd", 
             "cinecalidadlol", 
+            "cuevana3lw", 
             "cuevana3video", 
             "dontorrents", 
             "gnula", 
             "mejortorrentapp", 
             "mejortorrentnz", 
+            "pandrama", 
+            "sinpeli", 
+            "tupeliculatv", 
             "tupelihd"
         ], 
         "modules": [
+            "downloads", 
             "helper"
         ], 
         "root dir": [
@@ -22,6 +27,6 @@
             "voe"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "7a3c4a51d06be0617fe5fe1aaba748cd"
+    "fix_version": 3, 
+    "hash": "2680ba6263089f76b1efd428e4bf2afa"
 }
