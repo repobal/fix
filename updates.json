@@ -3,6 +3,7 @@
     "files": {
         "channels": [
             "areshd", 
+            "cine24h", 
             "cinecalidadlol", 
             "cuevana3lw", 
             "cuevana3video", 
@@ -17,16 +18,20 @@
         ], 
         "modules": [
             "downloads", 
-            "helper"
+            "helper", 
+            "submnuteam"
         ], 
         "root dir": [
             "dominios", 
             "version"
         ], 
         "servers": [
-            "voe"
+            "streamz", 
+            "uptobox", 
+            "voe", 
+            "zplayer"
         ]
     }, 
-    "fix_version": 3, 
-    "hash": "2680ba6263089f76b1efd428e4bf2afa"
+    "fix_version": 4, 
+    "hash": "1c7c258cb15fa14b9c21e54391680bac"
 }
