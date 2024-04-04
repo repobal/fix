@@ -12,6 +12,7 @@
             "mejortorrentapp", 
             "mejortorrentnz", 
             "pandrama", 
+            "plushd", 
             "sinpeli", 
             "tupeliculatv", 
             "tupelihd"
@@ -19,7 +20,8 @@
         "modules": [
             "downloads", 
             "helper", 
-            "submnuteam"
+            "submnuteam", 
+            "tester"
         ], 
         "root dir": [
             "dominios", 
@@ -32,6 +34,6 @@
             "zplayer"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "1c7c258cb15fa14b9c21e54391680bac"
+    "fix_version": 5, 
+    "hash": "a62b912fcd57df02e898cb573d9a2842"
 }
