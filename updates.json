@@ -8,16 +8,20 @@
             "cuevana3lw", 
             "cuevana3video", 
             "dontorrents", 
+            "estrenosdoramas", 
             "gnula", 
             "mejortorrentapp", 
             "mejortorrentnz", 
             "pandrama", 
             "plushd", 
+            "sigloxx", 
             "sinpeli", 
             "tupeliculatv", 
-            "tupelihd"
+            "tupelihd", 
+            "tvseries"
         ], 
         "modules": [
+            "actions", 
             "downloads", 
             "helper", 
             "submnuteam", 
@@ -34,6 +38,6 @@
             "zplayer"
         ]
     }, 
-    "fix_version": 5, 
-    "hash": "a62b912fcd57df02e898cb573d9a2842"
+    "fix_version": 6, 
+    "hash": "ca66b8fc9cf5827f37b15a770e7ec524"
 }
