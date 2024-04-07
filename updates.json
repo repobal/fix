@@ -4,21 +4,35 @@
         "channels": [
             "areshd", 
             "cine24h", 
+            "cinecalidad", 
             "cinecalidadlol", 
             "cuevana3lw", 
             "cuevana3video", 
             "dontorrents", 
+            "dontorrentsin", 
+            "ennovelas", 
+            "ennovelastv", 
             "estrenosdoramas", 
             "gnula", 
+            "hdfullse", 
+            "jkanime", 
             "mejortorrentapp", 
             "mejortorrentnz", 
             "pandrama", 
+            "peliculaspro", 
+            "pelisforte", 
+            "pelismaraton", 
+            "pelispanda", 
+            "pelisxd", 
             "plushd", 
+            "seodiv", 
             "sigloxx", 
             "sinpeli", 
+            "srnovelas", 
             "tupeliculatv", 
             "tupelihd", 
-            "tvseries"
+            "tvseries", 
+            "zonaleros"
         ], 
         "modules": [
             "actions", 
@@ -38,6 +52,6 @@
             "zplayer"
         ]
     }, 
-    "fix_version": 6, 
-    "hash": "ca66b8fc9cf5827f37b15a770e7ec524"
+    "fix_version": 7, 
+    "hash": "fad8f2ac375ab45cb303df2cdd7f9940"
 }
