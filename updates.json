@@ -8,12 +8,15 @@
             "cinecalidadlol", 
             "cuevana3lw", 
             "cuevana3video", 
+            "divxtotal", 
             "dontorrents", 
             "dontorrentsin", 
             "ennovelas", 
+            "ennovelasonline", 
             "ennovelastv", 
             "estrenosdoramas", 
             "gnula", 
+            "grantorrent", 
             "hdfullse", 
             "jkanime", 
             "mejortorrentapp", 
@@ -52,6 +55,6 @@
             "zplayer"
         ]
     }, 
-    "fix_version": 7, 
-    "hash": "fad8f2ac375ab45cb303df2cdd7f9940"
+    "fix_version": 8, 
+    "hash": "662641061547aae1c10d3ae92abd6d38"
 }
