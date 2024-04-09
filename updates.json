@@ -17,6 +17,7 @@
             "estrenosdoramas", 
             "gnula", 
             "grantorrent", 
+            "hdfull", 
             "hdfullse", 
             "jkanime", 
             "mejortorrentapp", 
@@ -55,6 +56,6 @@
             "zplayer"
         ]
     }, 
-    "fix_version": 8, 
-    "hash": "662641061547aae1c10d3ae92abd6d38"
+    "fix_version": 9, 
+    "hash": "0c7c53b23beb7ebf4f03896a9e9de14d"
 }
