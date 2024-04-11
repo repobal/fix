@@ -6,6 +6,7 @@
             "cine24h", 
             "cinecalidad", 
             "cinecalidadlol", 
+            "cinedeantes", 
             "cuevana3lw", 
             "cuevana3video", 
             "divxtotal", 
@@ -36,12 +37,17 @@
             "tupeliculatv", 
             "tupelihd", 
             "tvseries", 
-            "zonaleros"
+            "zonaleros", 
+            "zoowomaniacos"
         ], 
         "modules": [
             "actions", 
+            "domains", 
             "downloads", 
+            "filmaffinitylists", 
+            "groups", 
             "helper", 
+            "submnuctext", 
             "submnuteam", 
             "tester"
         ], 
@@ -52,10 +58,11 @@
         "servers": [
             "streamz", 
             "uptobox", 
+            "various", 
             "voe", 
             "zplayer"
         ]
     }, 
-    "fix_version": 9, 
-    "hash": "0c7c53b23beb7ebf4f03896a9e9de14d"
+    "fix_version": 10, 
+    "hash": "5623292e4d255783ec31c6a433ebef41"
 }
