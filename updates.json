@@ -20,16 +20,19 @@
             "grantorrent", 
             "hdfull", 
             "hdfullse", 
+            "henaojara", 
             "jkanime", 
             "latanime", 
             "mejortorrentapp", 
             "mejortorrentnz", 
             "mundodonghua", 
+            "novelas24", 
             "pandrama", 
             "peliculaspro", 
             "pelisforte", 
             "pelismaraton", 
             "pelispanda", 
+            "pelisplushd", 
             "pelisxd", 
             "plushd", 
             "seodiv", 
@@ -73,6 +76,6 @@
             "zplayer"
         ]
     }, 
-    "fix_version": 11, 
-    "hash": "50fe2b06608965936ab0df6284426eff"
+    "fix_version": 12, 
+    "hash": "4fa26be12d18fa57bb747f6a40337291"
 }
