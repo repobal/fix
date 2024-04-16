@@ -39,6 +39,7 @@
             "sigloxx", 
             "sinpeli", 
             "srnovelas", 
+            "telenovelas", 
             "tioanime", 
             "tiodonghua", 
             "tupeliculatv", 
@@ -76,6 +77,6 @@
             "zplayer"
         ]
     }, 
-    "fix_version": 13, 
-    "hash": "7db705fe6db2b6ba0358eb3af203e64c"
+    "fix_version": 14, 
+    "hash": "b9e1a1b608b20e02babf2bf2aa37213e"
 }
