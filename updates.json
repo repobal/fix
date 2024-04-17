@@ -17,6 +17,8 @@
             "ennovelastv", 
             "estrenosdoramas", 
             "gnula", 
+            "gnula24", 
+            "gnula24h", 
             "grantorrent", 
             "hdfull", 
             "hdfullse", 
@@ -31,11 +33,13 @@
             "peliculaspro", 
             "pelisforte", 
             "pelismaraton", 
+            "pelismart", 
             "pelispanda", 
             "pelisplushd", 
             "pelisxd", 
             "plushd", 
             "seodiv", 
+            "series24", 
             "sigloxx", 
             "sinpeli", 
             "srnovelas", 
@@ -45,6 +49,7 @@
             "tupeliculatv", 
             "tupelihd", 
             "tvseries", 
+            "veronline", 
             "zonaleros", 
             "zoowomaniacos"
         ], 
@@ -77,6 +82,6 @@
             "zplayer"
         ]
     }, 
-    "fix_version": 14, 
-    "hash": "b9e1a1b608b20e02babf2bf2aa37213e"
+    "fix_version": 15, 
+    "hash": "9b0b3ad68e464a0a2233aa75bf4153a7"
 }
