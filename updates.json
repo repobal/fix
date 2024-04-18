@@ -38,6 +38,7 @@
             "pelisplushd", 
             "pelisxd", 
             "plushd", 
+            "repelisre", 
             "seodiv", 
             "series24", 
             "sigloxx", 
@@ -49,6 +50,7 @@
             "tupeliculatv", 
             "tupelihd", 
             "tvseries", 
+            "ultrapelis", 
             "veronline", 
             "zonaleros", 
             "zoowomaniacos"
@@ -82,6 +84,6 @@
             "zplayer"
         ]
     }, 
-    "fix_version": 15, 
-    "hash": "9b0b3ad68e464a0a2233aa75bf4153a7"
+    "fix_version": 16, 
+    "hash": "772a66bffc510bfdd5a928ff1bec8d9a"
 }
