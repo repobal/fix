@@ -38,15 +38,18 @@
             "pelisplushd", 
             "pelisxd", 
             "plushd", 
+            "porntube", 
             "repelisre", 
             "seodiv", 
             "series24", 
+            "serieskao", 
             "sigloxx", 
             "sinpeli", 
             "srnovelas", 
             "telenovelas", 
             "tioanime", 
             "tiodonghua", 
+            "tucineclasico", 
             "tupeliculatv", 
             "tupelihd", 
             "tvseries", 
@@ -84,6 +87,6 @@
             "zplayer"
         ]
     }, 
-    "fix_version": 16, 
-    "hash": "772a66bffc510bfdd5a928ff1bec8d9a"
+    "fix_version": 17, 
+    "hash": "311cb3f11592db2eea080629e4af9f9e"
 }
