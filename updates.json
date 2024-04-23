@@ -37,6 +37,7 @@
             "pelispanda", 
             "pelisplushd", 
             "pelisxd", 
+            "playdede", 
             "plushd", 
             "porntube", 
             "repelisre", 
@@ -75,6 +76,9 @@
         "platformcode": [
             "platformtools"
         ], 
+        "resources": [
+            "settings"
+        ], 
         "root dir": [
             "dominios", 
             "version"
@@ -87,6 +91,6 @@
             "zplayer"
         ]
     }, 
-    "fix_version": 17, 
-    "hash": "311cb3f11592db2eea080629e4af9f9e"
+    "fix_version": 18, 
+    "hash": "59f06622a26748d50a9f8b604afc45e8"
 }
