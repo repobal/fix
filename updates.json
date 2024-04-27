@@ -5,6 +5,7 @@
             "areshd", 
             "cine24h", 
             "cinecalidad", 
+            "cinecalidadla", 
             "cinecalidadlol", 
             "cinedeantes", 
             "cuevana3lw", 
@@ -67,8 +68,11 @@
             "domains", 
             "downloads", 
             "filmaffinitylists", 
+            "filters", 
+            "generos", 
             "groups", 
             "helper", 
+            "search", 
             "submnuctext", 
             "submnuteam", 
             "tester"
@@ -84,6 +88,7 @@
             "version"
         ], 
         "servers": [
+            "clicknupload", 
             "streamz", 
             "uptobox", 
             "various", 
@@ -91,6 +96,6 @@
             "zplayer"
         ]
     }, 
-    "fix_version": 19, 
-    "hash": "e0ee47b8c3396b5a5ce218cb4761ee05"
+    "fix_version": 20, 
+    "hash": "f5dc2afe33f2682b9c9ab294eeb65b63"
 }
