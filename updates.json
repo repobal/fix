@@ -1,4 +1,19 @@
 {
     "addon_version": "4.0.05", 
-    "hash": "366435a06d1f05f6a541723b47aa2462"
+    "files": {
+        "channels": [
+            "cuevana3lw", 
+            "mirapeliculas", 
+            "pasateatorrent", 
+            "playdede", 
+            "seriesonline", 
+            "veronline"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "072b2ac44f7400f454aec2f66c4fad0e"
 }
