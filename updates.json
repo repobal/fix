@@ -2,18 +2,35 @@
     "addon_version": "4.0.05", 
     "files": {
         "channels": [
+            "animefenix", 
             "cuevana3lw", 
+            "gnula24h", 
             "mirapeliculas", 
             "pasateatorrent", 
             "playdede", 
             "seriesonline", 
             "veronline"
         ], 
+        "core": [
+            "proxytools", 
+            "proxytoolsz", 
+            "servertools"
+        ], 
+        "modules": [
+            "submnuteam", 
+            "tester"
+        ], 
+        "platformcode": [
+            "platformtools"
+        ], 
         "root dir": [
             "dominios", 
             "version"
+        ], 
+        "servers": [
+            "various"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "072b2ac44f7400f454aec2f66c4fad0e"
+    "fix_version": 2, 
+    "hash": "5f8ea2c3a9f5c50594bf26f6c60e93c6"
 }
