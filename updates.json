@@ -5,6 +5,7 @@
             "animefenix", 
             "cuevana3lw", 
             "gnula24h", 
+            "megaserie", 
             "mirapeliculas", 
             "pasateatorrent", 
             "playdede", 
@@ -31,6 +32,6 @@
             "various"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "5f8ea2c3a9f5c50594bf26f6c60e93c6"
+    "fix_version": 3, 
+    "hash": "f33bcf90ea40c36e446db44a217ec16d"
 }
