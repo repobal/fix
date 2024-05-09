@@ -5,9 +5,11 @@
             "animefenix", 
             "cuevana3lw", 
             "gnula24h", 
+            "gnulatop", 
             "megaserie", 
             "mirapeliculas", 
             "pasateatorrent", 
+            "pelispediaws", 
             "playdede", 
             "seriesonline", 
             "veronline"
@@ -18,6 +20,7 @@
             "servertools"
         ], 
         "modules": [
+            "generos", 
             "submnuteam", 
             "tester"
         ], 
@@ -32,6 +35,6 @@
             "various"
         ]
     }, 
-    "fix_version": 3, 
-    "hash": "f33bcf90ea40c36e446db44a217ec16d"
+    "fix_version": 4, 
+    "hash": "774d2e39350186c3eef2041883fe7bb6"
 }
