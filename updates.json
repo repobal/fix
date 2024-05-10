@@ -3,15 +3,24 @@
     "files": {
         "channels": [
             "animefenix", 
+            "cine24h", 
             "cuevana3lw", 
+            "dontorrents", 
+            "doramasmp4dev", 
+            "gnula24", 
             "gnula24h", 
             "gnulatop", 
             "megaserie", 
             "mirapeliculas", 
+            "novelas24", 
             "pasateatorrent", 
+            "pelis28re", 
+            "pelispedia2me", 
             "pelispediaws", 
+            "pelisplushd", 
             "playdede", 
             "seriesonline", 
+            "seriesplus", 
             "veronline"
         ], 
         "core": [
@@ -35,6 +44,6 @@
             "various"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "774d2e39350186c3eef2041883fe7bb6"
+    "fix_version": 5, 
+    "hash": "01f025b3de30d313ab19b6a6e0e2261c"
 }
