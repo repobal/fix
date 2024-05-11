@@ -7,12 +7,14 @@
             "cuevana3lw", 
             "dontorrents", 
             "doramasmp4dev", 
+            "doramasqueen", 
             "gnula24", 
             "gnula24h", 
             "gnulatop", 
             "megaserie", 
             "mirapeliculas", 
             "novelas24", 
+            "pandrama", 
             "pasateatorrent", 
             "pelis28re", 
             "pelispedia2me", 
@@ -21,6 +23,7 @@
             "playdede", 
             "seriesonline", 
             "seriesplus", 
+            "seriesretro", 
             "veronline"
         ], 
         "core": [
@@ -30,6 +33,8 @@
         ], 
         "modules": [
             "generos", 
+            "helper", 
+            "submnuctext", 
             "submnuteam", 
             "tester"
         ], 
@@ -44,6 +49,6 @@
             "various"
         ]
     }, 
-    "fix_version": 5, 
-    "hash": "01f025b3de30d313ab19b6a6e0e2261c"
+    "fix_version": 6, 
+    "hash": "77fcc5802f0581928c19cfc166e957e7"
 }
