@@ -11,6 +11,7 @@
             "gnula24", 
             "gnula24h", 
             "gnulatop", 
+            "henaojara", 
             "megaserie", 
             "mirapeliculas", 
             "novelas24", 
@@ -21,6 +22,7 @@
             "pelispediaws", 
             "pelisplushd", 
             "playdede", 
+            "retrotv", 
             "seriesonline", 
             "seriesplus", 
             "seriesretro", 
@@ -32,6 +34,7 @@
             "servertools"
         ], 
         "modules": [
+            "actions", 
             "generos", 
             "helper", 
             "submnuctext", 
@@ -46,9 +49,10 @@
             "version"
         ], 
         "servers": [
+            "gofile", 
             "various"
         ]
     }, 
-    "fix_version": 6, 
-    "hash": "77fcc5802f0581928c19cfc166e957e7"
+    "fix_version": 7, 
+    "hash": "cf8af3821405177e9bc68e582646bbb5"
 }
