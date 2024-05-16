@@ -8,6 +8,7 @@
             "dontorrents", 
             "doramasmp4dev", 
             "doramasqueen", 
+            "ennovelas", 
             "gnula24", 
             "gnula24h", 
             "gnulatop", 
@@ -53,6 +54,6 @@
             "various"
         ]
     }, 
-    "fix_version": 7, 
-    "hash": "cf8af3821405177e9bc68e582646bbb5"
+    "fix_version": 8, 
+    "hash": "0e21d7b523b6ce29014a9dd25957b28f"
 }
