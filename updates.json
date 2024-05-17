@@ -4,11 +4,13 @@
         "channels": [
             "animefenix", 
             "cine24h", 
+            "cinecalidadlol", 
             "cuevana3lw", 
             "dontorrents", 
             "doramasmp4dev", 
             "doramasqueen", 
             "ennovelas", 
+            "ennovelastv", 
             "gnula24", 
             "gnula24h", 
             "gnulatop", 
@@ -24,9 +26,13 @@
             "pelisplushd", 
             "playdede", 
             "retrotv", 
+            "series24", 
             "seriesonline", 
             "seriesplus", 
             "seriesretro", 
+            "srnovelas", 
+            "telenovelas", 
+            "vernovelas", 
             "veronline"
         ], 
         "core": [
@@ -54,6 +60,6 @@
             "various"
         ]
     }, 
-    "fix_version": 8, 
-    "hash": "0e21d7b523b6ce29014a9dd25957b28f"
+    "fix_version": 9, 
+    "hash": "8c306f82ba162b4ab823cfed54d0a2a0"
 }
