@@ -14,6 +14,7 @@
             "gnula24", 
             "gnula24h", 
             "gnulatop", 
+            "hdfull", 
             "henaojara", 
             "megaserie", 
             "mirapeliculas", 
@@ -42,8 +43,10 @@
         ], 
         "modules": [
             "actions", 
+            "domains", 
             "generos", 
             "helper", 
+            "proxysearch", 
             "submnuctext", 
             "submnuteam", 
             "tester"
@@ -60,6 +63,6 @@
             "various"
         ]
     }, 
-    "fix_version": 9, 
-    "hash": "8c306f82ba162b4ab823cfed54d0a2a0"
+    "fix_version": 10, 
+    "hash": "51e8563294c746be35bfda9f009e6a5f"
 }
