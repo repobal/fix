@@ -1,4 +1,20 @@
 {
     "addon_version": "4.0.06", 
-    "hash": "b39079dde9ffd65787297b00c263d6a0"
+    "files": {
+        "channels": [
+            "gnula24h", 
+            "monoschinos", 
+            "pelisplus1", 
+            "seriesonline"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ], 
+        "servers": [
+            "mega"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "1993ef76b029d9542aa3629c6fe24253"
 }
