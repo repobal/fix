@@ -2,8 +2,13 @@
     "addon_version": "4.0.06", 
     "files": {
         "channels": [
+            "cuevana2", 
+            "cuevana2esp", 
+            "cuevana3lw", 
+            "cuevana3pro", 
             "gnula24h", 
             "monoschinos", 
+            "pelishd", 
             "pelisplus1", 
             "seriesonline"
         ], 
@@ -12,9 +17,10 @@
             "version"
         ], 
         "servers": [
-            "mega"
+            "mega", 
+            "playtube"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "1993ef76b029d9542aa3629c6fe24253"
+    "fix_version": 2, 
+    "hash": "db272425ae5d62898bf319677d5530a1"
 }
