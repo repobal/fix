@@ -8,9 +8,11 @@
             "cuevana3pro", 
             "gnula24h", 
             "monoschinos", 
+            "novelas24", 
             "pelishd", 
             "pelisplus1", 
-            "seriesonline"
+            "seriesonline", 
+            "srnovelas"
         ], 
         "root dir": [
             "dominios", 
@@ -18,9 +20,12 @@
         ], 
         "servers": [
             "mega", 
-            "playtube"
+            "mixdrop", 
+            "playtube", 
+            "streamlare", 
+            "supervideo"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "db272425ae5d62898bf319677d5530a1"
+    "fix_version": 3, 
+    "hash": "8a79f5e6d00d0fa18569c3c53365d061"
 }
