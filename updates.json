@@ -2,17 +2,22 @@
     "addon_version": "4.0.06", 
     "files": {
         "channels": [
+            "animeonline", 
             "cuevana2", 
             "cuevana2esp", 
             "cuevana3lw", 
             "cuevana3pro", 
             "gnula24h", 
+            "megaserie", 
             "monoschinos", 
             "novelas24", 
             "pelishd", 
             "pelisplus1", 
             "seriesonline", 
             "srnovelas"
+        ], 
+        "modules": [
+            "tester"
         ], 
         "root dir": [
             "dominios", 
@@ -23,9 +28,10 @@
             "mixdrop", 
             "playtube", 
             "streamlare", 
-            "supervideo"
+            "supervideo", 
+            "various"
         ]
     }, 
-    "fix_version": 3, 
-    "hash": "8a79f5e6d00d0fa18569c3c53365d061"
+    "fix_version": 4, 
+    "hash": "9128e7faac3141fb633fd6d554f82826"
 }
