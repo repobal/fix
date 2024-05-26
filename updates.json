@@ -2,22 +2,38 @@
     "addon_version": "4.0.06", 
     "files": {
         "channels": [
+            "animefenix", 
             "animeonline", 
+            "cinecalidad", 
             "cuevana2", 
             "cuevana2esp", 
             "cuevana3lw", 
             "cuevana3pro", 
+            "dontorrentsin", 
             "gnula24h", 
+            "henaojara", 
+            "mega1link", 
             "megaserie", 
+            "mejortorrentapp", 
+            "mirapeliculas", 
             "monoschinos", 
             "novelas24", 
+            "peliplayhd", 
             "pelishd", 
             "pelisplus1", 
+            "pelisxd", 
+            "ppeliculas", 
             "seriesonline", 
             "srnovelas"
         ], 
+        "core": [
+            "servertools"
+        ], 
         "modules": [
             "tester"
+        ], 
+        "platformcode": [
+            "platformtools"
         ], 
         "root dir": [
             "dominios", 
@@ -29,9 +45,10 @@
             "playtube", 
             "streamlare", 
             "supervideo", 
-            "various"
+            "various", 
+            "zures"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "9128e7faac3141fb633fd6d554f82826"
+    "fix_version": 5, 
+    "hash": "34ea04f0e0d8f4ec62c8c153f68e1b4e"
 }
