@@ -2,6 +2,7 @@
     "addon_version": "4.0.06", 
     "files": {
         "channels": [
+            "allpeliculasse", 
             "animefenix", 
             "animeonline", 
             "cinecalidad", 
@@ -20,11 +21,13 @@
             "novelas24", 
             "peliplayhd", 
             "pelishd", 
+            "pelispanda", 
             "pelisplus1", 
             "pelisxd", 
             "ppeliculas", 
             "seriesonline", 
-            "srnovelas"
+            "srnovelas", 
+            "tupelihd"
         ], 
         "core": [
             "servertools"
@@ -49,6 +52,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 5, 
-    "hash": "34ea04f0e0d8f4ec62c8c153f68e1b4e"
+    "fix_version": 6, 
+    "hash": "a66826d84821f507a4ac5a523ac885d6"
 }
