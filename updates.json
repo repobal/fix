@@ -12,6 +12,7 @@
             "cuevana3pro", 
             "dontorrentsin", 
             "gnula24h", 
+            "hdfullse", 
             "henaojara", 
             "mega1link", 
             "megaserie", 
@@ -43,6 +44,7 @@
             "version"
         ], 
         "servers": [
+            "evoload", 
             "mega", 
             "mixdrop", 
             "playtube", 
@@ -52,6 +54,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 6, 
-    "hash": "a66826d84821f507a4ac5a523ac885d6"
+    "fix_version": 7, 
+    "hash": "0b5381fd128ec2a79d0a822d967bba37"
 }
