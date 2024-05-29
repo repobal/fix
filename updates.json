@@ -5,15 +5,20 @@
             "allpeliculasse", 
             "animefenix", 
             "animeonline", 
+            "animespace", 
             "cinecalidad", 
             "cuevana2", 
             "cuevana2esp", 
             "cuevana3lw", 
             "cuevana3pro", 
             "dontorrentsin", 
+            "ennovelas", 
+            "frozenlayer", 
             "gnula24h", 
             "hdfullse", 
             "henaojara", 
+            "jkanime", 
+            "latanime", 
             "mega1link", 
             "megaserie", 
             "mejortorrentapp", 
@@ -25,6 +30,7 @@
             "pelispanda", 
             "pelisplus1", 
             "pelisxd", 
+            "poseidonhd2", 
             "ppeliculas", 
             "seriesonline", 
             "srnovelas", 
@@ -51,9 +57,12 @@
             "streamlare", 
             "supervideo", 
             "various", 
+            "videobb", 
+            "waaw", 
+            "zippyshare", 
             "zures"
         ]
     }, 
-    "fix_version": 7, 
-    "hash": "0b5381fd128ec2a79d0a822d967bba37"
+    "fix_version": 8, 
+    "hash": "ac92133cf5fca076430319f114775c6b"
 }
