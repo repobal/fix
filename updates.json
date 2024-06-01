@@ -22,6 +22,7 @@
             "cuevana3lw", 
             "cuevana3pro", 
             "cuevana3video", 
+            "dontorrents", 
             "dontorrentsin", 
             "doramasyt", 
             "doramedplaylat", 
@@ -97,11 +98,13 @@
         ], 
         "servers": [
             "evoload", 
+            "jawcloud", 
             "mega", 
             "mixdrop", 
             "playtube", 
             "streamhide", 
             "streamlare", 
+            "streamvid", 
             "supervideo", 
             "various", 
             "videobb", 
@@ -111,6 +114,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 10, 
-    "hash": "98b86538085d0792cbb3d1179d4fe695"
+    "fix_version": 11, 
+    "hash": "c4ebbf6a5ab6b2737e855e60861cad8a"
 }
