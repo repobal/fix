@@ -77,9 +77,13 @@
             "seriesplus", 
             "seriesretro", 
             "srnovelas", 
+            "subtorrents", 
             "tioanime", 
+            "tucineclasico", 
             "tupelihd", 
             "ultrapelis", 
+            "yespornplease", 
+            "yts", 
             "zonaleros"
         ], 
         "core": [
@@ -114,6 +118,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 11, 
-    "hash": "c4ebbf6a5ab6b2737e855e60861cad8a"
+    "fix_version": 12, 
+    "hash": "083a863839e70b78d7b386549ab03502"
 }
