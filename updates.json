@@ -10,6 +10,7 @@
             "animeyt", 
             "areshd", 
             "asialive", 
+            "beeg", 
             "cine24h", 
             "cinecalidad", 
             "cinecalidadla", 
@@ -19,11 +20,14 @@
             "cliversite", 
             "cuevana2", 
             "cuevana2esp", 
+            "cuevana3in", 
             "cuevana3lw", 
             "cuevana3pro", 
             "cuevana3video", 
+            "divxtotal", 
             "dontorrents", 
             "dontorrentsin", 
+            "doramasmp4dev", 
             "doramasyt", 
             "doramedplaylat", 
             "elifilms", 
@@ -63,6 +67,7 @@
             "pelisplushdnz", 
             "pelisxd", 
             "playdede", 
+            "playplus", 
             "poseidonhd2", 
             "ppeliculas", 
             "retrotv", 
@@ -76,6 +81,8 @@
             "seriespapayato", 
             "seriesplus", 
             "seriesretro", 
+            "sigloxx", 
+            "sololatino", 
             "srnovelas", 
             "subtorrents", 
             "tioanime", 
@@ -118,6 +125,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 12, 
-    "hash": "083a863839e70b78d7b386549ab03502"
+    "fix_version": 13, 
+    "hash": "0866af089952059c80f99b02453f907c"
 }
