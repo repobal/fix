@@ -27,6 +27,7 @@
             "divxtotal", 
             "dontorrents", 
             "dontorrentsin", 
+            "doramasflixsone", 
             "doramasmp4dev", 
             "doramasyt", 
             "doramedplaylat", 
@@ -34,6 +35,7 @@
             "ennovelas", 
             "estrenoscinesaa", 
             "estrenosdoramas", 
+            "filmoves", 
             "frozenlayer", 
             "gnula", 
             "gnula24", 
@@ -86,9 +88,11 @@
             "srnovelas", 
             "subtorrents", 
             "tioanime", 
+            "todoseries", 
             "tucineclasico", 
             "tupelihd", 
             "ultrapelis", 
+            "vimeo", 
             "yespornplease", 
             "yts", 
             "zonaleros"
@@ -125,6 +129,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 13, 
-    "hash": "0866af089952059c80f99b02453f907c"
+    "fix_version": 14, 
+    "hash": "9f3858c339571852ef277d1089faa8fe"
 }
