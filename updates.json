@@ -1,4 +1,18 @@
 {
     "addon_version": "4.0.07", 
-    "hash": "3d4e6f0e15fae03cac12671c286aff65"
+    "files": {
+        "channels": [
+            "cuevana3pro", 
+            "hacktorrent", 
+            "kiriasian", 
+            "novelas360", 
+            "pelispanda"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "af198dda0aed128833a75a37f541c618"
 }
