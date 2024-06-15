@@ -2,17 +2,27 @@
     "addon_version": "4.0.07", 
     "files": {
         "channels": [
+            "animeyt", 
             "cuevana3pro", 
+            "cuevana3video", 
+            "dontorrents", 
             "hacktorrent", 
+            "henaojara", 
             "kiriasian", 
+            "monoschinos", 
             "novelas360", 
-            "pelispanda"
+            "pelispanda", 
+            "seriesantiguas", 
+            "seriesbiblicas"
+        ], 
+        "modules": [
+            "submnuteam"
         ], 
         "root dir": [
             "dominios", 
             "version"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "af198dda0aed128833a75a37f541c618"
+    "fix_version": 2, 
+    "hash": "e53fc122a11122c128f216062d9ed74f"
 }
