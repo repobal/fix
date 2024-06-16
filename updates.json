@@ -3,17 +3,25 @@
     "files": {
         "channels": [
             "animeyt", 
+            "asialive", 
+            "cinecalidad", 
+            "cliversite", 
+            "cuevana3in", 
             "cuevana3pro", 
             "cuevana3video", 
             "dontorrents", 
+            "entrepeliculasyseries", 
             "hacktorrent", 
             "henaojara", 
             "kiriasian", 
+            "mejortorrentapp", 
             "monoschinos", 
             "novelas360", 
             "pelispanda", 
+            "poseidonhd2", 
             "seriesantiguas", 
-            "seriesbiblicas"
+            "seriesbiblicas", 
+            "sololatino"
         ], 
         "modules": [
             "submnuteam"
@@ -23,6 +31,6 @@
             "version"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "e53fc122a11122c128f216062d9ed74f"
+    "fix_version": 3, 
+    "hash": "a06135b9b94984f4ad99f923d5b34336"
 }
