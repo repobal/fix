@@ -2,6 +2,7 @@
     "addon_version": "4.0.07", 
     "files": {
         "channels": [
+            "animejl", 
             "animeyt", 
             "asialive", 
             "cinecalidad", 
@@ -9,8 +10,10 @@
             "cuevana3in", 
             "cuevana3pro", 
             "cuevana3video", 
+            "divxtotal", 
             "dontorrents", 
             "entrepeliculasyseries", 
+            "grantorrent", 
             "hacktorrent", 
             "henaojara", 
             "kiriasian", 
@@ -19,11 +22,17 @@
             "novelas360", 
             "pelispanda", 
             "poseidonhd2", 
+            "ppeliculas", 
             "seriesantiguas", 
             "seriesbiblicas", 
             "sololatino"
         ], 
+        "core": [
+            "proxytools"
+        ], 
         "modules": [
+            "actions", 
+            "helper", 
             "submnuteam"
         ], 
         "root dir": [
@@ -31,6 +40,6 @@
             "version"
         ]
     }, 
-    "fix_version": 3, 
-    "hash": "a06135b9b94984f4ad99f923d5b34336"
+    "fix_version": 4, 
+    "hash": "6cc9ee3d0484dc89bf2263d77ff6f4d5"
 }
