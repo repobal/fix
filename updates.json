@@ -2,6 +2,7 @@
     "addon_version": "4.0.07", 
     "files": {
         "channels": [
+            "animefenix", 
             "animejl", 
             "animeyt", 
             "asialive", 
@@ -12,11 +13,13 @@
             "cuevana3video", 
             "divxtotal", 
             "dontorrents", 
+            "doramasyt", 
             "entrepeliculasyseries", 
             "grantorrent", 
             "hacktorrent", 
             "henaojara", 
             "kiriasian", 
+            "latanime", 
             "mejortorrentapp", 
             "monoschinos", 
             "novelas360", 
@@ -25,21 +28,31 @@
             "ppeliculas", 
             "seriesantiguas", 
             "seriesbiblicas", 
-            "sololatino"
+            "sololatino", 
+            "tiodonghua"
         ], 
         "core": [
-            "proxytools"
+            "proxytools", 
+            "servertools"
         ], 
         "modules": [
             "actions", 
             "helper", 
+            "submnuctext", 
             "submnuteam"
+        ], 
+        "platformcode": [
+            "platformtools"
         ], 
         "root dir": [
             "dominios", 
             "version"
+        ], 
+        "servers": [
+            "vidoza", 
+            "zures"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "6cc9ee3d0484dc89bf2263d77ff6f4d5"
+    "fix_version": 5, 
+    "hash": "d4251eaa85352a9175df68396248b829"
 }
