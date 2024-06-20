@@ -3,8 +3,14 @@
     "files": {
         "channels": [
             "animefenix", 
+            "animeflv", 
+            "animeflvio", 
+            "animeid", 
             "animejl", 
+            "animeonline", 
+            "animespace", 
             "animeyt", 
+            "areadocumental", 
             "asialive", 
             "cinecalidad", 
             "cliversite", 
@@ -57,6 +63,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 6, 
-    "hash": "04fc61190b141c62926d711552a3f284"
+    "fix_version": 7, 
+    "hash": "4e7fc16aae7b59d7872e43a18e273381"
 }
