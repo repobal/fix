@@ -12,6 +12,7 @@
             "animeyt", 
             "areadocumental", 
             "asialive", 
+            "ciberdocumentales", 
             "cinecalidad", 
             "cliversite", 
             "cuevana3in", 
@@ -23,6 +24,8 @@
             "ennovelas", 
             "ennovelastv", 
             "entrepeliculasyseries", 
+            "frozenlayer", 
+            "genteclic", 
             "grantorrent", 
             "hacktorrent", 
             "henaojara", 
@@ -33,16 +36,20 @@
             "monoschinos", 
             "mundodonghua", 
             "novelas360", 
+            "nuvid", 
             "pelispanda", 
             "poseidonhd2", 
             "ppeliculas", 
             "seriesantiguas", 
             "seriesbiblicas", 
+            "seriesmetro", 
+            "seriesretro", 
             "sololatino", 
             "srnovelas", 
             "tioanime", 
             "tiodonghua", 
-            "vernovelas"
+            "vernovelas", 
+            "zbporn"
         ], 
         "core": [
             "proxytools", 
@@ -50,7 +57,10 @@
         ], 
         "modules": [
             "actions", 
+            "generos", 
+            "groups", 
             "helper", 
+            "mainmenu", 
             "submnuctext", 
             "submnuteam"
         ], 
@@ -66,6 +76,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 8, 
-    "hash": "e1bec44d9e482c45d8b3f6cd89adfa96"
+    "fix_version": 9, 
+    "hash": "da6bccac4000ddc7e5e3a39351a9b7e6"
 }
