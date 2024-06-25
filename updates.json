@@ -13,7 +13,9 @@
             "areadocumental", 
             "asialive", 
             "ciberdocumentales", 
+            "cine24h", 
             "cinecalidad", 
+            "cinematteflix", 
             "cliversite", 
             "cuevana3in", 
             "cuevana3pro", 
@@ -21,6 +23,7 @@
             "divxtotal", 
             "dontorrents", 
             "doramasyt", 
+            "elifilms", 
             "ennovelas", 
             "ennovelastv", 
             "entrepeliculasyseries", 
@@ -32,12 +35,17 @@
             "jkanime", 
             "kiriasian", 
             "latanime", 
+            "legalmentegratis", 
+            "mega1link", 
             "mejortorrentapp", 
             "monoschinos", 
             "mundodonghua", 
             "novelas360", 
             "nuvid", 
+            "pelis28re", 
+            "pelismaraton", 
             "pelispanda", 
+            "playdede", 
             "poseidonhd2", 
             "ppeliculas", 
             "seriesantiguas", 
@@ -62,7 +70,8 @@
             "helper", 
             "mainmenu", 
             "submnuctext", 
-            "submnuteam"
+            "submnuteam", 
+            "tester"
         ], 
         "platformcode": [
             "platformtools"
@@ -76,6 +85,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 9, 
-    "hash": "da6bccac4000ddc7e5e3a39351a9b7e6"
+    "fix_version": 10, 
+    "hash": "22b28a27d870f273e7108162385e9a72"
 }
