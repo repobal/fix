@@ -6,12 +6,18 @@
             "dontorrents", 
             "dontorrentsin", 
             "hdfull", 
+            "kiriasian", 
             "mejortorrentapp", 
+            "novelastop", 
             "nuvid", 
             "ppeliculas"
         ], 
+        "core": [
+            "servertools"
+        ], 
         "modules": [
             "domains", 
+            "filters", 
             "helper", 
             "proxysearch", 
             "submnuteam", 
@@ -23,8 +29,17 @@
         "root dir": [
             "dominios", 
             "version"
+        ], 
+        "servers": [
+            "clicknupload", 
+            "doodstream", 
+            "fastream", 
+            "mega", 
+            "mixdrop", 
+            "pixeldrain", 
+            "uqload"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "3ae3d568f0aa0ce6e5dcefeb998b24fa"
+    "fix_version": 2, 
+    "hash": "ca016228a8f68a36b6ed8174d0241c0c"
 }
