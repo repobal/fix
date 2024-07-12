@@ -7,10 +7,13 @@
             "dontorrentsin", 
             "hdfull", 
             "kiriasian", 
+            "megaserie", 
             "mejortorrentapp", 
+            "mundodonghua", 
             "novelastop", 
             "nuvid", 
-            "ppeliculas"
+            "ppeliculas", 
+            "tiodonghua"
         ], 
         "core": [
             "servertools"
@@ -20,11 +23,15 @@
             "filters", 
             "helper", 
             "proxysearch", 
+            "submnuctext", 
             "submnuteam", 
             "tester"
         ], 
         "platformcode": [
             "config"
+        ], 
+        "resources": [
+            "settings"
         ], 
         "root dir": [
             "dominios", 
@@ -37,9 +44,10 @@
             "mega", 
             "mixdrop", 
             "pixeldrain", 
-            "uqload"
+            "uqload", 
+            "various"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "ca016228a8f68a36b6ed8174d0241c0c"
+    "fix_version": 3, 
+    "hash": "70a66ab1a8a5d5b71097c0806837472c"
 }
