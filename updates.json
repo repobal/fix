@@ -5,6 +5,7 @@
             "cuevana3pro", 
             "dontorrents", 
             "dontorrentsin", 
+            "doramasyt", 
             "hdfull", 
             "kiriasian", 
             "megaserie", 
@@ -12,8 +13,11 @@
             "mundodonghua", 
             "novelastop", 
             "nuvid", 
+            "pelisplus", 
+            "playdede", 
             "ppeliculas", 
-            "tiodonghua"
+            "tiodonghua", 
+            "yespornplease"
         ], 
         "core": [
             "servertools"
@@ -28,7 +32,8 @@
             "tester"
         ], 
         "platformcode": [
-            "config"
+            "config", 
+            "platformtools"
         ], 
         "resources": [
             "settings"
@@ -45,9 +50,10 @@
             "mixdrop", 
             "pixeldrain", 
             "uqload", 
-            "various"
+            "various", 
+            "zures"
         ]
     }, 
-    "fix_version": 3, 
-    "hash": "70a66ab1a8a5d5b71097c0806837472c"
+    "fix_version": 4, 
+    "hash": "a0cdafb7be5c780845b991105c599990"
 }
