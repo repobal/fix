@@ -6,6 +6,8 @@
             "dontorrents", 
             "dontorrentsin", 
             "doramasyt", 
+            "ennovelastv", 
+            "gnula", 
             "hdfull", 
             "kiriasian", 
             "megaserie", 
@@ -54,6 +56,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "a0cdafb7be5c780845b991105c599990"
+    "fix_version": 5, 
+    "hash": "703f51eea20ea9c5cb41cdaf51e7502c"
 }
