@@ -2,12 +2,14 @@
     "addon_version": "4.0.08", 
     "files": {
         "channels": [
+            "animeclub", 
             "animeonline", 
             "animeyt", 
             "cuevana3pro", 
             "dontorrents", 
             "dontorrentsin", 
             "doramasyt", 
+            "ennovelas", 
             "ennovelastv", 
             "gnula", 
             "hdfull", 
@@ -41,7 +43,9 @@
             "actions", 
             "domains", 
             "filters", 
+            "groups", 
             "helper", 
+            "mainmenu", 
             "proxysearch", 
             "submnuctext", 
             "submnuteam", 
@@ -63,6 +67,7 @@
             "clicknupload", 
             "doodstream", 
             "fastream", 
+            "flashx", 
             "mega", 
             "mixdrop", 
             "pixeldrain", 
@@ -71,6 +76,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 6, 
-    "hash": "99b1ef718be4861b848025478ce60d27"
+    "fix_version": 7, 
+    "hash": "2f05ba37d89a0470f0d6135dd0a0ba3d"
 }
