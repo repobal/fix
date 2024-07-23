@@ -5,11 +5,15 @@
             "animeclub", 
             "animeonline", 
             "animeyt", 
+            "cinequinqui", 
             "cuevana3pro", 
             "dontorrents", 
             "dontorrentsin", 
+            "doramasflixsone", 
+            "doramasmp4dev", 
             "doramasyt", 
             "ennovelas", 
+            "ennovelas1", 
             "ennovelastv", 
             "gnula", 
             "hdfull", 
@@ -27,10 +31,15 @@
             "playdede", 
             "porntube", 
             "ppeliculas", 
+            "srnovelas", 
+            "telenovelas", 
             "tiodonghua", 
+            "titsbox", 
+            "tlnovelas", 
             "veronline", 
             "vivud", 
-            "yespornplease"
+            "yespornplease", 
+            "zmovs"
         ], 
         "core": [
             "httptools", 
@@ -76,6 +85,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 7, 
-    "hash": "2f05ba37d89a0470f0d6135dd0a0ba3d"
+    "fix_version": 8, 
+    "hash": "7f81708e841e8c2da5f90a060187c803"
 }
