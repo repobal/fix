@@ -1,4 +1,31 @@
 {
     "addon_version": "4.0.09", 
-    "hash": "cf5fc3ab9ca91ced075067114ea0f348"
+    "files": {
+        "channels": [
+            "cuevana3pro", 
+            "dontorrents", 
+            "tiodonghua"
+        ], 
+        "core": [
+            "servertools"
+        ], 
+        "modules": [
+            "submnuteam"
+        ], 
+        "platformcode": [
+            "platformtools"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ], 
+        "servers": [
+            "dailymotion", 
+            "fastream", 
+            "mega", 
+            "various"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "3f89317c3e71f397916c2f5e423f9786"
 }
