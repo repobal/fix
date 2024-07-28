@@ -2,14 +2,19 @@
     "addon_version": "4.0.09", 
     "files": {
         "channels": [
+            "animeid", 
+            "animeyt", 
             "cuevana3pro", 
             "dontorrents", 
+            "monoschinos", 
             "tiodonghua"
         ], 
         "core": [
             "servertools"
         ], 
         "modules": [
+            "helper", 
+            "submnuctext", 
             "submnuteam"
         ], 
         "platformcode": [
@@ -26,6 +31,6 @@
             "various"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "3f89317c3e71f397916c2f5e423f9786"
+    "fix_version": 2, 
+    "hash": "21daa3fde35e1d6c7cc832f6e84d61af"
 }
