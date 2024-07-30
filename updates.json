@@ -6,7 +6,10 @@
             "animeyt", 
             "cuevana3pro", 
             "dontorrents", 
+            "gnula24", 
+            "kissasian", 
             "monoschinos", 
+            "pelisgratishd", 
             "tiodonghua"
         ], 
         "core": [
@@ -15,7 +18,8 @@
         "modules": [
             "helper", 
             "submnuctext", 
-            "submnuteam"
+            "submnuteam", 
+            "tester"
         ], 
         "platformcode": [
             "platformtools"
@@ -31,6 +35,6 @@
             "various"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "21daa3fde35e1d6c7cc832f6e84d61af"
+    "fix_version": 3, 
+    "hash": "a34c839afae9b35f5a443470b3109997"
 }
