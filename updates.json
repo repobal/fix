@@ -7,15 +7,27 @@
             "cuevana3pro", 
             "dontorrents", 
             "gnula24", 
+            "hdfull", 
             "kissasian", 
+            "latanime", 
             "monoschinos", 
+            "nextdede", 
+            "novelastop", 
             "pelisgratishd", 
-            "tiodonghua"
+            "pelisplushdnz", 
+            "playdede", 
+            "tiodonghua", 
+            "titsbox", 
+            "vivud", 
+            "zmovs"
         ], 
         "core": [
+            "httptools", 
+            "requeststools", 
             "servertools"
         ], 
         "modules": [
+            "actions", 
             "helper", 
             "submnuctext", 
             "submnuteam", 
@@ -32,9 +44,10 @@
             "dailymotion", 
             "fastream", 
             "mega", 
-            "various"
+            "various", 
+            "vidmoly"
         ]
     }, 
-    "fix_version": 3, 
-    "hash": "a34c839afae9b35f5a443470b3109997"
+    "fix_version": 4, 
+    "hash": "cca848d73898529ebcb8efa60ffae1ed"
 }
