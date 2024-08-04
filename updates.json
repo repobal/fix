@@ -7,15 +7,18 @@
             "cuevana3pro", 
             "dontorrents", 
             "gnula24", 
+            "gnula24h", 
             "hdfull", 
             "kissasian", 
             "latanime", 
             "monoschinos", 
             "nextdede", 
             "novelastop", 
+            "onlinetv", 
             "pelisgratishd", 
             "pelisplushdnz", 
             "playdede", 
+            "ppeliculas", 
             "tiodonghua", 
             "titsbox", 
             "vivud", 
@@ -28,7 +31,9 @@
         ], 
         "modules": [
             "actions", 
+            "domains", 
             "helper", 
+            "proxysearch", 
             "submnuctext", 
             "submnuteam", 
             "tester"
@@ -48,6 +53,6 @@
             "vidmoly"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "cca848d73898529ebcb8efa60ffae1ed"
+    "fix_version": 5, 
+    "hash": "5a2ca63d3da2ca2a68215edfec5afacf"
 }
