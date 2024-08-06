@@ -4,19 +4,23 @@
         "channels": [
             "animeid", 
             "animeyt", 
+            "cinekinki", 
             "cuevana3pro", 
+            "documaniatv", 
             "dontorrents", 
             "gnula24", 
             "gnula24h", 
             "hdfull", 
             "kissasian", 
             "latanime", 
+            "mega1link", 
             "monoschinos", 
             "nextdede", 
             "novelastop", 
             "onlinetv", 
             "pelisgratishd", 
             "pelisplushdnz", 
+            "pgratishd", 
             "playdede", 
             "ppeliculas", 
             "tiodonghua", 
@@ -26,12 +30,14 @@
         ], 
         "core": [
             "httptools", 
+            "proxytools", 
             "requeststools", 
             "servertools"
         ], 
         "modules": [
             "actions", 
             "domains", 
+            "generos", 
             "helper", 
             "proxysearch", 
             "submnuctext", 
@@ -53,6 +59,6 @@
             "vidmoly"
         ]
     }, 
-    "fix_version": 5, 
-    "hash": "5a2ca63d3da2ca2a68215edfec5afacf"
+    "fix_version": 6, 
+    "hash": "9f35e47cf627d38e893d19947ba0f7be"
 }
