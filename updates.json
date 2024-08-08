@@ -18,6 +18,7 @@
             "nextdede", 
             "novelastop", 
             "onlinetv", 
+            "pelisforte", 
             "pelisgratishd", 
             "pelisplushdnz", 
             "pgratishd", 
@@ -55,10 +56,11 @@
             "dailymotion", 
             "fastream", 
             "mega", 
+            "uqload", 
             "various", 
             "vidmoly"
         ]
     }, 
-    "fix_version": 6, 
-    "hash": "9f35e47cf627d38e893d19947ba0f7be"
+    "fix_version": 7, 
+    "hash": "fe088b32a2071abc356479d0ebd4e647"
 }
