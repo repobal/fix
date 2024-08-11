@@ -11,9 +11,11 @@
             "animeyt", 
             "asianload", 
             "cinekinki", 
+            "cinequinqui", 
             "cuevana3pro", 
             "documaniatv", 
             "dontorrents", 
+            "dontorrentsin", 
             "doramasflixsone", 
             "doramasmp4dev", 
             "doramasyt", 
@@ -29,6 +31,7 @@
             "kissasian", 
             "latanime", 
             "mega1link", 
+            "mejortorrentapp", 
             "monoschinos", 
             "nextdede", 
             "novelastop", 
@@ -78,6 +81,6 @@
             "vidmoly"
         ]
     }, 
-    "fix_version": 8, 
-    "hash": "ede548c130f57e1b851d2cc33c764877"
+    "fix_version": 9, 
+    "hash": "daf8140f2460ac4300065adedc77d6f1"
 }
