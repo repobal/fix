@@ -20,7 +20,11 @@
             "doramasmp4dev", 
             "doramasyt", 
             "doramedplaylat", 
+            "ennovelas", 
+            "ennovelas1", 
+            "estrenoscinesaa", 
             "estrenosdoramas", 
+            "estrenosdoramases", 
             "frozenlayer", 
             "gnula24", 
             "gnula24h", 
@@ -43,6 +47,7 @@
             "pgratishd", 
             "playdede", 
             "ppeliculas", 
+            "seriesantiguas", 
             "tioanime", 
             "tiodonghua", 
             "titsbox", 
@@ -76,11 +81,13 @@
             "dailymotion", 
             "fastream", 
             "mega", 
+            "streamtape", 
             "uqload", 
             "various", 
-            "vidmoly"
+            "vidmoly", 
+            "voe"
         ]
     }, 
-    "fix_version": 9, 
-    "hash": "daf8140f2460ac4300065adedc77d6f1"
+    "fix_version": 10, 
+    "hash": "38bb11bbb52985d6caee49f18ea3b9a0"
 }
