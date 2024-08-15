@@ -31,14 +31,17 @@
             "gnula24", 
             "gnula24h", 
             "hdfull", 
+            "hdfullse", 
             "henaojara", 
             "jkanime", 
             "kiriasian", 
             "kissasian", 
             "latanime", 
             "mega1link", 
+            "megaserie", 
             "mejortorrentapp", 
             "monoschinos", 
+            "mundodonghua", 
             "nextdede", 
             "novelastop", 
             "onlinetv", 
@@ -99,6 +102,6 @@
             "voe"
         ]
     }, 
-    "fix_version": 11, 
-    "hash": "2194a00b1a5fb1814ddabba389fe8fc0"
+    "fix_version": 12, 
+    "hash": "3d786c298e656e53094da7451322e466"
 }
