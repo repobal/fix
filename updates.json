@@ -23,6 +23,7 @@
             "doramasflixsone", 
             "doramasmp4dev", 
             "doramasqueen", 
+            "doramasqueenin", 
             "doramasyt", 
             "doramedplaylat", 
             "ennovelas", 
@@ -33,6 +34,7 @@
             "estrenosdoramas", 
             "estrenosdoramases", 
             "frozenlayer", 
+            "gnula", 
             "gnula24", 
             "gnula24h", 
             "hdfull", 
@@ -51,6 +53,7 @@
             "novelastop", 
             "onlinetv", 
             "pandrama", 
+            "peliplayhd", 
             "pelisforte", 
             "pelisgratishd", 
             "pelismaraton", 
@@ -105,9 +108,12 @@
             "uqload", 
             "various", 
             "vidmoly", 
-            "voe"
+            "voe", 
+            "waaw", 
+            "wolfstream", 
+            "zures"
         ]
     }, 
-    "fix_version": 13, 
-    "hash": "5bdef037db6a05cb517b701ea7d4db58"
+    "fix_version": 14, 
+    "hash": "1b470c70ce6a8f3d8fbb7380c092ff12"
 }
