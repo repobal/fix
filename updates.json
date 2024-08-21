@@ -28,6 +28,7 @@
             "doramedplaylat", 
             "ennovelas", 
             "ennovelas1", 
+            "ennovelaspl", 
             "ennovelastv", 
             "ennovelasws", 
             "estrenoscinesaa", 
@@ -58,10 +59,12 @@
             "pelisgratishd", 
             "pelismaraton", 
             "pelisplushd", 
+            "pelisplushdlat", 
             "pelisplushdnz", 
             "pgratishd", 
             "playdede", 
             "ppeliculas", 
+            "repelisre", 
             "series24", 
             "seriesantiguas", 
             "seriesonline", 
@@ -72,6 +75,7 @@
             "tiodonghua", 
             "titsbox", 
             "tlnovelas", 
+            "tusnovelas", 
             "veronline", 
             "verserieshd", 
             "vivud", 
@@ -80,6 +84,7 @@
         "core": [
             "httptools", 
             "proxytools", 
+            "proxytoolsz", 
             "requeststools", 
             "servertools"
         ], 
@@ -102,11 +107,17 @@
         ], 
         "servers": [
             "dailymotion", 
+            "evoload", 
             "fastream", 
+            "jawcloud", 
             "mega", 
+            "streamhide", 
             "streamtape", 
             "uqload", 
             "various", 
+            "videobb", 
+            "videobin", 
+            "videossh", 
             "vidmoly", 
             "voe", 
             "waaw", 
@@ -114,6 +125,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 14, 
-    "hash": "1b470c70ce6a8f3d8fbb7380c092ff12"
+    "fix_version": 15, 
+    "hash": "8d79d91de4c6d9735540f0afaf814dff"
 }
