@@ -2,17 +2,37 @@
     "addon_version": "4.0.10", 
     "files": {
         "channels": [
+            "cuevana3pro", 
+            "doramasflix", 
             "doramasflixsone", 
             "ennovelaspl", 
             "ennovelastv", 
             "ennovelasws", 
+            "novelas360", 
+            "pandramaio", 
+            "peliplayhd", 
+            "pelis28re", 
+            "ppeliculas", 
+            "redhard", 
             "series24", 
+            "sololatino", 
             "tiodonghua", 
             "tusnovelas", 
-            "yaskeorg"
+            "veronline", 
+            "yaskeorg", 
+            "zonaleros"
         ], 
         "core": [
+            "proxytools", 
             "servertools"
+        ], 
+        "modules": [
+            "actions", 
+            "helper", 
+            "search", 
+            "submnuteam", 
+            "tester", 
+            "tmdblists"
         ], 
         "platformcode": [
             "platformtools"
@@ -22,9 +42,10 @@
             "version"
         ], 
         "servers": [
+            "various", 
             "zures"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "65fa59375ee930ccc590c6d4bfe7ec88"
+    "fix_version": 2, 
+    "hash": "ba585807eb7236b8df93c0761f36ee59"
 }
