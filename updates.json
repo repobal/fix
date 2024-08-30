@@ -2,28 +2,54 @@
     "addon_version": "4.0.10", 
     "files": {
         "channels": [
+            "allpeliculasse", 
+            "areshd", 
+            "bloghorror", 
+            "cine24h", 
+            "cinecalidad", 
+            "cinecalidadla", 
+            "cinecalidadlol", 
+            "cuevana3in", 
             "cuevana3pro", 
+            "cuevana3video", 
+            "documentaryheaven", 
+            "documentarystorm", 
             "doramasflix", 
             "doramasflixsone", 
+            "doramasqueenin", 
+            "elifilms", 
             "ennovelaspl", 
             "ennovelastv", 
             "ennovelasws", 
+            "hentaijl", 
+            "kiriasian", 
+            "mega1link", 
             "novelas360", 
             "pandramaio", 
+            "peliculaspro", 
             "peliplayhd", 
             "pelis28re", 
+            "pelisplus", 
+            "pelisplushd", 
+            "pelisplushdlat", 
+            "pelisplushdnz", 
+            "plushd", 
             "ppeliculas", 
             "redhard", 
             "series24", 
+            "seriesretro", 
             "sololatino", 
             "tiodonghua", 
+            "topdocumentaryfilms", 
             "tusnovelas", 
             "veronline", 
             "yaskeorg", 
             "zonaleros"
         ], 
         "core": [
+            "httptools", 
             "proxytools", 
+            "requeststools", 
             "servertools"
         ], 
         "modules": [
@@ -37,15 +63,20 @@
         "platformcode": [
             "platformtools"
         ], 
+        "resources": [
+            "settings"
+        ], 
         "root dir": [
             "dominios", 
             "version"
         ], 
         "servers": [
+            "dailymotion", 
+            "streamvid", 
             "various", 
             "zures"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "ba585807eb7236b8df93c0761f36ee59"
+    "fix_version": 3, 
+    "hash": "0ca2b17b105f69de3aa57c4638e0034e"
 }
