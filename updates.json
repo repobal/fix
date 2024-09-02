@@ -3,6 +3,7 @@
     "files": {
         "channels": [
             "allpeliculasse", 
+            "animeonline", 
             "areshd", 
             "bloghorror", 
             "cine24h", 
@@ -24,6 +25,7 @@
             "ennovelasws", 
             "gnula24", 
             "gnula24h", 
+            "henaojara", 
             "hentaijl", 
             "kiriasian", 
             "mega1link", 
@@ -82,12 +84,13 @@
             "version"
         ], 
         "servers": [
+            "clicknupload", 
             "dailymotion", 
             "streamvid", 
             "various", 
             "zures"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "11132c58be904d8d7fd39e724aa86ae4"
+    "fix_version": 5, 
+    "hash": "c35320def7a5e87cb9a8e6bc83a1d3f8"
 }
