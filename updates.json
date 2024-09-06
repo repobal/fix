@@ -3,6 +3,7 @@
     "files": {
         "channels": [
             "allpeliculasse", 
+            "animefenix", 
             "animeonline", 
             "areshd", 
             "bloghorror", 
@@ -16,9 +17,12 @@
             "cuevana3video", 
             "documentaryheaven", 
             "documentarystorm", 
+            "dontorrents", 
             "doramasflix", 
             "doramasflixsone", 
+            "doramasmp4dev", 
             "doramasqueenin", 
+            "doramasyt", 
             "elifilms", 
             "ennovelaspl", 
             "ennovelastv", 
@@ -30,7 +34,9 @@
             "kiriasian", 
             "mega1link", 
             "megaserie", 
+            "mejortorrentapp", 
             "novelas360", 
+            "nuvid", 
             "pandramaio", 
             "peliculaspro", 
             "peliplayhd", 
@@ -44,15 +50,19 @@
             "plushd", 
             "ppeliculas", 
             "redhard", 
+            "seodiv", 
             "series24", 
             "seriesmetro", 
             "seriesplus", 
             "seriesretro", 
             "sololatino", 
+            "star", 
             "tiodonghua", 
             "todoseries", 
             "topdocumentaryfilms", 
+            "tuseries", 
             "tusnovelas", 
+            "uninovelas", 
             "veronline", 
             "vimeo", 
             "yaskeorg", 
@@ -86,11 +96,12 @@
         "servers": [
             "clicknupload", 
             "dailymotion", 
+            "megaup", 
             "streamvid", 
             "various", 
             "zures"
         ]
     }, 
-    "fix_version": 5, 
-    "hash": "c35320def7a5e87cb9a8e6bc83a1d3f8"
+    "fix_version": 6, 
+    "hash": "59e6afc73e2d5599c7dc5d363e00a364"
 }
