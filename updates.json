@@ -11,13 +11,17 @@
             "cinecalidad", 
             "cinecalidadla", 
             "cinecalidadlol", 
+            "cinekinki", 
+            "cinematteflix", 
             "cliversite", 
             "cuevana3in", 
             "cuevana3pro", 
             "cuevana3video", 
+            "detodo", 
             "documentaryheaven", 
             "documentarystorm", 
             "dontorrents", 
+            "dontorrentsin", 
             "doramasflix", 
             "doramasflixsone", 
             "doramasmp4dev", 
@@ -29,6 +33,7 @@
             "ennovelasws", 
             "gnula24", 
             "gnula24h", 
+            "hdfull", 
             "henaojara", 
             "hentaijl", 
             "kiriasian", 
@@ -66,6 +71,7 @@
             "veronline", 
             "vimeo", 
             "yaskeorg", 
+            "zeroanime", 
             "zonaleros"
         ], 
         "core": [
@@ -76,8 +82,11 @@
         ], 
         "modules": [
             "actions", 
+            "domains", 
+            "downloads", 
             "generos", 
             "helper", 
+            "proxysearch", 
             "search", 
             "submnuteam", 
             "tester", 
@@ -102,6 +111,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 6, 
-    "hash": "59e6afc73e2d5599c7dc5d363e00a364"
+    "fix_version": 7, 
+    "hash": "d4a8a9b7f4fad85b0c75706c14c6ffa5"
 }
