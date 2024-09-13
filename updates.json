@@ -28,15 +28,18 @@
             "doramasqueenin", 
             "doramasyt", 
             "elifilms", 
+            "ennovelas", 
             "ennovelaspl", 
             "ennovelastv", 
             "ennovelasws", 
+            "enovelasuno", 
             "gnula24", 
             "gnula24h", 
             "hdfull", 
             "henaojara", 
             "hentaijl", 
             "kiriasian", 
+            "masnovelas", 
             "mega1link", 
             "megaserie", 
             "mejortorrentapp", 
@@ -52,9 +55,11 @@
             "pelisplushdlat", 
             "pelisplushdnz", 
             "pgratishd", 
+            "playplus", 
             "plushd", 
             "ppeliculas", 
             "redhard", 
+            "repelisre", 
             "seodiv", 
             "series24", 
             "seriesmetro", 
@@ -63,8 +68,10 @@
             "sololatino", 
             "star", 
             "tiodonghua", 
+            "todopeliculas", 
             "todoseries", 
             "topdocumentaryfilms", 
+            "tupelihd", 
             "tuseries", 
             "tusnovelas", 
             "uninovelas", 
@@ -88,9 +95,11 @@
             "helper", 
             "proxysearch", 
             "search", 
+            "submnuctext", 
             "submnuteam", 
             "tester", 
-            "tmdblists"
+            "tmdblists", 
+            "tracking"
         ], 
         "platformcode": [
             "platformtools"
@@ -111,6 +120,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 7, 
-    "hash": "d4a8a9b7f4fad85b0c75706c14c6ffa5"
+    "fix_version": 8, 
+    "hash": "7c99ac7c26a3a65bcd6cd188b11edcbc"
 }
