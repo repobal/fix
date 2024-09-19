@@ -67,6 +67,7 @@
             "seriesretro", 
             "sololatino", 
             "star", 
+            "tioanime", 
             "tiodonghua", 
             "todopeliculas", 
             "todoseries", 
@@ -84,6 +85,7 @@
         "core": [
             "httptools", 
             "proxytools", 
+            "proxytoolsz", 
             "requeststools", 
             "servertools"
         ], 
@@ -120,6 +122,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 8, 
-    "hash": "7c99ac7c26a3a65bcd6cd188b11edcbc"
+    "fix_version": 9, 
+    "hash": "abdf59f26937a02af7b2d5061b030575"
 }
