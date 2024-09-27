@@ -1,4 +1,46 @@
 {
     "addon_version": "4.0.11", 
-    "hash": "4192a3b50a9bdb887cbeb36e7490f50f"
+    "files": {
+        "channels": [
+            "animeclub", 
+            "animefenix", 
+            "animeflv", 
+            "animeid", 
+            "animejl", 
+            "animeyt", 
+            "areshd", 
+            "creyente", 
+            "cuevana3in", 
+            "cuevana3video", 
+            "dangotoons", 
+            "divxatope", 
+            "doramasmp4dev", 
+            "doramason", 
+            "latanime", 
+            "masnovelas", 
+            "mejortorrentapp", 
+            "mejortorrentnz", 
+            "monoschinos", 
+            "mundodonghua", 
+            "peliculaspro", 
+            "playdede", 
+            "poseidonhd2", 
+            "subtorrents", 
+            "tiodonghua", 
+            "tupelihd", 
+            "zonaleros"
+        ], 
+        "modules": [
+            "actions", 
+            "domains", 
+            "helper", 
+            "submnuctext"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "5403c92790150ff42731b59a2b85cdc1"
 }
