@@ -5,11 +5,14 @@
             "animeclub", 
             "animefenix", 
             "animeflv", 
+            "animeflvio", 
             "animeid", 
             "animejl", 
+            "animeonline", 
             "animeyt", 
             "areshd", 
             "asialive", 
+            "asianload", 
             "cinecalidad", 
             "cinecalidadla", 
             "cinecalidadlol", 
@@ -25,8 +28,12 @@
             "divxtotal", 
             "dontorrents", 
             "dontorrentsin", 
+            "doramasflixsone", 
             "doramasmp4dev", 
             "doramason", 
+            "doramasqueen", 
+            "doramasqueenin", 
+            "doramasyt", 
             "elitedivx", 
             "elitetorrent", 
             "elitetorrentnz", 
@@ -34,9 +41,12 @@
             "ennovelastv", 
             "ennovelasws", 
             "eztv", 
+            "frozenlayer", 
             "hdfull", 
             "hdfullse", 
+            "henaojara", 
             "homecine", 
+            "jkanime", 
             "lacartoons", 
             "latanime", 
             "lilatorrent", 
@@ -49,9 +59,11 @@
             "naranjatorrent", 
             "novelas360", 
             "onlinetv", 
+            "pandrama", 
             "pediatorrent", 
             "peliculaspro", 
             "peliplusuno", 
+            "pelishd", 
             "pelisplus", 
             "pelisplushd", 
             "pelisplushdlat", 
@@ -68,6 +80,7 @@
             "seriesonline", 
             "seriesplus", 
             "seriestv", 
+            "sigloxx", 
             "srnovelas", 
             "star", 
             "subtorrents", 
@@ -78,14 +91,20 @@
             "tupelihd", 
             "tuseries", 
             "tusnovelas", 
+            "tvseries", 
             "uninovelas", 
             "verdetorrent", 
+            "vernovelas", 
             "veronline", 
             "verserieshd", 
             "ytstv", 
             "zonaleros"
         ], 
         "core": [
+            "httptools", 
+            "proxytools", 
+            "requeststools", 
+            "servertools", 
             "trackingtools"
         ], 
         "modules": [
@@ -94,16 +113,21 @@
             "filmaffinitylists", 
             "helper", 
             "submnuctext", 
+            "submnuteam", 
             "tracking"
+        ], 
+        "platformcode": [
+            "platformtools"
         ], 
         "root dir": [
             "dominios", 
             "version"
         ], 
         "servers": [
-            "clicknupload"
+            "clicknupload", 
+            "various"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "2697b8583bd0c01cdf0b9a073c8ef0eb"
+    "fix_version": 3, 
+    "hash": "5323313ab8b5a1afc3de99b33186ec7d"
 }
