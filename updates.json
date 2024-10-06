@@ -9,6 +9,7 @@
             "animeid", 
             "animejl", 
             "animeonline", 
+            "animespace", 
             "animeyt", 
             "areshd", 
             "asialive", 
@@ -84,6 +85,7 @@
             "srnovelas", 
             "star", 
             "subtorrents", 
+            "tioanime", 
             "tiodonghua", 
             "tlnovelas", 
             "todotorrents", 
@@ -98,6 +100,7 @@
             "veronline", 
             "verserieshd", 
             "ytstv", 
+            "zeroanime", 
             "zonaleros"
         ], 
         "core": [
@@ -112,6 +115,7 @@
             "domains", 
             "filmaffinitylists", 
             "helper", 
+            "proxysearch", 
             "submnuctext", 
             "submnuteam", 
             "tracking"
@@ -125,9 +129,10 @@
         ], 
         "servers": [
             "clicknupload", 
-            "various"
+            "various", 
+            "zures"
         ]
     }, 
-    "fix_version": 3, 
-    "hash": "5323313ab8b5a1afc3de99b33186ec7d"
+    "fix_version": 4, 
+    "hash": "774c81ec7762452fb04f5d2d2037a003"
 }
