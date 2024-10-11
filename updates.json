@@ -38,6 +38,7 @@
             "doramasqueen", 
             "doramasqueenin", 
             "doramasyt", 
+            "doramedplaylat", 
             "elitedivx", 
             "elitetorrent", 
             "elitetorrentnz", 
@@ -45,6 +46,8 @@
             "ennovelastv", 
             "ennovelasws", 
             "eporner", 
+            "estrenosdoramas", 
+            "estrenosdoramases", 
             "eztv", 
             "frozenlayer", 
             "gnula24", 
@@ -58,6 +61,8 @@
             "homecine", 
             "jizzbunker", 
             "jkanime", 
+            "kiriasian", 
+            "kissasian", 
             "lacartoons", 
             "latanime", 
             "lilatorrent", 
@@ -96,6 +101,7 @@
             "redtube", 
             "reinventorrent", 
             "rojotorrent", 
+            "seriesbanana", 
             "seriesbiblicas", 
             "seriesonline", 
             "seriesplus", 
@@ -156,10 +162,11 @@
         ], 
         "servers": [
             "clicknupload", 
+            "fastream", 
             "various", 
             "zures"
         ]
     }, 
-    "fix_version": 5, 
-    "hash": "9b97673b0e05a5c514996e56121734e0"
+    "fix_version": 6, 
+    "hash": "843c386459ad525bbd59443f42fb264f"
 }
