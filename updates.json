@@ -184,6 +184,7 @@
             "actions", 
             "domains", 
             "filmaffinitylists", 
+            "generos", 
             "helper", 
             "proxysearch", 
             "submnuctext", 
@@ -206,6 +207,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 7, 
-    "hash": "6c69af28c5e5a7375b9b40638e7f653a"
+    "fix_version": 8, 
+    "hash": "9f0c874b96cb6b963fc24586858cb9d6"
 }
