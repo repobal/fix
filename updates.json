@@ -123,6 +123,7 @@
             "redhard", 
             "redtube", 
             "reinventorrent", 
+            "repelisre", 
             "retrotv", 
             "rojotorrent", 
             "seodiv", 
@@ -133,6 +134,7 @@
             "serieskao", 
             "serieslan", 
             "seriesmetro", 
+            "seriesmetron", 
             "seriesmovil", 
             "seriesonline", 
             "seriespapayato", 
@@ -165,6 +167,8 @@
             "watchpornfree", 
             "xmfy", 
             "xvideos", 
+            "yts", 
+            "ytsmx", 
             "ytstv", 
             "zbporn", 
             "zeroanime", 
@@ -187,6 +191,7 @@
             "generos", 
             "helper", 
             "proxysearch", 
+            "search", 
             "submnuctext", 
             "submnuteam", 
             "tester", 
@@ -202,11 +207,13 @@
         "servers": [
             "clicknupload", 
             "fastream", 
+            "mixdrop", 
             "tiwi", 
             "various", 
+            "vidmoly", 
             "zures"
         ]
     }, 
-    "fix_version": 8, 
-    "hash": "9f0c874b96cb6b963fc24586858cb9d6"
+    "fix_version": 9, 
+    "hash": "67690634343470c7147e51150250ad48"
 }
