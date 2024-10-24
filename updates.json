@@ -12,6 +12,7 @@
             "animeid", 
             "animejl", 
             "animeonline", 
+            "animesenlatino", 
             "animespace", 
             "animeyt", 
             "area51", 
@@ -23,6 +24,7 @@
             "cinecalidad", 
             "cinecalidadla", 
             "cinecalidadlol", 
+            "cinema", 
             "cliversite", 
             "creyente", 
             "cuevana2", 
@@ -63,6 +65,7 @@
             "hdfull", 
             "hdfullse", 
             "henaojara", 
+            "henaojaran", 
             "hentaiid", 
             "hentaijl", 
             "hentaila", 
@@ -179,6 +182,7 @@
             "proxytools", 
             "requeststools", 
             "servertools", 
+            "tmdb", 
             "trackingtools"
         ], 
         "lib": [
@@ -207,6 +211,7 @@
         "servers": [
             "clicknupload", 
             "fastream", 
+            "mailru", 
             "mixdrop", 
             "tiwi", 
             "various", 
@@ -214,6 +219,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 9, 
-    "hash": "67690634343470c7147e51150250ad48"
+    "fix_version": 10, 
+    "hash": "110f8406003e0b08b03d47fb75a4868e"
 }
