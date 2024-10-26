@@ -191,9 +191,12 @@
         "modules": [
             "actions", 
             "domains", 
+            "downloads", 
             "filmaffinitylists", 
             "generos", 
+            "groups", 
             "helper", 
+            "mainmenu", 
             "proxysearch", 
             "search", 
             "submnuctext", 
@@ -203,6 +206,9 @@
         ], 
         "platformcode": [
             "platformtools"
+        ], 
+        "resources": [
+            "settings"
         ], 
         "root dir": [
             "dominios", 
@@ -214,11 +220,12 @@
             "mailru", 
             "mixdrop", 
             "tiwi", 
+            "uqload", 
             "various", 
             "vidmoly", 
             "zures"
         ]
     }, 
-    "fix_version": 10, 
-    "hash": "110f8406003e0b08b03d47fb75a4868e"
+    "fix_version": 11, 
+    "hash": "ab835e670d66278fe2a6a739a7a0e422"
 }
