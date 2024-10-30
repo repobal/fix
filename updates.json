@@ -150,6 +150,7 @@
             "srnovelas", 
             "star", 
             "subtorrents", 
+            "telenovela", 
             "tioanime", 
             "tiodonghua", 
             "tlnovelas", 
@@ -167,6 +168,7 @@
             "vernovelas", 
             "veronline", 
             "verserieshd", 
+            "vimeo", 
             "watchpornfree", 
             "xmfy", 
             "xvideos", 
@@ -223,9 +225,10 @@
             "uqload", 
             "various", 
             "vidmoly", 
+            "vimeo", 
             "zures"
         ]
     }, 
-    "fix_version": 11, 
-    "hash": "ab835e670d66278fe2a6a739a7a0e422"
+    "fix_version": 12, 
+    "hash": "dd06c6691705e48af17f9951d2594eb7"
 }
