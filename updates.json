@@ -22,6 +22,8 @@
             "cinelibreonline", 
             "cinema", 
             "cinematteflix", 
+            "cineplus", 
+            "cinequinqui", 
             "cliversite", 
             "cuevana2", 
             "cuevana2esp", 
@@ -42,11 +44,15 @@
             "gnula", 
             "gnula24h", 
             "gnulatop", 
+            "grantorrent", 
             "hdfull", 
+            "hdfullse", 
             "henaojara", 
             "henaojaran", 
             "homecine", 
             "jkanime", 
+            "kissasian", 
+            "masnovelas", 
             "mega1link", 
             "megaserie", 
             "mejortorrentapp", 
@@ -57,6 +63,7 @@
             "pediatorrent", 
             "peliculaspro", 
             "peliplayhd", 
+            "pelis24", 
             "pelis28re", 
             "pelisforte", 
             "pelisgratishd", 
@@ -94,7 +101,9 @@
             "srnovelas", 
             "tiodonghua", 
             "tlnovelas", 
+            "todopeliculas", 
             "torrenflix", 
+            "tucineclasico", 
             "tupelihd", 
             "ultrapelis", 
             "zeroanime", 
@@ -102,6 +111,7 @@
         ], 
         "core": [
             "httptools", 
+            "proxytoolsz", 
             "requeststools", 
             "servertools"
         ], 
@@ -142,7 +152,9 @@
             "streamhide", 
             "streamlare", 
             "streamvid", 
+            "supervideo", 
             "uptobox", 
+            "uqload", 
             "userscloud", 
             "various", 
             "videobb", 
@@ -156,6 +168,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "dd0990c698e78e5fb9d1e091c64223fb"
+    "fix_version": 3, 
+    "hash": "596c2deb3fb449451c132f9730eeeb38"
 }
