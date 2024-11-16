@@ -106,6 +106,7 @@
             "tucineclasico", 
             "tupelihd", 
             "ultrapelis", 
+            "xxxdan", 
             "zeroanime", 
             "zonaleros"
         ], 
@@ -168,6 +169,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 3, 
-    "hash": "596c2deb3fb449451c132f9730eeeb38"
+    "fix_version": 4, 
+    "hash": "4ea00bb5c9e199232aee2bb087d26dfb"
 }
