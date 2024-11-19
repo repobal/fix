@@ -3,6 +3,7 @@
     "files": {
         "channels": [
             "allpeliculasse", 
+            "amateurtv", 
             "animeclub", 
             "animefenix", 
             "animeflv", 
@@ -12,6 +13,7 @@
             "areshd", 
             "asialive", 
             "asianload", 
+            "cam4", 
             "cine24h", 
             "cinecalidad", 
             "cinecalidadla", 
@@ -60,6 +62,7 @@
             "mundodonghua", 
             "pandamovies", 
             "papayaseries", 
+            "paradisehill", 
             "pediatorrent", 
             "peliculaspro", 
             "peliplayhd", 
@@ -80,10 +83,13 @@
             "pelisxd", 
             "pgratishd", 
             "playdede", 
+            "playdo", 
             "plushd", 
+            "pornburst", 
             "porntube", 
             "poseidonhd2", 
             "ppeliculas", 
+            "redtube", 
             "retrotv", 
             "series24", 
             "seriesbanana", 
@@ -169,6 +175,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "4ea00bb5c9e199232aee2bb087d26dfb"
+    "fix_version": 5, 
+    "hash": "fb6b75c9ae518aa264fd59e6302d6322"
 }
