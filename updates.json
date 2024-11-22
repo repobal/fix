@@ -105,10 +105,12 @@
             "sigloxx", 
             "sololatino", 
             "srnovelas", 
+            "tgx", 
             "tiodonghua", 
             "tlnovelas", 
             "todopeliculas", 
             "torrenflix", 
+            "torrentgalaxy", 
             "tucineclasico", 
             "tupelihd", 
             "ultrapelis", 
@@ -129,6 +131,8 @@
             "generos", 
             "helper", 
             "proxysearch", 
+            "search", 
+            "submnuctext", 
             "submnuteam", 
             "tester", 
             "tracking"
@@ -175,6 +179,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 5, 
-    "hash": "fb6b75c9ae518aa264fd59e6302d6322"
+    "fix_version": 6, 
+    "hash": "8f9cc75903ccdd3614d1b95aa6c74d0b"
 }
