@@ -7,6 +7,7 @@
             "animeclub", 
             "animefenix", 
             "animeflv", 
+            "animejl", 
             "animesenlatino", 
             "animeyt", 
             "area51", 
@@ -46,6 +47,7 @@
             "entrepeliculasyseries", 
             "estrenoscinesaa", 
             "estrenosdoramas", 
+            "flixcorn", 
             "gnula", 
             "gnula24h", 
             "gnulatop", 
@@ -63,6 +65,7 @@
             "mega1link", 
             "megaserie", 
             "mejortorrentapp", 
+            "mejortorrentnz", 
             "monoschinos", 
             "mundodonghua", 
             "naranjatorrent", 
@@ -199,6 +202,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 7, 
-    "hash": "0fbde7e8a7a62bc34d1cd6c0a6ff8225"
+    "fix_version": 8, 
+    "hash": "a85c0b27a208587345a59272bf0a22a0"
 }
