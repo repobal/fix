@@ -148,6 +148,7 @@
         "modules": [
             "actions", 
             "domains", 
+            "filmaffinitylists", 
             "filters", 
             "generos", 
             "groups", 
@@ -202,6 +203,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 9, 
-    "hash": "01b2ca7fa29e354381c0ebc238dd6e91"
+    "fix_version": 10, 
+    "hash": "88ac8e89405792bb598bc99ddd96fe33"
 }
