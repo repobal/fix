@@ -35,15 +35,18 @@
             "cuevana3video", 
             "dangotoons", 
             "divxatope", 
+            "divxtotal", 
             "dontorrents", 
             "dontorrentsin", 
             "doramasmp4dev", 
+            "doramason", 
             "doramasyt", 
             "elifilms", 
             "elitedivx", 
             "elitetorrent", 
             "elitetorrentnz", 
             "ennovelastv", 
+            "ennovelasws", 
             "entrepeliculasyseries", 
             "estrenoscinesaa", 
             "estrenosdoramas", 
@@ -125,6 +128,7 @@
             "tiodonghua", 
             "tlnovelas", 
             "todopeliculas", 
+            "todoseries", 
             "todotorrents", 
             "tomadivx", 
             "torrenflix", 
@@ -159,6 +163,7 @@
             "submnuctext", 
             "submnuteam", 
             "tester", 
+            "tmdblists", 
             "tracking"
         ], 
         "platformcode": [
@@ -168,6 +173,7 @@
             "settings"
         ], 
         "root dir": [
+            "changelog", 
             "dominios", 
             "version"
         ], 
@@ -203,6 +209,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 10, 
-    "hash": "88ac8e89405792bb598bc99ddd96fe33"
+    "fix_version": 11, 
+    "hash": "b4205f2393d4341fc81d178b2a65bc02"
 }
