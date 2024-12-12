@@ -1,4 +1,42 @@
 {
     "addon_version": "4.0.13", 
-    "hash": "baead24903885bef07e6eed1d90d1ec0"
+    "files": {
+        "channels": [
+            "animeonline", 
+            "cinecalidadla", 
+            "cinecalidadlol", 
+            "cineplay", 
+            "cuevana2", 
+            "cuevana3pro", 
+            "entrepeliculasyseries", 
+            "gnula24h", 
+            "henaojaran", 
+            "pelis28re", 
+            "pelisgratishd", 
+            "pelisplayhd", 
+            "pelisplushdnz", 
+            "pgratishd", 
+            "serieskao", 
+            "sololatino"
+        ], 
+        "core": [
+            "httptools", 
+            "requeststools"
+        ], 
+        "modules": [
+            "actions", 
+            "domains", 
+            "helper", 
+            "submnuctext"
+        ], 
+        "resources": [
+            "settings"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "649948446da8e8ce54bda2595e436267"
 }
