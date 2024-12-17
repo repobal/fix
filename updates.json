@@ -7,17 +7,35 @@
             "cinecalidadlol", 
             "cineplay", 
             "cuevana2", 
+            "cuevana3in", 
             "cuevana3pro", 
+            "cuevana3re", 
+            "dontorrents", 
+            "elitetorrent", 
+            "elitetorrentnz", 
             "entrepeliculasyseries", 
+            "eztv", 
+            "frozenlayer", 
             "gnula24h", 
             "henaojaran", 
+            "mega1link", 
+            "papayaseries", 
             "pelis28re", 
             "pelisgratishd", 
             "pelisplayhd", 
             "pelisplushdnz", 
             "pgratishd", 
+            "ppeliculas", 
+            "rarbg", 
+            "repelisre", 
             "serieskao", 
-            "sololatino"
+            "sololatino", 
+            "t1337x", 
+            "tgx", 
+            "torrentgalaxy", 
+            "yts", 
+            "ytsmx", 
+            "ytstv"
         ], 
         "core": [
             "httptools", 
@@ -26,8 +44,13 @@
         "modules": [
             "actions", 
             "domains", 
+            "generos", 
             "helper", 
-            "submnuctext"
+            "submnuctext", 
+            "tester"
+        ], 
+        "platformcode": [
+            "platformtools"
         ], 
         "resources": [
             "settings"
@@ -37,6 +60,6 @@
             "version"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "649948446da8e8ce54bda2595e436267"
+    "fix_version": 2, 
+    "hash": "a83ed127512dd45fa7b53a89d986e3f3"
 }
