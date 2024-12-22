@@ -15,6 +15,7 @@
             "cuevana3re", 
             "cumlouder", 
             "dontorrents", 
+            "doramasflixsone", 
             "doramasqueenin", 
             "elitetorrent", 
             "elitetorrentnz", 
@@ -42,11 +43,14 @@
             "pelisplayhd", 
             "pelisplushdnz", 
             "pgratishd", 
+            "playdede", 
             "pornburst", 
             "ppeliculas", 
             "rarbg", 
             "repelisre", 
             "serieskao", 
+            "serieslan", 
+            "seriesmetron", 
             "serviporno", 
             "sololatino", 
             "star", 
@@ -72,6 +76,7 @@
             "domains", 
             "generos", 
             "helper", 
+            "proxysearch", 
             "submnuctext", 
             "tester"
         ], 
@@ -86,13 +91,15 @@
             "version"
         ], 
         "servers": [
+            "clicknupload", 
             "doodstream", 
             "gofile", 
             "megaup", 
             "mixdrop", 
-            "various"
+            "various", 
+            "vimeo"
         ]
     }, 
-    "fix_version": 3, 
-    "hash": "d95456b68778e6f54bfbfd4a38c70a3f"
+    "fix_version": 4, 
+    "hash": "f7569d59a01e2b41642bf39d68553e6d"
 }
