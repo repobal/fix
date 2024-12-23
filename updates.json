@@ -27,6 +27,7 @@
             "frozenlayer", 
             "gnula24", 
             "gnula24h", 
+            "hdfullse", 
             "henaojaran", 
             "hentaijl", 
             "hentaila", 
@@ -41,6 +42,7 @@
             "pelis28re", 
             "pelisgratishd", 
             "pelisplayhd", 
+            "pelisplushdlat", 
             "pelisplushdnz", 
             "pgratishd", 
             "playdede", 
@@ -48,6 +50,7 @@
             "ppeliculas", 
             "rarbg", 
             "repelisre", 
+            "series24", 
             "serieskao", 
             "serieslan", 
             "seriesmetron", 
@@ -100,6 +103,6 @@
             "vimeo"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "f7569d59a01e2b41642bf39d68553e6d"
+    "fix_version": 5, 
+    "hash": "4fff572f3c347f838ab2d6adee7437ac"
 }
