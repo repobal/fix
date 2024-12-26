@@ -24,6 +24,7 @@
             "entrepeliculasyseries", 
             "estrenosdoramases", 
             "eztv", 
+            "flixcorn", 
             "frozenlayer", 
             "gnula24", 
             "gnula24h", 
@@ -38,6 +39,7 @@
             "monoschinos", 
             "netnovelas", 
             "pandamovies", 
+            "pandrama", 
             "papayaseries", 
             "pelis28re", 
             "pelisgratishd", 
@@ -46,7 +48,9 @@
             "pelisplushdnz", 
             "pgratishd", 
             "playdede", 
+            "playdo", 
             "pornburst", 
+            "pornhub", 
             "ppeliculas", 
             "rarbg", 
             "repelisre", 
@@ -62,17 +66,25 @@
             "tlnovelas", 
             "torrentgalaxy", 
             "tryboobs", 
+            "tubehentai", 
+            "uphd", 
+            "vivud", 
             "watchpornfree", 
             "xmfy", 
+            "xvideos", 
             "xxxdan", 
             "yespornplease", 
             "yts", 
             "ytsmx", 
-            "ytstv"
+            "ytstv", 
+            "zbporn", 
+            "zmovs"
         ], 
         "core": [
             "httptools", 
-            "requeststools"
+            "proxytools", 
+            "requeststools", 
+            "servertools"
         ], 
         "modules": [
             "actions", 
@@ -81,6 +93,7 @@
             "helper", 
             "proxysearch", 
             "submnuctext", 
+            "submnuteam", 
             "tester"
         ], 
         "platformcode": [
@@ -100,9 +113,10 @@
             "megaup", 
             "mixdrop", 
             "various", 
-            "vimeo"
+            "vimeo", 
+            "zures"
         ]
     }, 
-    "fix_version": 5, 
-    "hash": "4fff572f3c347f838ab2d6adee7437ac"
+    "fix_version": 6, 
+    "hash": "4290b3d8c90f61ed6c3a5617c1158166"
 }
