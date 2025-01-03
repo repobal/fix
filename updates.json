@@ -28,6 +28,8 @@
             "detodo", 
             "divxatope", 
             "divxtotal", 
+            "documentaryheaven", 
+            "documentarystorm", 
             "dontorrents", 
             "doramasflixsone", 
             "doramasqueenin", 
@@ -75,6 +77,7 @@
             "pelisplayhd", 
             "pelisplushdlat", 
             "pelisplushdnz", 
+            "pelisxd", 
             "pgratishd", 
             "playdede", 
             "playdo", 
@@ -101,6 +104,7 @@
             "todopeliculas", 
             "todotorrents", 
             "tomadivx", 
+            "topdocumentaryfilms", 
             "torrentgalaxy", 
             "tryboobs", 
             "tubehentai", 
@@ -131,6 +135,7 @@
             "generos", 
             "helper", 
             "proxysearch", 
+            "search", 
             "submnuctext", 
             "submnuteam", 
             "tester", 
@@ -158,6 +163,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 9, 
-    "hash": "a51f532e04aaef72c81db0f734de7862"
+    "fix_version": 10, 
+    "hash": "835f4b3f3d0f9be4a1730c6591bed109"
 }
