@@ -1,4 +1,35 @@
 {
     "addon_version": "4.0.14", 
-    "hash": "a14a1bf892a2d1d40058bd390552f043"
+    "files": {
+        "channels": [
+            "cinematteflix", 
+            "hentaisd", 
+            "kiriasian", 
+            "playdede", 
+            "ppeliculas", 
+            "seriesplus", 
+            "sigloxx", 
+            "watchpornfree", 
+            "yespornplease"
+        ], 
+        "core": [
+            "httptools", 
+            "proxytools", 
+            "requeststools", 
+            "servertools"
+        ], 
+        "modules": [
+            "actions", 
+            "helper"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ], 
+        "servers": [
+            "voe"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "ef631a03ac117a58bc97832dd1269cbe"
 }
