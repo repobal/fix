@@ -3,12 +3,15 @@
     "files": {
         "channels": [
             "cinematteflix", 
+            "doramasmp4dev", 
             "hentaisd", 
             "kiriasian", 
             "playdede", 
             "ppeliculas", 
             "seriesplus", 
             "sigloxx", 
+            "streamgratis", 
+            "tiodonghua", 
             "watchpornfree", 
             "yespornplease"
         ], 
@@ -20,16 +23,24 @@
         ], 
         "modules": [
             "actions", 
-            "helper"
+            "domains", 
+            "helper", 
+            "proxysearch", 
+            "submnuteam", 
+            "tester"
+        ], 
+        "resources": [
+            "settings"
         ], 
         "root dir": [
             "dominios", 
             "version"
         ], 
         "servers": [
+            "doodstream", 
             "voe"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "ef631a03ac117a58bc97832dd1269cbe"
+    "fix_version": 2, 
+    "hash": "c1798bf1c64dc1a5415625b11bb2a34e"
 }
