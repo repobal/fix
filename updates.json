@@ -2,15 +2,27 @@
     "addon_version": "4.0.14", 
     "files": {
         "channels": [
+            "asialive", 
+            "cinema", 
             "cinematteflix", 
             "doramasmp4dev", 
+            "doramasqueen", 
+            "gnula24h", 
+            "hdfull", 
             "hentaisd", 
             "kiriasian", 
+            "masnovelas", 
+            "nextdede", 
+            "peliplusuno", 
+            "pelisxd", 
             "playdede", 
             "ppeliculas", 
+            "repelisre", 
             "seriesplus", 
             "sigloxx", 
+            "srnovelas", 
             "streamgratis", 
+            "subtorrents", 
             "tiodonghua", 
             "watchpornfree", 
             "yespornplease"
@@ -29,6 +41,9 @@
             "submnuteam", 
             "tester"
         ], 
+        "platformcode": [
+            "platformtools"
+        ], 
         "resources": [
             "settings"
         ], 
@@ -38,9 +53,10 @@
         ], 
         "servers": [
             "doodstream", 
+            "various", 
             "voe"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "c1798bf1c64dc1a5415625b11bb2a34e"
+    "fix_version": 3, 
+    "hash": "27831eb302e54ce7efedee472a71c240"
 }
