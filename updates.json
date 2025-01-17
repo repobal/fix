@@ -2,30 +2,60 @@
     "addon_version": "4.0.14", 
     "files": {
         "channels": [
+            "absoluporn", 
+            "amateurtv", 
             "asialive", 
+            "beeg", 
+            "cam4", 
             "cinema", 
             "cinematteflix", 
+            "cumlouder", 
+            "dontorrents", 
             "doramasmp4dev", 
             "doramasqueen", 
+            "eporner", 
+            "flixcorn", 
             "gnula24h", 
             "hdfull", 
+            "hentaiid", 
+            "hentaijl", 
+            "hentaila", 
             "hentaisd", 
+            "jizzbunker", 
             "kiriasian", 
+            "mangoporn", 
             "masnovelas", 
+            "motherless", 
             "nextdede", 
+            "nuvid", 
+            "pandamovies", 
+            "paradisehill", 
             "peliplusuno", 
             "pelisxd", 
             "playdede", 
+            "pornburst", 
+            "porndoe", 
+            "pornhub", 
             "ppeliculas", 
+            "redtube", 
             "repelisre", 
             "seriesplus", 
+            "serviporno", 
             "sigloxx", 
             "srnovelas", 
             "streamgratis", 
             "subtorrents", 
             "tiodonghua", 
+            "tryboobs", 
+            "tubehentai", 
             "watchpornfree", 
-            "yespornplease"
+            "xmfy", 
+            "xmoviesforyou", 
+            "xvideos", 
+            "xxxdan", 
+            "yespornplease", 
+            "yohentai", 
+            "zbporn"
         ], 
         "core": [
             "httptools", 
@@ -36,8 +66,10 @@
         "modules": [
             "actions", 
             "domains", 
+            "filmaffinitylists", 
             "helper", 
             "proxysearch", 
+            "search", 
             "submnuteam", 
             "tester"
         ], 
@@ -48,15 +80,17 @@
             "settings"
         ], 
         "root dir": [
+            "default", 
             "dominios", 
             "version"
         ], 
         "servers": [
             "doodstream", 
             "various", 
-            "voe"
+            "voe", 
+            "zures"
         ]
     }, 
-    "fix_version": 3, 
-    "hash": "27831eb302e54ce7efedee472a71c240"
+    "fix_version": 4, 
+    "hash": "ce91da4ef70b7f40d42a65a83548ed3f"
 }
