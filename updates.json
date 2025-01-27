@@ -4,6 +4,8 @@
         "channels": [
             "absoluporn", 
             "amateurtv", 
+            "animemix", 
+            "animeonline", 
             "areadocumental", 
             "asialive", 
             "beeg", 
@@ -11,6 +13,7 @@
             "cam4", 
             "cine24h", 
             "cinecalidadla", 
+            "cinedeantes", 
             "cinema", 
             "cinematteflix", 
             "cinemitas", 
@@ -31,6 +34,7 @@
             "gnula24h", 
             "gnulacenter", 
             "hdfull", 
+            "hdfullse", 
             "hentaiid", 
             "hentaijl", 
             "hentaila", 
@@ -46,11 +50,14 @@
             "netnovelas", 
             "nextdede", 
             "novelas360", 
+            "novelasplus", 
+            "novelastop", 
             "nuvid", 
             "pandamovies", 
             "paradisehill", 
             "pasateatorrent", 
             "pediatorrent", 
+            "peliplayhd", 
             "peliplusuno", 
             "pelis28re", 
             "pelisxd", 
@@ -64,6 +71,7 @@
             "repelishd", 
             "repelisre", 
             "seriesplus", 
+            "seriesturcas", 
             "serviporno", 
             "sigloxx", 
             "srnovelas", 
@@ -77,7 +85,9 @@
             "tryboobs", 
             "tubehentai", 
             "tucineclasico", 
+            "tvseries", 
             "ultrapelis", 
+            "uphd", 
             "vivatorrents", 
             "watchpornfree", 
             "xmfy", 
@@ -128,6 +138,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 7, 
-    "hash": "0337653a1e5af281d895ce7784a0713d"
+    "fix_version": 8, 
+    "hash": "815ea6bee9d5b347a7a759e2dd0b48dd"
 }
