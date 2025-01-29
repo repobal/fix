@@ -14,10 +14,12 @@
             "cine24h", 
             "cinecalidadla", 
             "cinedeantes", 
+            "cinelibreonline", 
             "cinema", 
             "cinematteflix", 
             "cinemitas", 
             "cuevana2", 
+            "cuevana3pro", 
             "cuevana3run", 
             "cumlouder", 
             "divxtotal", 
@@ -31,8 +33,11 @@
             "ennovelastv", 
             "eporner", 
             "flixcorn", 
+            "gnula", 
+            "gnula24", 
             "gnula24h", 
             "gnulacenter", 
+            "gnulatop", 
             "hdfull", 
             "hdfullse", 
             "hentaiid", 
@@ -60,6 +65,7 @@
             "peliplayhd", 
             "peliplusuno", 
             "pelis28re", 
+            "pelispedia2me", 
             "pelisxd", 
             "playdede", 
             "playplus", 
@@ -70,6 +76,7 @@
             "redtube", 
             "repelishd", 
             "repelisre", 
+            "series24", 
             "seriesplus", 
             "seriesturcas", 
             "serviporno", 
@@ -138,6 +145,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 8, 
-    "hash": "815ea6bee9d5b347a7a759e2dd0b48dd"
+    "fix_version": 9, 
+    "hash": "a4f6ac01455efe844c9eb8dd78eb3ce6"
 }
