@@ -1,4 +1,35 @@
 {
     "addon_version": "4.0.15", 
-    "hash": "5a74c3ab99514aeb6284fb73d74b01ae"
+    "files": {
+        "channels": [
+            "dontorrents", 
+            "hdfull", 
+            "hdfullse", 
+            "latanime", 
+            "masnovelas", 
+            "mejortorrentapp", 
+            "playdede"
+        ], 
+        "core": [
+            "httptools", 
+            "requeststools"
+        ], 
+        "modules": [
+            "actions", 
+            "domains", 
+            "helper", 
+            "proxysearch", 
+            "submnuctext", 
+            "tester"
+        ], 
+        "resources": [
+            "settings"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "a6294f0a79f689c8c7029ac503b61106"
 }
