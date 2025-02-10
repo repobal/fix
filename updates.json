@@ -8,19 +8,30 @@
             "latanime", 
             "masnovelas", 
             "mejortorrentapp", 
-            "playdede"
+            "playdede", 
+            "tioanime", 
+            "tiodonghua", 
+            "torrenflix", 
+            "zonapelis"
         ], 
         "core": [
             "httptools", 
-            "requeststools"
+            "requeststools", 
+            "servertools"
         ], 
         "modules": [
             "actions", 
             "domains", 
+            "filmaffinitylists", 
+            "generos", 
             "helper", 
             "proxysearch", 
             "submnuctext", 
+            "submnuteam", 
             "tester"
+        ], 
+        "platformcode": [
+            "platformtools"
         ], 
         "resources": [
             "settings"
@@ -28,8 +39,11 @@
         "root dir": [
             "dominios", 
             "version"
+        ], 
+        "servers": [
+            "zures"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "a6294f0a79f689c8c7029ac503b61106"
+    "fix_version": 2, 
+    "hash": "7995669e9ae67caeccda83657be28921"
 }
