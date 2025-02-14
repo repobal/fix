@@ -2,16 +2,26 @@
     "addon_version": "4.0.15", 
     "files": {
         "channels": [
+            "cuevana3pro", 
             "dontorrents", 
+            "entrepeliculasyseries", 
             "hdfull", 
             "hdfullse", 
+            "henaojaran", 
             "latanime", 
             "masnovelas", 
             "mejortorrentapp", 
+            "pelis28re", 
+            "pelisgratishd", 
+            "pelisplushdnz", 
+            "pgratishd", 
             "playdede", 
+            "serieskao", 
+            "sololatino", 
             "tioanime", 
             "tiodonghua", 
             "torrenflix", 
+            "zonaleros", 
             "zonapelis"
         ], 
         "core": [
@@ -25,6 +35,7 @@
             "filmaffinitylists", 
             "generos", 
             "helper", 
+            "mainmenu", 
             "proxysearch", 
             "submnuctext", 
             "submnuteam", 
@@ -44,6 +55,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "7995669e9ae67caeccda83657be28921"
+    "fix_version": 3, 
+    "hash": "abbf1a206dde1664c953b2135d5e2338"
 }
