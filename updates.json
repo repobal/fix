@@ -6,6 +6,7 @@
             "dontorrents", 
             "entrepeliculasyseries", 
             "estrenoscinesaa", 
+            "hacktorrent", 
             "hdfull", 
             "hdfullse", 
             "henaojaran", 
@@ -35,6 +36,7 @@
             "actions", 
             "domains", 
             "filmaffinitylists", 
+            "filters", 
             "generos", 
             "helper", 
             "mainmenu", 
@@ -60,6 +62,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "98da24b9eea386bfbf2341bf6853d5d0"
+    "fix_version": 5, 
+    "hash": "ebdd94a37e44a3952a0af57deedf3953"
 }
