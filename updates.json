@@ -13,14 +13,21 @@
             "latanime", 
             "masnovelas", 
             "mejortorrentapp", 
+            "netnovelas", 
+            "novelasplus", 
             "pelis28re", 
             "pelisforte", 
             "pelisgratishd", 
+            "pelisplushd", 
+            "pelisplushdlat", 
             "pelisplushdnz", 
             "pgratishd", 
             "playdede", 
+            "plushd", 
             "serieskao", 
+            "seriesturcas", 
             "sololatino", 
+            "srnovelas", 
             "tioanime", 
             "tiodonghua", 
             "torrenflix", 
@@ -41,6 +48,7 @@
             "helper", 
             "mainmenu", 
             "proxysearch", 
+            "search", 
             "submnuctext", 
             "submnuteam", 
             "tester"
@@ -62,6 +70,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 5, 
-    "hash": "ebdd94a37e44a3952a0af57deedf3953"
+    "fix_version": 6, 
+    "hash": "cbc3ebd23301d4497f08c38798d2a48e"
 }
