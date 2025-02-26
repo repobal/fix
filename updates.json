@@ -2,8 +2,10 @@
     "addon_version": "4.0.15", 
     "files": {
         "channels": [
+            "cinecalidadlol", 
             "cuevana3pro", 
             "dontorrents", 
+            "elitetorrent", 
             "entrepeliculasyseries", 
             "estrenoscinesaa", 
             "hacktorrent", 
@@ -12,12 +14,16 @@
             "henaojaran", 
             "latanime", 
             "masnovelas", 
+            "mega1link", 
             "mejortorrentapp", 
+            "mitorrent", 
             "netnovelas", 
             "novelasplus", 
+            "papayaseries", 
             "pelis28re", 
             "pelisforte", 
             "pelisgratishd", 
+            "pelispanda", 
             "pelisplushd", 
             "pelisplushdlat", 
             "pelisplushdnz", 
@@ -28,9 +34,12 @@
             "seriesturcas", 
             "sololatino", 
             "srnovelas", 
+            "subtorrents", 
+            "tgx", 
             "tioanime", 
             "tiodonghua", 
             "torrenflix", 
+            "ytstv", 
             "zonaleros", 
             "zonapelis"
         ], 
@@ -45,6 +54,7 @@
             "filmaffinitylists", 
             "filters", 
             "generos", 
+            "groups", 
             "helper", 
             "mainmenu", 
             "proxysearch", 
@@ -70,6 +80,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 6, 
-    "hash": "cbc3ebd23301d4497f08c38798d2a48e"
+    "fix_version": 7, 
+    "hash": "a01df9b11f51d2049ec6bd412997e019"
 }
