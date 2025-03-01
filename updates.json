@@ -2,16 +2,21 @@
     "addon_version": "4.0.15", 
     "files": {
         "channels": [
+            "cinecalidad", 
+            "cinecalidadla", 
             "cinecalidadlol", 
             "cuevana3pro", 
             "dontorrents", 
             "elitetorrent", 
             "entrepeliculasyseries", 
             "estrenoscinesaa", 
+            "grantorrent", 
             "hacktorrent", 
             "hdfull", 
             "hdfullse", 
+            "henaojara", 
             "henaojaran", 
+            "kissasian", 
             "latanime", 
             "masnovelas", 
             "mega1link", 
@@ -30,6 +35,7 @@
             "pgratishd", 
             "playdede", 
             "plushd", 
+            "series24", 
             "serieskao", 
             "seriesturcas", 
             "sololatino", 
@@ -80,6 +86,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 7, 
-    "hash": "a01df9b11f51d2049ec6bd412997e019"
+    "fix_version": 8, 
+    "hash": "ff3a220d5f9f788ab04419cca3e62fd9"
 }
