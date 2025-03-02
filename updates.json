@@ -29,6 +29,7 @@
             "pelisforte", 
             "pelisgratishd", 
             "pelispanda", 
+            "pelisplayhd", 
             "pelisplushd", 
             "pelisplushdlat", 
             "pelisplushdnz", 
@@ -86,6 +87,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 8, 
-    "hash": "ff3a220d5f9f788ab04419cca3e62fd9"
+    "fix_version": 9, 
+    "hash": "f5d3769815d57daac315d45e3309a79c"
 }
