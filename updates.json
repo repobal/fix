@@ -55,6 +55,9 @@
             "requeststools", 
             "servertools"
         ], 
+        "lib": [
+            "decrypters"
+        ], 
         "modules": [
             "actions", 
             "domains", 
@@ -87,6 +90,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 9, 
-    "hash": "f5d3769815d57daac315d45e3309a79c"
+    "fix_version": 10, 
+    "hash": "42debaa01b38b9761d21bdf9e8d13b37"
 }
