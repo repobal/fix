@@ -2,14 +2,18 @@
     "addon_version": "4.0.15", 
     "files": {
         "channels": [
+            "allpeliculasse", 
             "cinecalidad", 
             "cinecalidadla", 
             "cinecalidadlol", 
             "cuevana3pro", 
+            "cuevana3re", 
             "dontorrents", 
             "elitetorrent", 
+            "elitetorrentnz", 
             "entrepeliculasyseries", 
             "estrenoscinesaa", 
+            "eztv", 
             "grantorrent", 
             "hacktorrent", 
             "hdfull", 
@@ -86,10 +90,11 @@
         "servers": [
             "tiwi", 
             "various", 
+            "voe", 
             "waaw", 
             "zures"
         ]
     }, 
-    "fix_version": 10, 
-    "hash": "42debaa01b38b9761d21bdf9e8d13b37"
+    "fix_version": 11, 
+    "hash": "e7b24e36aa82699589daa486ccc19cdc"
 }
