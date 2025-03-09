@@ -8,6 +8,7 @@
             "cinecalidadlol", 
             "cuevana3pro", 
             "cuevana3re", 
+            "detodo", 
             "dontorrents", 
             "elitetorrent", 
             "elitetorrentnz", 
@@ -33,6 +34,7 @@
             "pelisforte", 
             "pelisgratishd", 
             "pelispanda", 
+            "pelispediaws", 
             "pelisplayhd", 
             "pelisplushd", 
             "pelisplushdlat", 
@@ -42,6 +44,7 @@
             "plushd", 
             "series24", 
             "serieskao", 
+            "seriesretro", 
             "seriesturcas", 
             "sololatino", 
             "srnovelas", 
@@ -49,6 +52,7 @@
             "tgx", 
             "tioanime", 
             "tiodonghua", 
+            "todopeliculas", 
             "torrenflix", 
             "ytstv", 
             "zonaleros", 
@@ -95,6 +99,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 11, 
-    "hash": "e7b24e36aa82699589daa486ccc19cdc"
+    "fix_version": 12, 
+    "hash": "b8c8bf0a1c8828323fbb48a04d2c37cb"
 }
