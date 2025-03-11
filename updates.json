@@ -10,10 +10,14 @@
             "cuevana3re", 
             "detodo", 
             "dontorrents", 
+            "dontorrentsin", 
+            "doramasqueenin", 
+            "doramasyt", 
             "elitetorrent", 
             "elitetorrentnz", 
             "entrepeliculasyseries", 
             "estrenoscinesaa", 
+            "estrenosdoramases", 
             "eztv", 
             "grantorrent", 
             "hacktorrent", 
@@ -21,6 +25,7 @@
             "hdfullse", 
             "henaojara", 
             "henaojaran", 
+            "kiriasian", 
             "kissasian", 
             "latanime", 
             "masnovelas", 
@@ -60,6 +65,7 @@
         ], 
         "core": [
             "httptools", 
+            "proxytools", 
             "requeststools", 
             "servertools"
         ], 
@@ -92,6 +98,8 @@
             "version"
         ], 
         "servers": [
+            "doodstream", 
+            "pixeldrain", 
             "tiwi", 
             "various", 
             "voe", 
@@ -99,6 +107,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 12, 
-    "hash": "b8c8bf0a1c8828323fbb48a04d2c37cb"
+    "fix_version": 13, 
+    "hash": "de99cbd05914daf047dbd83a873debdd"
 }
