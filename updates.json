@@ -15,6 +15,7 @@
             "doramasyt", 
             "elitetorrent", 
             "elitetorrentnz", 
+            "ennovelaspl", 
             "entrepeliculasyseries", 
             "estrenoscinesaa", 
             "estrenosdoramases", 
@@ -25,6 +26,7 @@
             "hdfullse", 
             "henaojara", 
             "henaojaran", 
+            "hentaijl", 
             "kiriasian", 
             "kissasian", 
             "latanime", 
@@ -33,7 +35,9 @@
             "mejortorrentapp", 
             "mitorrent", 
             "netnovelas", 
+            "novelas", 
             "novelasplus", 
+            "pandamovies", 
             "papayaseries", 
             "pelis28re", 
             "pelisforte", 
@@ -59,6 +63,10 @@
             "tiodonghua", 
             "todopeliculas", 
             "torrenflix", 
+            "tusnovelas", 
+            "veronline", 
+            "xmoviesforyou", 
+            "yespornplease", 
             "ytstv", 
             "zonaleros", 
             "zonapelis"
@@ -107,6 +115,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 13, 
-    "hash": "de99cbd05914daf047dbd83a873debdd"
+    "fix_version": 14, 
+    "hash": "e2418f6fa55a5f3330cd1cc804b931e5"
 }
