@@ -6,8 +6,11 @@
             "cinecalidad", 
             "cinecalidadla", 
             "cinecalidadlol", 
+            "cinemitas", 
+            "cineteca", 
             "cuevana3pro", 
             "cuevana3re", 
+            "cuevana3run", 
             "detodo", 
             "dontorrents", 
             "dontorrentsin", 
@@ -37,6 +40,7 @@
             "netnovelas", 
             "novelas", 
             "novelasplus", 
+            "novelastop", 
             "pandamovies", 
             "papayaseries", 
             "pelis28re", 
@@ -48,6 +52,7 @@
             "pelisplushd", 
             "pelisplushdlat", 
             "pelisplushdnz", 
+            "pelisxd", 
             "pgratishd", 
             "playdede", 
             "plushd", 
@@ -64,6 +69,7 @@
             "todopeliculas", 
             "torrenflix", 
             "tusnovelas", 
+            "vernovelas", 
             "veronline", 
             "xmoviesforyou", 
             "yespornplease", 
@@ -96,6 +102,7 @@
             "tester"
         ], 
         "platformcode": [
+            "dynamic", 
             "platformtools"
         ], 
         "resources": [
@@ -115,6 +122,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 14, 
-    "hash": "e2418f6fa55a5f3330cd1cc804b931e5"
+    "fix_version": 15, 
+    "hash": "3f8d408548cab12eca2de839327cdec2"
 }
