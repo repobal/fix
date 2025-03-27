@@ -1,4 +1,41 @@
 {
     "addon_version": "4.0.16", 
-    "hash": "30a8c8dcb39b032d67c72672bb25bfed"
+    "files": {
+        "channels": [
+            "detodo", 
+            "dpeliculas", 
+            "genteclic", 
+            "gnula24", 
+            "gnula24h", 
+            "hacktorrent", 
+            "kiriasian", 
+            "kissasian", 
+            "mejortorrentapp", 
+            "pelispanda", 
+            "pgratishd", 
+            "series24", 
+            "todopeliculas", 
+            "veronline"
+        ], 
+        "core": [
+            "httptools", 
+            "requeststools"
+        ], 
+        "modules": [
+            "actions", 
+            "domains", 
+            "generos", 
+            "submnuteam", 
+            "tester"
+        ], 
+        "platformcode": [
+            "updater"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "8add89741e95e1afb921293eff35b9bb"
 }
