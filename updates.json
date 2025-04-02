@@ -2,40 +2,68 @@
     "addon_version": "4.0.16", 
     "files": {
         "channels": [
+            "cinemitas", 
             "detodo", 
+            "dontorrents", 
             "dpeliculas", 
+            "ennovelaspl", 
+            "ennovelastv", 
             "genteclic", 
             "gnula24", 
             "gnula24h", 
             "hacktorrent", 
+            "hdfull", 
+            "henaojaran", 
             "kiriasian", 
             "kissasian", 
+            "masnovelas", 
             "mejortorrentapp", 
+            "netnovelas", 
+            "novelas360", 
+            "onlinetv", 
             "pelispanda", 
             "pgratishd", 
+            "ppeliculas", 
             "series24", 
+            "serieses", 
+            "serieskao", 
+            "seriesonline", 
+            "seriestv", 
+            "srnovelas", 
+            "star", 
             "todopeliculas", 
-            "veronline"
+            "tusnovelas", 
+            "veronline", 
+            "verseries"
         ], 
         "core": [
             "httptools", 
-            "requeststools"
+            "requeststools", 
+            "servertools"
         ], 
         "modules": [
             "actions", 
             "domains", 
+            "filters", 
             "generos", 
+            "helper", 
+            "search", 
+            "submnuctext", 
             "submnuteam", 
             "tester"
         ], 
         "platformcode": [
             "updater"
         ], 
+        "resources": [
+            "Lista-proxies", 
+            "settings"
+        ], 
         "root dir": [
             "dominios", 
             "version"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "8add89741e95e1afb921293eff35b9bb"
+    "fix_version": 2, 
+    "hash": "3eb0be11fe8330b6f9a9881c171f2cc7"
 }
