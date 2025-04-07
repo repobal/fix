@@ -2,13 +2,21 @@
     "addon_version": "4.0.16", 
     "files": {
         "channels": [
+            "animeid", 
+            "animejl", 
+            "asianload", 
             "cinemitas", 
+            "cuevana3pro", 
+            "cuevana3run", 
             "detodo", 
             "dontorrents", 
             "dpeliculas", 
             "ennovelaspl", 
             "ennovelastv", 
+            "entrepeliculasyseries", 
+            "flixcorn", 
             "genteclic", 
+            "gnula", 
             "gnula24", 
             "gnula24h", 
             "hacktorrent", 
@@ -20,10 +28,15 @@
             "mejortorrentapp", 
             "netnovelas", 
             "novelas360", 
+            "novelasplus", 
             "onlinetv", 
             "pelispanda", 
+            "pelisplus", 
+            "pelisplushdlat", 
+            "pelisplushdnz", 
             "pgratishd", 
             "ppeliculas", 
+            "pplus", 
             "series24", 
             "serieses", 
             "serieskao", 
@@ -34,12 +47,17 @@
             "todopeliculas", 
             "tusnovelas", 
             "veronline", 
-            "verseries"
+            "verseries", 
+            "zonaleros"
         ], 
         "core": [
             "httptools", 
             "requeststools", 
             "servertools"
+        ], 
+        "lib": [
+            "aadecode", 
+            "jsunpack"
         ], 
         "modules": [
             "actions", 
@@ -53,6 +71,8 @@
             "tester"
         ], 
         "platformcode": [
+            "config", 
+            "platformtools", 
             "updater"
         ], 
         "resources": [
@@ -62,8 +82,13 @@
         "root dir": [
             "dominios", 
             "version"
+        ], 
+        "servers": [
+            "clicknupload", 
+            "various", 
+            "zures"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "3eb0be11fe8330b6f9a9881c171f2cc7"
+    "fix_version": 3, 
+    "hash": "6fef468bf2830eeb7f9990417d070f91"
 }
