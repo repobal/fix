@@ -6,9 +6,15 @@
             "animeid", 
             "animejl", 
             "area51", 
+            "areadocumental", 
             "asialive", 
             "asianload", 
+            "bloghorror", 
+            "ciberdocumentales", 
+            "cinecalidad", 
+            "cinecalidadla", 
             "cinecalidadlol", 
+            "cinedeantes", 
             "cinema", 
             "cinemitas", 
             "cineplay", 
@@ -19,7 +25,9 @@
             "cuevana3re", 
             "cuevana3run", 
             "cuevana3video", 
+            "dangotoons", 
             "detodo", 
+            "documentalesonline", 
             "dontorrents", 
             "dpeliculas", 
             "elifilms", 
@@ -129,6 +137,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 5, 
-    "hash": "d7c369e01c80dbaf87cee4ac9e790420"
+    "fix_version": 6, 
+    "hash": "ce4438e8fb89898fd4374ec8144bb31f"
 }
