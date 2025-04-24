@@ -11,6 +11,7 @@
             "asianload", 
             "bloghorror", 
             "ciberdocumentales", 
+            "cine24h", 
             "cinecalidad", 
             "cinecalidadla", 
             "cinecalidadlol", 
@@ -78,6 +79,8 @@
             "serieses", 
             "serieskao", 
             "seriesonline", 
+            "seriesretro", 
+            "seriesturcas", 
             "seriestv", 
             "sololatino", 
             "srnovelas", 
@@ -85,11 +88,13 @@
             "telenovela", 
             "tgx", 
             "todopeliculas", 
+            "topdocumentaryfilms", 
             "tusnovelas", 
             "veronline", 
             "verseries", 
             "yaskeorg", 
-            "zonaleros"
+            "zonaleros", 
+            "zonapelis"
         ], 
         "core": [
             "httptools", 
@@ -123,6 +128,7 @@
             "settings"
         ], 
         "root dir": [
+            "Lista-proxies", 
             "dominios", 
             "version"
         ], 
@@ -137,6 +143,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 6, 
-    "hash": "ce4438e8fb89898fd4374ec8144bb31f"
+    "fix_version": 7, 
+    "hash": "e6f491069725f71ed4d360f810c213b1"
 }
