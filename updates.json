@@ -28,8 +28,10 @@
             "cuevana3video", 
             "dangotoons", 
             "detodo", 
+            "divxtotal", 
             "documentalesonline", 
             "dontorrents", 
+            "doramasqueen", 
             "dpeliculas", 
             "elifilms", 
             "ennovelaspl", 
@@ -41,6 +43,7 @@
             "gnula24", 
             "gnula24h", 
             "gnulacenter", 
+            "grantorrent", 
             "hacktorrent", 
             "hdfull", 
             "hdfullse", 
@@ -54,6 +57,7 @@
             "masnovelas", 
             "mega1link", 
             "mejortorrentapp", 
+            "mejortorrentnz", 
             "netnovelas", 
             "novelas", 
             "novelas360", 
@@ -69,6 +73,7 @@
             "pelisplushdlat", 
             "pelisplushdnz", 
             "pgratishd", 
+            "playdede", 
             "playplus", 
             "plushd", 
             "ppeliculas", 
@@ -136,6 +141,7 @@
             "clicknupload", 
             "doodstream", 
             "megaup", 
+            "mixdrop", 
             "pixeldrain", 
             "various", 
             "vimeo", 
@@ -143,6 +149,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 7, 
-    "hash": "e6f491069725f71ed4d360f810c213b1"
+    "fix_version": 8, 
+    "hash": "872a09652d16efa11137813e4e19c89f"
 }
