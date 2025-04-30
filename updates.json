@@ -51,6 +51,7 @@
             "henaojaran", 
             "homecine", 
             "ilovenovelas", 
+            "joinclub", 
             "kiriasian", 
             "kissasian", 
             "mangoporn", 
@@ -149,6 +150,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 8, 
-    "hash": "872a09652d16efa11137813e4e19c89f"
+    "fix_version": 9, 
+    "hash": "da93420ea8bbd7a345257a854b78d596"
 }
