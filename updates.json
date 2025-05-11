@@ -10,6 +10,7 @@
             "areadocumental", 
             "asialive", 
             "asianload", 
+            "beeg", 
             "bloghorror", 
             "ciberdocumentales", 
             "cine24h", 
@@ -35,6 +36,8 @@
             "doramasqueen", 
             "dpeliculas", 
             "elifilms", 
+            "elitetorrent", 
+            "elitetorrentnz", 
             "ennovelaspl", 
             "ennovelastv", 
             "entrepeliculasyseries", 
@@ -117,6 +120,7 @@
         "modules": [
             "actions", 
             "domains", 
+            "filmaffinitylists", 
             "filters", 
             "generos", 
             "helper", 
@@ -154,6 +158,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 11, 
-    "hash": "4b79c6ffa20b30fe004ca8827ff504e9"
+    "fix_version": 12, 
+    "hash": "016bee40b4986087f3fa033379f55f44"
 }
