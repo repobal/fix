@@ -18,6 +18,7 @@
             "cinecalidadla", 
             "cinecalidadlol", 
             "cinedeantes", 
+            "cinekinki", 
             "cinema", 
             "cinemitas", 
             "cineplay", 
@@ -60,6 +61,7 @@
             "kissasian", 
             "mangoporn", 
             "masnovelas", 
+            "mastorrents", 
             "mega1link", 
             "mejortorrentapp", 
             "mejortorrentnz", 
@@ -100,6 +102,7 @@
             "tgx", 
             "todopeliculas", 
             "topdocumentaryfilms", 
+            "tryboobs", 
             "tusnovelas", 
             "vernovelas", 
             "veronline", 
@@ -123,6 +126,7 @@
             "filmaffinitylists", 
             "filters", 
             "generos", 
+            "groups", 
             "helper", 
             "mainmenu", 
             "proxysearch", 
@@ -158,6 +162,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 12, 
-    "hash": "016bee40b4986087f3fa033379f55f44"
+    "fix_version": 13, 
+    "hash": "b7d3c2a6f6f762cc9821c60f22492c90"
 }
