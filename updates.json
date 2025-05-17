@@ -113,6 +113,8 @@
         ], 
         "core": [
             "httptools", 
+            "proxytools", 
+            "proxytoolsz", 
             "requeststools", 
             "servertools"
         ], 
@@ -162,6 +164,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 13, 
-    "hash": "b7d3c2a6f6f762cc9821c60f22492c90"
+    "fix_version": 14, 
+    "hash": "cf8ae63ba2a6e073db2be2d034e9adcb"
 }
