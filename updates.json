@@ -1,4 +1,45 @@
 {
     "addon_version": "4.0.17", 
-    "hash": "72ba8ac37ea2766731a0cff91e6cbd27"
+    "files": {
+        "channels": [
+            "cineplay", 
+            "cinequinqui", 
+            "documentaleson", 
+            "dontorrents", 
+            "ennovelastv", 
+            "frozenlayer", 
+            "gnula24", 
+            "gnula24h", 
+            "pelisplushdlat", 
+            "pelisyseries", 
+            "pplus", 
+            "series24", 
+            "telenovela", 
+            "verflix", 
+            "zoowomaniacos"
+        ], 
+        "modules": [
+            "filters", 
+            "generos", 
+            "groups", 
+            "helper", 
+            "mainmenu", 
+            "search", 
+            "submnuctext", 
+            "submnuteam", 
+            "tester"
+        ], 
+        "resources": [
+            "settings"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ], 
+        "servers": [
+            "various"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "6dc112f5ed87a0cee51bedbfc8394eb7"
 }
