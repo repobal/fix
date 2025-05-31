@@ -2,23 +2,39 @@
     "addon_version": "4.0.17", 
     "files": {
         "channels": [
+            "asialive", 
             "cineplay", 
             "cinequinqui", 
+            "cuevana3pro", 
             "documentaleson", 
             "dontorrents", 
             "ennovelastv", 
+            "filmoves", 
             "frozenlayer", 
+            "gnula", 
             "gnula24", 
             "gnula24h", 
+            "legalmentegratis", 
+            "mega1link", 
+            "megaserie", 
+            "mejortorrentapp", 
             "pelisplushdlat", 
             "pelisyseries", 
+            "pgratishd", 
+            "ppeliculas", 
             "pplus", 
             "series24", 
             "telenovela", 
+            "tgx", 
             "verflix", 
             "zoowomaniacos"
         ], 
+        "core": [
+            "httptools", 
+            "requeststools"
+        ], 
         "modules": [
+            "actions", 
             "filters", 
             "generos", 
             "groups", 
@@ -40,6 +56,6 @@
             "various"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "6dc112f5ed87a0cee51bedbfc8394eb7"
+    "fix_version": 2, 
+    "hash": "69168a19f29d01290bd8688178ea1a45"
 }
