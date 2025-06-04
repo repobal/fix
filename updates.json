@@ -2,6 +2,7 @@
     "addon_version": "4.0.17", 
     "files": {
         "channels": [
+            "animeonline", 
             "asialive", 
             "cineplay", 
             "cinequinqui", 
@@ -26,12 +27,14 @@
             "series24", 
             "telenovela", 
             "tgx", 
+            "trailers", 
             "verflix", 
             "zoowomaniacos"
         ], 
         "core": [
             "httptools", 
-            "requeststools"
+            "requeststools", 
+            "servertools"
         ], 
         "modules": [
             "actions", 
@@ -45,6 +48,9 @@
             "submnuteam", 
             "tester"
         ], 
+        "platformcode": [
+            "platformtools"
+        ], 
         "resources": [
             "settings"
         ], 
@@ -53,9 +59,10 @@
             "version"
         ], 
         "servers": [
-            "various"
+            "various", 
+            "zures"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "69168a19f29d01290bd8688178ea1a45"
+    "fix_version": 3, 
+    "hash": "1e99d540c9fe47a84bf67b38e495babe"
 }
