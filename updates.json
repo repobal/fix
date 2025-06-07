@@ -12,9 +12,11 @@
             "cuevana3pro", 
             "documentaleson", 
             "dontorrents", 
+            "dontorrentsin", 
             "doramasmp4dev", 
             "doramasyt", 
             "ennovelastv", 
+            "entrepeliculasyseries", 
             "estrenosdoramases", 
             "filmoves", 
             "frozenlayer", 
@@ -28,7 +30,10 @@
             "mega1link", 
             "megaserie", 
             "mejortorrentapp", 
+            "pelis28re", 
+            "pelisgratishd", 
             "pelisplushdlat", 
+            "pelisplushdnz", 
             "pelisxd", 
             "pelisyseries", 
             "pgratishd", 
@@ -36,6 +41,9 @@
             "pplus", 
             "series24", 
             "serieses", 
+            "serieskao", 
+            "seriesplus", 
+            "sololatino", 
             "telenovela", 
             "tgx", 
             "trailers", 
@@ -46,6 +54,9 @@
             "httptools", 
             "requeststools", 
             "servertools"
+        ], 
+        "lib": [
+            "decrypters"
         ], 
         "modules": [
             "actions", 
@@ -74,6 +85,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "5569bed95c29e9e8e996e4308cac7bce"
+    "fix_version": 5, 
+    "hash": "81a34374d9307825615200d17e2a7e4a"
 }
