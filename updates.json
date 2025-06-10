@@ -7,6 +7,7 @@
             "animesenlatino", 
             "animeyt", 
             "asialive", 
+            "cinemitas", 
             "cineplay", 
             "cinequinqui", 
             "cuevana3pro", 
@@ -30,19 +31,24 @@
             "mega1link", 
             "megaserie", 
             "mejortorrentapp", 
+            "peliculasflix", 
             "pelis28re", 
             "pelisgratishd", 
+            "pelisplushd", 
             "pelisplushdlat", 
             "pelisplushdnz", 
             "pelisxd", 
             "pelisyseries", 
             "pgratishd", 
+            "playplus", 
+            "plushd", 
             "ppeliculas", 
             "pplus", 
             "series24", 
             "serieses", 
             "serieskao", 
             "seriesplus", 
+            "seriesretro", 
             "sololatino", 
             "telenovela", 
             "tgx", 
@@ -81,10 +87,14 @@
             "version"
         ], 
         "servers": [
+            "clipwatching", 
+            "doodstream", 
+            "mixdrop", 
             "various", 
+            "voe", 
             "zures"
         ]
     }, 
-    "fix_version": 5, 
-    "hash": "81a34374d9307825615200d17e2a7e4a"
+    "fix_version": 6, 
+    "hash": "23ea38e2308d2d0d23e215b2a45322c2"
 }
