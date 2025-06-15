@@ -56,6 +56,7 @@
             "tgx", 
             "trailers", 
             "verflix", 
+            "watchpornfree", 
             "zoowomaniacos"
         ], 
         "core": [
@@ -97,6 +98,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 7, 
-    "hash": "7c8f0ad30566d19a45268b2c9fb0ab95"
+    "fix_version": 8, 
+    "hash": "8dc0911960c58a533d654e550dad90a1"
 }
