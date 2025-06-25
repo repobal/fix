@@ -1,4 +1,48 @@
 {
     "addon_version": "4.0.18", 
-    "hash": "69d3cd3d1847819b385b919d80cc11e6"
+    "files": {
+        "channels": [
+            "absoluporn", 
+            "area51", 
+            "beeg", 
+            "cam4", 
+            "cumlouder", 
+            "daftsex", 
+            "eporner", 
+            "filmoves", 
+            "hentaiid", 
+            "hentaijl", 
+            "hentaila", 
+            "hentaisd", 
+            "jizzbunker", 
+            "mangoporn", 
+            "motherless", 
+            "nuvid", 
+            "pandamovies", 
+            "paradisehill", 
+            "pornburst", 
+            "porndoe", 
+            "pornhub", 
+            "redtube", 
+            "serviporno", 
+            "tubehentai", 
+            "watchpornfree", 
+            "xmfy", 
+            "xmoviesforyou", 
+            "xvideos", 
+            "xxxdan", 
+            "yespornplease", 
+            "yohentai", 
+            "zbporn"
+        ], 
+        "modules": [
+            "search"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "65e831e3b88b53d72d4ff626c60ae40d"
 }
