@@ -3,29 +3,43 @@
     "files": {
         "channels": [
             "absoluporn", 
+            "animejl", 
+            "animeyt", 
             "area51", 
             "beeg", 
+            "bloghorror", 
             "cam4", 
             "cumlouder", 
             "daftsex", 
+            "dontorrents", 
+            "doramasqueenin", 
+            "doramasyt", 
+            "doramedplaylat", 
             "eporner", 
             "filmoves", 
+            "henaojara", 
+            "henaojaran", 
             "hentaiid", 
             "hentaijl", 
             "hentaila", 
             "hentaisd", 
             "jizzbunker", 
+            "kissasian", 
             "mangoporn", 
             "motherless", 
+            "netnovelas", 
             "nuvid", 
             "pandamovies", 
             "paradisehill", 
+            "playdede", 
             "pornburst", 
             "porndoe", 
             "pornhub", 
             "redtube", 
+            "seriesmexicanas", 
             "serviporno", 
             "tubehentai", 
+            "tusnovelas", 
             "watchpornfree", 
             "xmfy", 
             "xmoviesforyou", 
@@ -35,14 +49,27 @@
             "yohentai", 
             "zbporn"
         ], 
+        "core": [
+            "servertools"
+        ], 
         "modules": [
-            "search"
+            "search", 
+            "submnuteam", 
+            "tester"
+        ], 
+        "platformcode": [
+            "platformtools"
         ], 
         "root dir": [
             "dominios", 
             "version"
+        ], 
+        "servers": [
+            "mixdrop", 
+            "streamtape", 
+            "zures"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "65e831e3b88b53d72d4ff626c60ae40d"
+    "fix_version": 2, 
+    "hash": "cb7ed25af81067856b1eb789bdf4340a"
 }
