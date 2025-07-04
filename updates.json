@@ -3,12 +3,20 @@
     "files": {
         "channels": [
             "absoluporn", 
+            "animeclub", 
+            "animeflv", 
             "animejl", 
+            "animemix", 
+            "animeonline", 
+            "animesenlatino", 
             "animeyt", 
             "area51", 
             "beeg", 
             "bloghorror", 
             "cam4", 
+            "cinecalidad", 
+            "cinecalidadla", 
+            "cinecalidadlol", 
             "cumlouder", 
             "daftsex", 
             "dontorrents", 
@@ -17,6 +25,7 @@
             "doramedplaylat", 
             "eporner", 
             "filmoves", 
+            "frozenlayer", 
             "henaojara", 
             "henaojaran", 
             "hentaiid", 
@@ -24,13 +33,17 @@
             "hentaila", 
             "hentaisd", 
             "jizzbunker", 
+            "jkanime", 
             "kissasian", 
+            "latanime", 
             "mangoporn", 
             "motherless", 
+            "mundodonghua", 
             "netnovelas", 
             "nuvid", 
             "pandamovies", 
             "paradisehill", 
+            "pgratishd", 
             "playdede", 
             "pornburst", 
             "porndoe", 
@@ -38,6 +51,9 @@
             "redtube", 
             "seriesmexicanas", 
             "serviporno", 
+            "t1337x", 
+            "tioanime", 
+            "torrentgalaxy", 
             "tubehentai", 
             "tusnovelas", 
             "watchpornfree", 
@@ -47,12 +63,18 @@
             "xxxdan", 
             "yespornplease", 
             "yohentai", 
-            "zbporn"
+            "zbporn", 
+            "zeroanime"
         ], 
         "core": [
+            "httptools", 
+            "requeststools", 
             "servertools"
         ], 
         "modules": [
+            "actions", 
+            "helper", 
+            "mainmenu", 
             "search", 
             "submnuteam", 
             "tester"
@@ -65,11 +87,14 @@
             "version"
         ], 
         "servers": [
+            "clipwatching", 
             "mixdrop", 
             "streamtape", 
+            "uqload", 
+            "various", 
             "zures"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "cb7ed25af81067856b1eb789bdf4340a"
+    "fix_version": 3, 
+    "hash": "980c20dec073f8a57dee5215bdc55fe5"
 }
