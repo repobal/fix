@@ -43,11 +43,13 @@
             "nuvid", 
             "pandamovies", 
             "paradisehill", 
+            "pelisforte", 
             "pgratishd", 
             "playdede", 
             "pornburst", 
             "porndoe", 
             "pornhub", 
+            "pplus", 
             "redtube", 
             "seriesmexicanas", 
             "serviporno", 
@@ -73,6 +75,8 @@
         ], 
         "modules": [
             "actions", 
+            "generos", 
+            "groups", 
             "helper", 
             "mainmenu", 
             "search", 
@@ -81,6 +85,9 @@
         ], 
         "platformcode": [
             "platformtools"
+        ], 
+        "resources": [
+            "settings"
         ], 
         "root dir": [
             "dominios", 
@@ -92,9 +99,10 @@
             "streamtape", 
             "uqload", 
             "various", 
+            "waaw", 
             "zures"
         ]
     }, 
-    "fix_version": 3, 
-    "hash": "980c20dec073f8a57dee5215bdc55fe5"
+    "fix_version": 4, 
+    "hash": "abdd7c67ba55b7443acc775366146a31"
 }
