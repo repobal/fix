@@ -53,6 +53,7 @@
             "redtube", 
             "seriesmexicanas", 
             "serviporno", 
+            "sololatino", 
             "t1337x", 
             "tioanime", 
             "torrentgalaxy", 
@@ -94,15 +95,34 @@
             "version"
         ], 
         "servers": [
+            "clicknupload", 
             "clipwatching", 
+            "cloudvideo", 
+            "dailymotion", 
+            "doodstream", 
+            "flashx", 
+            "gamovideo", 
+            "gofile", 
+            "megaup", 
             "mixdrop", 
+            "playtube", 
+            "racaty", 
+            "streamlare", 
             "streamtape", 
+            "streamvid", 
+            "uptobox", 
             "uqload", 
+            "userscloud", 
             "various", 
+            "vidmoly", 
+            "vimeo", 
+            "vk", 
+            "voe", 
             "waaw", 
+            "youtube", 
             "zures"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "abdd7c67ba55b7443acc775366146a31"
+    "fix_version": 5, 
+    "hash": "9d271247fddb41a1d3f228f61ff498a2"
 }
