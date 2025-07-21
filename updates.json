@@ -1,4 +1,42 @@
 {
     "addon_version": "4.0.19", 
-    "hash": "c78ca3be0e77b6f102109efc4fb2ab15"
+    "files": {
+        "channels": [
+            "animeclub", 
+            "animeflv", 
+            "animejl", 
+            "animeonline", 
+            "animeyt", 
+            "cam4", 
+            "doramasmp4dev", 
+            "hdcinema", 
+            "henaojara", 
+            "henaojaran", 
+            "jkanime", 
+            "latanime", 
+            "mega1link", 
+            "mundodonghua", 
+            "tgx", 
+            "tioanime", 
+            "tiodonghua"
+        ], 
+        "core": [
+            "httptools", 
+            "requeststools"
+        ], 
+        "modules": [
+            "actions", 
+            "filters", 
+            "helper", 
+            "submnuctext", 
+            "submnuteam", 
+            "tester"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "3d691f9dc1a16f847aa42950633ed586"
 }
