@@ -2,41 +2,65 @@
     "addon_version": "4.0.19", 
     "files": {
         "channels": [
+            "allpeliculasse", 
             "animeclub", 
             "animeflv", 
             "animejl", 
             "animeonline", 
             "animeyt", 
             "cam4", 
+            "cinecalidad", 
+            "cinecalidadla", 
+            "cinecalidadlol", 
+            "detodo", 
+            "doramasflix", 
             "doramasmp4dev", 
+            "dpeliculas", 
+            "gnula", 
             "hdcinema", 
             "henaojara", 
             "henaojaran", 
             "jkanime", 
+            "kissasian", 
             "latanime", 
+            "masnovelas", 
             "mega1link", 
             "mundodonghua", 
+            "pandramaio", 
+            "peliculasflix", 
+            "playdede", 
+            "redhard", 
             "tgx", 
             "tioanime", 
             "tiodonghua"
         ], 
         "core": [
             "httptools", 
-            "requeststools"
+            "requeststools", 
+            "servertools"
         ], 
         "modules": [
             "actions", 
             "filters", 
+            "generos", 
             "helper", 
             "submnuctext", 
             "submnuteam", 
             "tester"
         ], 
+        "platformcode": [
+            "platformtools"
+        ], 
         "root dir": [
             "dominios", 
             "version"
+        ], 
+        "servers": [
+            "clipwatching", 
+            "mediafire", 
+            "various"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "3d691f9dc1a16f847aa42950633ed586"
+    "fix_version": 2, 
+    "hash": "30ed93a9c48908a06cf4863e99c623f7"
 }
