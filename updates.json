@@ -14,6 +14,7 @@
             "cinecalidadlol", 
             "cuevana3pro", 
             "detodo", 
+            "dontorrents", 
             "doramasflix", 
             "doramasmp4dev", 
             "dpeliculas", 
@@ -24,6 +25,7 @@
             "henaojaran", 
             "jkanime", 
             "kissasian", 
+            "lamovie", 
             "latanime", 
             "masnovelas", 
             "mega1link", 
@@ -70,6 +72,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 3, 
-    "hash": "43e6d7b8a64018a5eab22e305fd7bf58"
+    "fix_version": 4, 
+    "hash": "756dc8ea0d526ab148fe95f58fa2bfed"
 }
