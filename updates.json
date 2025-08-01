@@ -21,6 +21,7 @@
             "filmoves", 
             "gnula", 
             "hdcinema", 
+            "hdfull", 
             "henaojara", 
             "henaojaran", 
             "jkanime", 
@@ -39,7 +40,8 @@
             "seriesonline", 
             "tgx", 
             "tioanime", 
-            "tiodonghua"
+            "tiodonghua", 
+            "tubepelis"
         ], 
         "core": [
             "httptools", 
@@ -48,9 +50,11 @@
         ], 
         "modules": [
             "actions", 
+            "domains", 
             "filters", 
             "generos", 
             "helper", 
+            "proxysearch", 
             "submnuctext", 
             "submnuteam", 
             "tester"
@@ -72,6 +76,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "756dc8ea0d526ab148fe95f58fa2bfed"
+    "fix_version": 5, 
+    "hash": "07e6a9fbec8271323c6d3eccf159259f"
 }
