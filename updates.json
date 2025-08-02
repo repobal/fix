@@ -68,6 +68,7 @@
         ], 
         "servers": [
             "clipwatching", 
+            "doodstream", 
             "fastplay", 
             "mediafire", 
             "movcloud", 
@@ -76,6 +77,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 5, 
-    "hash": "07e6a9fbec8271323c6d3eccf159259f"
+    "fix_version": 6, 
+    "hash": "4078966463d5daa7aa9bc4c456157529"
 }
