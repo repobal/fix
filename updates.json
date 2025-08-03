@@ -13,6 +13,7 @@
             "cinecalidadla", 
             "cinecalidadlol", 
             "cuevana3pro", 
+            "cuevana3re", 
             "detodo", 
             "dontorrents", 
             "doramasflix", 
@@ -34,6 +35,7 @@
             "pandramaio", 
             "peliculasflix", 
             "pelisgratishd", 
+            "pelispanda", 
             "pelisyseries", 
             "playdede", 
             "redhard", 
@@ -77,6 +79,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 6, 
-    "hash": "4078966463d5daa7aa9bc4c456157529"
+    "fix_version": 7, 
+    "hash": "cc1613ca3c36f62b4fec0ed3a64ff46c"
 }
