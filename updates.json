@@ -64,6 +64,9 @@
         "platformcode": [
             "platformtools"
         ], 
+        "resources": [
+            "settings"
+        ], 
         "root dir": [
             "dominios", 
             "version"
@@ -79,6 +82,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 7, 
-    "hash": "cc1613ca3c36f62b4fec0ed3a64ff46c"
+    "fix_version": 8, 
+    "hash": "33f878deba69f63eb751da2c8df9d462"
 }
