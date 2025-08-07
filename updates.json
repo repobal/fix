@@ -25,12 +25,14 @@
             "hdfull", 
             "henaojara", 
             "henaojaran", 
+            "hentaila", 
             "jkanime", 
             "kissasian", 
             "lamovie", 
             "latanime", 
             "masnovelas", 
             "mega1link", 
+            "mejortorrentapp", 
             "mundodonghua", 
             "pandramaio", 
             "peliculasflix", 
@@ -38,6 +40,7 @@
             "pelispanda", 
             "pelisyseries", 
             "playdede", 
+            "poseidonhd2", 
             "redhard", 
             "seriesonline", 
             "tgx", 
@@ -83,6 +86,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 9, 
-    "hash": "6ac1dc57e87b6633849c427994b9bfe1"
+    "fix_version": 10, 
+    "hash": "2cbc193784de2a8c91794fa5e18938e1"
 }
