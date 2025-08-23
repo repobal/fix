@@ -1,4 +1,14 @@
 {
     "addon_version": "4.0.20", 
-    "hash": "f6327aae2560bc448a8a10831d7aed38"
+    "files": {
+        "platformcode": [
+            "dynamic"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "a456c70694fc68049bd163815a07a4fd"
 }
