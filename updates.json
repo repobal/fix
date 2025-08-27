@@ -1,14 +1,34 @@
 {
     "addon_version": "4.0.20", 
     "files": {
+        "channels": [
+            "divxtotal", 
+            "estrenosanime", 
+            "gnula24", 
+            "gnula24h", 
+            "grantorrent", 
+            "monoschinos", 
+            "mundodonghua", 
+            "pornxbit", 
+            "seriesplus", 
+            "serviporno", 
+            "villaanimex", 
+            "yespornplease", 
+            "yohentai", 
+            "ytsmx"
+        ], 
         "platformcode": [
             "dynamic"
         ], 
         "root dir": [
             "dominios", 
             "version"
+        ], 
+        "servers": [
+            "mp4upload", 
+            "tiwi"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "a456c70694fc68049bd163815a07a4fd"
+    "fix_version": 2, 
+    "hash": "645bb1756b686d37ea52ae104641010b"
 }
