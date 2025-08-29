@@ -3,18 +3,25 @@
     "files": {
         "channels": [
             "divxtotal", 
+            "dontorrents", 
             "estrenosanime", 
+            "genteclic", 
+            "gnula", 
             "gnula24", 
             "gnula24h", 
             "grantorrent", 
             "monoschinos", 
             "mundodonghua", 
+            "plushd", 
             "pornxbit", 
             "seriesplus", 
             "serviporno", 
+            "veranime", 
             "villaanimex", 
+            "yandispoiler", 
             "yespornplease", 
             "yohentai", 
+            "yts", 
             "ytsmx"
         ], 
         "platformcode": [
@@ -26,9 +33,11 @@
         ], 
         "servers": [
             "mp4upload", 
-            "tiwi"
+            "tiwi", 
+            "various", 
+            "zures"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "645bb1756b686d37ea52ae104641010b"
+    "fix_version": 3, 
+    "hash": "7b823f6cdc00509bbf1441dc1c9b372d"
 }
