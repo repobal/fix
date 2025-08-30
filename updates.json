@@ -4,6 +4,7 @@
         "channels": [
             "divxtotal", 
             "dontorrents", 
+            "entrepeliculasyseries", 
             "estrenosanime", 
             "genteclic", 
             "gnula", 
@@ -15,7 +16,9 @@
             "plushd", 
             "pornxbit", 
             "seriesplus", 
+            "seriesturcas", 
             "serviporno", 
+            "tubeonline", 
             "veranime", 
             "villaanimex", 
             "yandispoiler", 
@@ -23,6 +26,15 @@
             "yohentai", 
             "yts", 
             "ytsmx"
+        ], 
+        "core": [
+            "httptools", 
+            "requeststools"
+        ], 
+        "modules": [
+            "actions", 
+            "filmaffinitylists", 
+            "generos"
         ], 
         "platformcode": [
             "dynamic"
@@ -32,12 +44,13 @@
             "version"
         ], 
         "servers": [
+            "clicknupload", 
             "mp4upload", 
             "tiwi", 
             "various", 
             "zures"
         ]
     }, 
-    "fix_version": 3, 
-    "hash": "7b823f6cdc00509bbf1441dc1c9b372d"
+    "fix_version": 4, 
+    "hash": "74952580dc6deb6d0feb0ec3fadda151"
 }
