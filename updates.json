@@ -2,8 +2,10 @@
     "addon_version": "4.0.20", 
     "files": {
         "channels": [
+            "cinecalidadlol", 
             "divxtotal", 
             "dontorrents", 
+            "doramasmp4dev", 
             "entrepeliculasyseries", 
             "estrenosanime", 
             "genteclic", 
@@ -11,13 +13,25 @@
             "gnula24", 
             "gnula24h", 
             "grantorrent", 
+            "hdfull", 
+            "henaojara", 
+            "lamovie", 
             "monoschinos", 
             "mundodonghua", 
+            "netnovelas", 
+            "pasateatorrent", 
+            "pediatorrent", 
+            "pelispediaws", 
+            "playdede", 
+            "playplus", 
             "plushd", 
             "pornxbit", 
             "seriesplus", 
             "seriesturcas", 
             "serviporno", 
+            "t1337x", 
+            "tiodonghua", 
+            "torrentgalaxy", 
             "tubeonline", 
             "veranime", 
             "villaanimex", 
@@ -25,19 +39,28 @@
             "yespornplease", 
             "yohentai", 
             "yts", 
-            "ytsmx"
+            "ytsmx", 
+            "zerowpanime"
         ], 
         "core": [
             "httptools", 
-            "requeststools"
+            "requeststools", 
+            "servertools"
         ], 
         "modules": [
             "actions", 
             "filmaffinitylists", 
-            "generos"
+            "generos", 
+            "helper", 
+            "submnuctext", 
+            "submnuteam"
         ], 
         "platformcode": [
-            "dynamic"
+            "dynamic", 
+            "platformtools"
+        ], 
+        "resources": [
+            "settings"
         ], 
         "root dir": [
             "dominios", 
@@ -51,6 +74,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "74952580dc6deb6d0feb0ec3fadda151"
+    "fix_version": 5, 
+    "hash": "f81f8d03c1e52d54ee0586a4027358f6"
 }
