@@ -43,11 +43,16 @@
             "pasateatorrent", 
             "pediatorrent", 
             "peliculasflix", 
+            "peliculaspro", 
+            "pelis28re", 
             "pelispediaws", 
             "pelisxd", 
+            "pelisyseries", 
+            "pgratishd", 
             "playdede", 
             "playplus", 
             "plushd", 
+            "pornhub", 
             "pornxbit", 
             "seriesplus", 
             "seriesturcas", 
@@ -59,6 +64,7 @@
             "tubeonline", 
             "veranime", 
             "villaanimex", 
+            "watchpornfree", 
             "yandispoiler", 
             "yaskeorg", 
             "yespornplease", 
@@ -76,7 +82,10 @@
             "actions", 
             "filmaffinitylists", 
             "generos", 
+            "groups", 
             "helper", 
+            "mainmenu", 
+            "search", 
             "submnuctext", 
             "submnuteam"
         ], 
@@ -100,6 +109,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 6, 
-    "hash": "c4d6fb2ee0988fa406ffbcaca426222b"
+    "fix_version": 7, 
+    "hash": "8e54719538827400dc3a20363941c555"
 }
