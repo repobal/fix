@@ -8,6 +8,8 @@
             "animeonline", 
             "animesenlatino", 
             "animeyt", 
+            "cinecalidad", 
+            "cinecalidadla", 
             "cinecalidadlol", 
             "cinema", 
             "cinemitas", 
@@ -16,6 +18,7 @@
             "detodo", 
             "divxtotal", 
             "dontorrents", 
+            "doramaexpress", 
             "doramasflix", 
             "doramasmp4dev", 
             "doramasqueenin", 
@@ -42,6 +45,7 @@
             "monoschinos", 
             "mundodonghua", 
             "netnovelas", 
+            "nuvid", 
             "onlinetv", 
             "pandramaio", 
             "pasateatorrent", 
@@ -56,8 +60,10 @@
             "playdede", 
             "playplus", 
             "plushd", 
+            "porndude", 
             "pornhub", 
             "pornxbit", 
+            "rarbg", 
             "repelishd", 
             "retrotv", 
             "seriesonline", 
@@ -85,7 +91,9 @@
             "youjizz", 
             "yts", 
             "ytsmx", 
-            "zerowpanime"
+            "zerowpanime", 
+            "zonapelis", 
+            "zoowomaniacos"
         ], 
         "core": [
             "httptools", 
@@ -101,7 +109,8 @@
             "mainmenu", 
             "search", 
             "submnuctext", 
-            "submnuteam"
+            "submnuteam", 
+            "tester"
         ], 
         "platformcode": [
             "dynamic", 
@@ -119,11 +128,12 @@
             "mediafire", 
             "mp4upload", 
             "peertube", 
+            "streamtape", 
             "tiwi", 
             "various", 
             "zures"
         ]
     }, 
-    "fix_version": 8, 
-    "hash": "971ba725d9e0a9db078308a914ca6ee2"
+    "fix_version": 9, 
+    "hash": "c361dbc6d9d5cf26729c00958af5819c"
 }
