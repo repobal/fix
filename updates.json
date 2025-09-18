@@ -54,6 +54,8 @@
             "peliculaspro", 
             "pelis28re", 
             "pelispediaws", 
+            "pelisplayhd", 
+            "pelisplushdnz", 
             "pelisxd", 
             "pelisyseries", 
             "pgratishd", 
@@ -63,9 +65,11 @@
             "porndude", 
             "pornhub", 
             "pornxbit", 
+            "pplus", 
             "rarbg", 
             "repelishd", 
             "retrotv", 
+            "serieskao", 
             "seriesonline", 
             "seriesplus", 
             "seriesturcas", 
@@ -110,7 +114,8 @@
             "search", 
             "submnuctext", 
             "submnuteam", 
-            "tester"
+            "tester", 
+            "tmdblists"
         ], 
         "platformcode": [
             "dynamic", 
@@ -134,6 +139,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 9, 
-    "hash": "c361dbc6d9d5cf26729c00958af5819c"
+    "fix_version": 10, 
+    "hash": "54c140c2bd9c8d94d9c8aea23de6f438"
 }
