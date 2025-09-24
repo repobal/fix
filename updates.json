@@ -1,4 +1,27 @@
 {
     "addon_version": "4.0.21", 
-    "hash": "418bdf026e41d9b7de3a291e8325466e"
+    "files": {
+        "channels": [
+            "hdfull", 
+            "mundodonghua", 
+            "mundodonghuaxyz", 
+            "netnovelas", 
+            "novelas", 
+            "tiodonghua"
+        ], 
+        "modules": [
+            "domains", 
+            "helper", 
+            "proxysearch", 
+            "search", 
+            "submnuctext", 
+            "tester"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "71e327ca1ad2e5cf2865e9c7b44317cf"
 }
