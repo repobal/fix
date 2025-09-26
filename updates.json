@@ -2,26 +2,43 @@
     "addon_version": "4.0.21", 
     "files": {
         "channels": [
+            "cuevana3pro", 
+            "hdcinema", 
             "hdfull", 
             "mundodonghua", 
             "mundodonghuaxyz", 
             "netnovelas", 
             "novelas", 
-            "tiodonghua"
+            "tiodonghua", 
+            "yts"
+        ], 
+        "core": [
+            "httptools", 
+            "requeststools", 
+            "servertools"
         ], 
         "modules": [
+            "actions", 
             "domains", 
+            "generos", 
             "helper", 
             "proxysearch", 
             "search", 
             "submnuctext", 
             "tester"
         ], 
+        "platformcode": [
+            "platformtools"
+        ], 
         "root dir": [
             "dominios", 
             "version"
+        ], 
+        "servers": [
+            "mediafire", 
+            "various"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "71e327ca1ad2e5cf2865e9c7b44317cf"
+    "fix_version": 2, 
+    "hash": "eab03aafc300087ff81e126c3f164783"
 }
