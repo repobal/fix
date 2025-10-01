@@ -3,12 +3,22 @@
     "files": {
         "channels": [
             "cuevana3pro", 
+            "entrepeliculasyseries", 
             "hdcinema", 
             "hdfull", 
+            "henaojaran", 
+            "lamovie", 
             "mundodonghua", 
             "mundodonghuaxyz", 
             "netnovelas", 
             "novelas", 
+            "pelis28re", 
+            "pelisgratishd", 
+            "pelisplushdnz", 
+            "pgratishd", 
+            "repelishd", 
+            "serieskao", 
+            "sololatino", 
             "tiodonghua", 
             "yts"
         ], 
@@ -25,13 +35,18 @@
             "proxysearch", 
             "search", 
             "submnuctext", 
+            "submnuteam", 
             "tester"
         ], 
         "platformcode": [
             "platformtools"
         ], 
+        "resources": [
+            "settings"
+        ], 
         "root dir": [
             "dominios", 
+            "msgfixed", 
             "version"
         ], 
         "servers": [
@@ -39,6 +54,6 @@
             "various"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "eab03aafc300087ff81e126c3f164783"
+    "fix_version": 3, 
+    "hash": "4b122fd948b339e84d5327889fbf07e6"
 }
