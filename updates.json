@@ -2,8 +2,11 @@
     "addon_version": "4.0.21", 
     "files": {
         "channels": [
+            "cinehdplus", 
+            "cinelibreonline", 
             "cuevana3pro", 
             "entrepeliculasyseries", 
+            "estrenoscinesaa", 
             "hdcinema", 
             "hdfull", 
             "henaojaran", 
@@ -16,6 +19,7 @@
             "pelisgratishd", 
             "pelisplushdnz", 
             "pgratishd", 
+            "rarbg", 
             "repelishd", 
             "serieskao", 
             "sololatino", 
@@ -30,7 +34,9 @@
         "modules": [
             "actions", 
             "domains", 
+            "filmaffinitylists", 
             "generos", 
+            "groups", 
             "helper", 
             "proxysearch", 
             "search", 
@@ -51,9 +57,10 @@
         ], 
         "servers": [
             "mediafire", 
-            "various"
+            "various", 
+            "zures"
         ]
     }, 
-    "fix_version": 3, 
-    "hash": "4b122fd948b339e84d5327889fbf07e6"
+    "fix_version": 4, 
+    "hash": "3ee3b38ee035d638add98637deb4944e"
 }
