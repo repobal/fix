@@ -5,7 +5,9 @@
             "cinehdplus", 
             "cinelibreonline", 
             "cuevana3pro", 
+            "doramaexpress", 
             "entrepeliculasyseries", 
+            "estrenosanime", 
             "estrenoscinesaa", 
             "hdcinema", 
             "hdfull", 
@@ -15,16 +17,20 @@
             "mundodonghuaxyz", 
             "netnovelas", 
             "novelas", 
+            "osjonosu", 
             "pelis28re", 
             "pelisgratishd", 
             "pelisplushdnz", 
             "pgratishd", 
+            "playplus", 
             "rarbg", 
             "repelishd", 
             "serieskao", 
             "sololatino", 
             "tiodonghua", 
-            "yts"
+            "yandispoiler", 
+            "yts", 
+            "zerowpanime"
         ], 
         "core": [
             "httptools", 
@@ -61,6 +67,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "3ee3b38ee035d638add98637deb4944e"
+    "fix_version": 5, 
+    "hash": "92a6f02c64400582ca32926eedf718f8"
 }
