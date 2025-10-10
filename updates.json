@@ -4,6 +4,10 @@
         "channels": [
             "allpeliculasse", 
             "animeflv", 
+            "animejl", 
+            "animemix", 
+            "animeonline", 
+            "animeyt", 
             "areshd", 
             "cinecalidad", 
             "cinecalidadla", 
@@ -20,8 +24,11 @@
             "estrenoscinesaa", 
             "hdcinema", 
             "hdfull", 
+            "henaojara", 
             "henaojaran", 
+            "jkanime", 
             "lamovie", 
+            "latanime", 
             "megaserie", 
             "monoschinos", 
             "mundodonghua", 
@@ -59,6 +66,7 @@
             "generos", 
             "groups", 
             "helper", 
+            "mainmenu", 
             "proxysearch", 
             "search", 
             "submnuctext", 
@@ -78,11 +86,12 @@
         ], 
         "servers": [
             "dailymotion", 
+            "gvideo", 
             "mediafire", 
             "various", 
             "zures"
         ]
     }, 
-    "fix_version": 6, 
-    "hash": "a177d12dccc456353c334a665fa0bc27"
+    "fix_version": 7, 
+    "hash": "0af1594bd0156dec6b142596d98c18cc"
 }
