@@ -84,6 +84,7 @@
             "domains", 
             "favoritos", 
             "filmaffinitylists", 
+            "filters", 
             "generos", 
             "groups", 
             "helper", 
@@ -113,6 +114,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 8, 
-    "hash": "d7d1ae7dea8741f4555b6a017f231d50"
+    "fix_version": 9, 
+    "hash": "cffe98b762490077e7f43ca0a77e0d14"
 }
