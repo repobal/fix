@@ -2,6 +2,7 @@
     "addon_version": "4.0.21", 
     "files": {
         "channels": [
+            "absoluporn", 
             "allpeliculasse", 
             "animeflv", 
             "animejl", 
@@ -18,6 +19,8 @@
             "cuevana3re", 
             "dontorrents", 
             "doramaexpress", 
+            "doramasmp4dev", 
+            "doramasqueenin", 
             "elifilms", 
             "elitetorrent", 
             "elitetorrentnz", 
@@ -25,6 +28,7 @@
             "estrenosanime", 
             "estrenoscinesaa", 
             "eztv", 
+            "gnula", 
             "gnula24", 
             "gnula24h", 
             "gnulacenter", 
@@ -33,6 +37,9 @@
             "hdfull", 
             "henaojara", 
             "henaojaran", 
+            "hentaijl", 
+            "hentaila", 
+            "hentaisd", 
             "jkanime", 
             "lamovie", 
             "latanime", 
@@ -53,6 +60,7 @@
             "pgratishd", 
             "playdede", 
             "playplus", 
+            "porndude", 
             "rarbg", 
             "repelishd", 
             "series24", 
@@ -64,12 +72,16 @@
             "tiodonghua", 
             "tomadivx", 
             "veranime", 
+            "verdocumentalesonline", 
+            "vernovelas", 
             "verpelis", 
             "villaanimex", 
             "yandispoiler", 
+            "youjizz", 
             "yts", 
             "zerowpanime", 
-            "zonaleros"
+            "zonaleros", 
+            "zoowomaniacos"
         ], 
         "core": [
             "httptools", 
@@ -93,7 +105,8 @@
             "search", 
             "submnuctext", 
             "submnuteam", 
-            "tester"
+            "tester", 
+            "tmdblists"
         ], 
         "platformcode": [
             "platformtools"
@@ -110,10 +123,11 @@
             "dailymotion", 
             "gvideo", 
             "mediafire", 
+            "upstream", 
             "various", 
             "zures"
         ]
     }, 
-    "fix_version": 9, 
-    "hash": "cffe98b762490077e7f43ca0a77e0d14"
+    "fix_version": 10, 
+    "hash": "ed488d136c549d6f2455151a00d8aed8"
 }
