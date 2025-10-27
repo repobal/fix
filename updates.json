@@ -1,4 +1,45 @@
 {
     "addon_version": "4.0.22", 
-    "hash": "0d4b01afafccc986c1f712edf85d88d7"
+    "files": {
+        "channels": [
+            "cam4", 
+            "divxtotal", 
+            "dontorrents", 
+            "doramaexpress", 
+            "doramasmp4dev", 
+            "grantorrent", 
+            "hentaijl", 
+            "mundodonghua", 
+            "mundodonghuaxyz", 
+            "netnovelas", 
+            "pandamovies", 
+            "xmoviesforyou", 
+            "yohentai"
+        ], 
+        "core": [
+            "httptools", 
+            "requeststools", 
+            "tmdb"
+        ], 
+        "modules": [
+            "actions", 
+            "filmaffinitylists", 
+            "groups", 
+            "helper", 
+            "mainmenu", 
+            "submnuctext", 
+            "submnuteam", 
+            "tmdblists"
+        ], 
+        "root dir": [
+            "dominios", 
+            "msgfixed", 
+            "version"
+        ], 
+        "servers": [
+            "streamtape"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "0e88b5b59e12390055e87448a9356659"
 }
