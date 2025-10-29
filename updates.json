@@ -2,17 +2,51 @@
     "addon_version": "4.0.22", 
     "files": {
         "channels": [
+            "asialive", 
             "cam4", 
+            "cinecalidad", 
+            "cinema", 
+            "cuevana2", 
+            "cuevana2esp", 
+            "cuevana3pro", 
+            "cuevana3run", 
             "divxtotal", 
             "dontorrents", 
             "doramaexpress", 
             "doramasmp4dev", 
+            "ennovelastv", 
+            "entrepeliculasyseries", 
+            "gnula", 
+            "gnula24h", 
+            "gnulacenter", 
             "grantorrent", 
+            "hdfull", 
+            "henaojaran", 
             "hentaijl", 
+            "homecine", 
             "mundodonghua", 
             "mundodonghuaxyz", 
             "netnovelas", 
+            "onlinetv", 
             "pandamovies", 
+            "pelisgratishd", 
+            "pelisplushd", 
+            "pelisplushdlat", 
+            "pgratishd", 
+            "playplus", 
+            "poseidonhd2", 
+            "retrotv", 
+            "series24", 
+            "seriesmetron", 
+            "seriesonline", 
+            "seriespapayato", 
+            "seriesplus", 
+            "seriesretro", 
+            "sololatino", 
+            "star", 
+            "verflix", 
+            "vernovelas", 
+            "veronline", 
             "xmoviesforyou", 
             "yohentai"
         ], 
@@ -24,9 +58,12 @@
         "modules": [
             "actions", 
             "filmaffinitylists", 
+            "generos", 
             "groups", 
             "helper", 
             "mainmenu", 
+            "novelty", 
+            "search", 
             "submnuctext", 
             "submnuteam", 
             "tmdblists"
@@ -37,9 +74,11 @@
             "version"
         ], 
         "servers": [
-            "streamtape"
+            "streamtape", 
+            "various", 
+            "zures"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "0e88b5b59e12390055e87448a9356659"
+    "fix_version": 2, 
+    "hash": "ae648cb4ea5b29beda17d29c4c39ccea"
 }
