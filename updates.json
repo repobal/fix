@@ -17,7 +17,9 @@
             "cinecalidadla", 
             "cinecalidadlol", 
             "cinehdplus", 
+            "cinelibreonline", 
             "cinema", 
+            "cinematteflix", 
             "cinemitas", 
             "cinemundo", 
             "cineplay", 
@@ -118,6 +120,7 @@
             "srnovelas", 
             "star", 
             "subtorrents", 
+            "t1337x", 
             "tioanime", 
             "tiodonghua", 
             "todotorrents", 
@@ -170,10 +173,12 @@
         ], 
         "servers": [
             "streamtape", 
+            "tiwi", 
             "various", 
+            "youtube", 
             "zures"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "f72d7cba2f5f06ca533c346dc01882c2"
+    "fix_version": 5, 
+    "hash": "0e30a8afe69eb24368898ae8466a94d5"
 }
