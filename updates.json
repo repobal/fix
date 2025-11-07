@@ -69,6 +69,7 @@
             "lacartoons", 
             "lamovie", 
             "latanime", 
+            "legalmentegratis", 
             "lilatorrent", 
             "mbstelenovelas", 
             "megaserie", 
@@ -161,7 +162,8 @@
             "search", 
             "submnuctext", 
             "submnuteam", 
-            "tmdblists"
+            "tmdblists", 
+            "youtubetrailers"
         ], 
         "platformcode": [
             "platformtools"
@@ -172,13 +174,17 @@
             "version"
         ], 
         "servers": [
+            "kinoger", 
+            "mediafire", 
             "streamtape", 
+            "supervideo", 
             "tiwi", 
             "various", 
+            "waaw", 
             "youtube", 
             "zures"
         ]
     }, 
-    "fix_version": 5, 
-    "hash": "0e30a8afe69eb24368898ae8466a94d5"
+    "fix_version": 6, 
+    "hash": "846e135809005b31f4eeeb3456db381a"
 }
