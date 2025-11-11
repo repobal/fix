@@ -101,6 +101,7 @@
             "pgratishd", 
             "playplus", 
             "plushd", 
+            "porntrex", 
             "poseidonhd2", 
             "rarbg", 
             "reinventorrent", 
@@ -126,6 +127,9 @@
             "tiodonghua", 
             "todotorrents", 
             "tomadivx", 
+            "torrentgalaxy", 
+            "trailers", 
+            "tvseries", 
             "veranime", 
             "verdetorrent", 
             "verdocumentalesonline", 
@@ -140,6 +144,7 @@
             "xvideos", 
             "yandispoiler", 
             "yohentai", 
+            "youtubedocs", 
             "yts", 
             "zerowpanime", 
             "zonaleros", 
@@ -150,6 +155,9 @@
             "requeststools", 
             "servertools", 
             "tmdb"
+        ], 
+        "lib": [
+            "serverkt"
         ], 
         "modules": [
             "actions", 
@@ -169,12 +177,14 @@
             "platformtools"
         ], 
         "root dir": [
+            "default", 
             "dominios", 
             "msgfixed", 
             "version"
         ], 
         "servers": [
             "kinoger", 
+            "ktp", 
             "mediafire", 
             "streamtape", 
             "supervideo", 
@@ -185,6 +195,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 6, 
-    "hash": "846e135809005b31f4eeeb3456db381a"
+    "fix_version": 7, 
+    "hash": "d3e34a3c414c85ef9f46a6ea49d2a949"
 }
