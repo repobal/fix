@@ -154,7 +154,8 @@
             "httptools", 
             "requeststools", 
             "servertools", 
-            "tmdb"
+            "tmdb", 
+            "tvdb"
         ], 
         "lib": [
             "serverkt"
@@ -170,11 +171,15 @@
             "search", 
             "submnuctext", 
             "submnuteam", 
+            "tester", 
             "tmdblists", 
             "youtubetrailers"
         ], 
         "platformcode": [
             "platformtools"
+        ], 
+        "resources": [
+            "settings"
         ], 
         "root dir": [
             "default", 
@@ -189,12 +194,13 @@
             "streamtape", 
             "supervideo", 
             "tiwi", 
+            "uqload", 
             "various", 
             "waaw", 
             "youtube", 
             "zures"
         ]
     }, 
-    "fix_version": 7, 
-    "hash": "d3e34a3c414c85ef9f46a6ea49d2a949"
+    "fix_version": 8, 
+    "hash": "c554f398c51a9ca73fba13ef042140a5"
 }
