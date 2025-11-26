@@ -1,4 +1,32 @@
 {
     "addon_version": "4.0.23", 
-    "hash": "6452c5643e97e0e422f4835753356507"
+    "files": {
+        "channels": [
+            "animeonline", 
+            "area51", 
+            "seriesretro", 
+            "xxxparody"
+        ], 
+        "core": [
+            "tmdb"
+        ], 
+        "modules": [
+            "actions", 
+            "downloads", 
+            "helper", 
+            "mainmenu", 
+            "search", 
+            "submnuteam"
+        ], 
+        "platformcode": [
+            "updater"
+        ], 
+        "root dir": [
+            "default", 
+            "dominios", 
+            "version"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "540d80a45e9c50030d00022f7747918b"
 }
