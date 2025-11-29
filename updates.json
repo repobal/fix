@@ -4,19 +4,25 @@
         "channels": [
             "animeonline", 
             "area51", 
+            "mejortorrentin", 
             "seriesretro", 
-            "xxxparody"
+            "xxxparody", 
+            "ytsmx"
         ], 
         "core": [
+            "proxytools", 
+            "proxytoolsz", 
             "tmdb"
         ], 
         "modules": [
             "actions", 
             "downloads", 
+            "generos", 
             "helper", 
             "mainmenu", 
             "search", 
-            "submnuteam"
+            "submnuteam", 
+            "tracking"
         ], 
         "platformcode": [
             "updater"
@@ -27,6 +33,6 @@
             "version"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "540d80a45e9c50030d00022f7747918b"
+    "fix_version": 2, 
+    "hash": "6fe024d75724f411884fde5e5d75ac08"
 }
