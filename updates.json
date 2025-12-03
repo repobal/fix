@@ -4,12 +4,16 @@
         "channels": [
             "animeonline", 
             "area51", 
+            "divxatope", 
             "dontorrent21", 
+            "dontorrents", 
             "dontorrentsin", 
             "homecine", 
             "mejortorrentin", 
             "seriesmetron", 
             "seriesretro", 
+            "veronline", 
+            "veronlinelatino", 
             "xxxparody", 
             "ytsmx"
         ], 
@@ -38,6 +42,6 @@
             "version"
         ]
     }, 
-    "fix_version": 3, 
-    "hash": "600dff1bc211c4ad52e69216a9c78370"
+    "fix_version": 4, 
+    "hash": "ac9f6a0d0352eff583714fae91a9898b"
 }
