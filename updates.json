@@ -12,6 +12,7 @@
             "mejortorrentin", 
             "seriesmetron", 
             "seriesretro", 
+            "verflix", 
             "veronline", 
             "veronlinelatino", 
             "xxxparody", 
@@ -30,8 +31,11 @@
             "mainmenu", 
             "novelty", 
             "search", 
+            "submnuctext", 
             "submnuteam", 
-            "tracking"
+            "tester", 
+            "tracking", 
+            "youtubetrailers"
         ], 
         "platformcode": [
             "updater"
@@ -40,8 +44,11 @@
             "default", 
             "dominios", 
             "version"
+        ], 
+        "servers": [
+            "youtube"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "ac9f6a0d0352eff583714fae91a9898b"
+    "fix_version": 5, 
+    "hash": "d4595b85079ee8b62594f2cf1f89b617"
 }
