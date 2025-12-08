@@ -4,12 +4,15 @@
         "channels": [
             "animeonline", 
             "area51", 
+            "cinecalidad", 
             "divxatope", 
             "dontorrent21", 
             "dontorrents", 
             "dontorrentsin", 
             "homecine", 
             "mejortorrentin", 
+            "pelisplushdlat", 
+            "plushd", 
             "seriesmetron", 
             "seriesretro", 
             "verflix", 
@@ -21,6 +24,7 @@
         "core": [
             "proxytools", 
             "proxytoolsz", 
+            "servertools", 
             "tmdb"
         ], 
         "modules": [
@@ -38,6 +42,7 @@
             "youtubetrailers"
         ], 
         "platformcode": [
+            "platformtools", 
             "updater"
         ], 
         "root dir": [
@@ -46,9 +51,11 @@
             "version"
         ], 
         "servers": [
+            "doodstream", 
+            "voe", 
             "youtube"
         ]
     }, 
-    "fix_version": 5, 
-    "hash": "d4595b85079ee8b62594f2cf1f89b617"
+    "fix_version": 6, 
+    "hash": "a5a10828d34d46266503c616c4ee4d8e"
 }
