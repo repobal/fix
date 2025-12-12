@@ -2,15 +2,20 @@
     "addon_version": "4.0.23", 
     "files": {
         "channels": [
+            "animejl", 
             "animeonline", 
             "area51", 
             "cinecalidad", 
+            "cineplus", 
             "divxatope", 
             "dontorrent21", 
             "dontorrents", 
             "dontorrentsin", 
+            "hentaisd", 
             "homecine", 
             "mejortorrentin", 
+            "mundodesconocido", 
+            "pelis182", 
             "pelisplushdlat", 
             "plushd", 
             "seriesmetron", 
@@ -56,6 +61,6 @@
             "youtube"
         ]
     }, 
-    "fix_version": 6, 
-    "hash": "a5a10828d34d46266503c616c4ee4d8e"
+    "fix_version": 7, 
+    "hash": "8a6923d7cc95ac387de67ac7bd7a47ca"
 }
