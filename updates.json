@@ -14,9 +14,13 @@
             "hentaisd", 
             "homecine", 
             "mejortorrentin", 
+            "mejortorrentnz", 
             "mundodesconocido", 
+            "osjonosu", 
             "pelis182", 
             "pelisplushdlat", 
+            "pgratishd", 
+            "playdede", 
             "plushd", 
             "seriesmetron", 
             "seriesretro", 
@@ -24,7 +28,9 @@
             "veronline", 
             "veronlinelatino", 
             "xxxparody", 
-            "ytsmx"
+            "yts", 
+            "ytsmx", 
+            "zonapelis"
         ], 
         "core": [
             "proxytools", 
@@ -34,6 +40,7 @@
         ], 
         "modules": [
             "actions", 
+            "domains", 
             "downloads", 
             "generos", 
             "helper", 
@@ -50,6 +57,9 @@
             "platformtools", 
             "updater"
         ], 
+        "resources": [
+            "settings"
+        ], 
         "root dir": [
             "default", 
             "dominios", 
@@ -61,6 +71,6 @@
             "youtube"
         ]
     }, 
-    "fix_version": 7, 
-    "hash": "8a6923d7cc95ac387de67ac7bd7a47ca"
+    "fix_version": 8, 
+    "hash": "b750ef7d17fe27ab4cbc9c4adbb39d5a"
 }
