@@ -11,6 +11,8 @@
             "dontorrent21", 
             "dontorrents", 
             "dontorrentsin", 
+            "gnula24", 
+            "gnula24h", 
             "hentaisd", 
             "homecine", 
             "mejortorrentin", 
@@ -22,7 +24,9 @@
             "pgratishd", 
             "playdede", 
             "plushd", 
+            "series24", 
             "seriesmetron", 
+            "seriesplus", 
             "seriesretro", 
             "verflix", 
             "veronline", 
@@ -71,6 +75,6 @@
             "youtube"
         ]
     }, 
-    "fix_version": 8, 
-    "hash": "b750ef7d17fe27ab4cbc9c4adbb39d5a"
+    "fix_version": 9, 
+    "hash": "85398a7e5e1863d98aa4bcf157c900f0"
 }
