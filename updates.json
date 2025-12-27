@@ -1,4 +1,42 @@
 {
     "addon_version": "4.0.24", 
-    "hash": "0531a9140c09dd34b5c4995e356d0e87"
+    "files": {
+        "channels": [
+            "daftsex", 
+            "doramaexpress", 
+            "doramasflix", 
+            "doramasflixin", 
+            "doramasflixio", 
+            "doramasorg", 
+            "ennovelastv", 
+            "entrepeliculasyseries", 
+            "megadedeoficial", 
+            "pelisgratishd", 
+            "pornenix", 
+            "yandispoiler"
+        ], 
+        "core": [
+            "servertools"
+        ], 
+        "modules": [
+            "generos", 
+            "helper", 
+            "novelty", 
+            "submnuteam", 
+            "tester"
+        ], 
+        "platformcode": [
+            "platformtools"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ], 
+        "servers": [
+            "various", 
+            "zures"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "be78af6450e264010bc00578c263016e"
 }
