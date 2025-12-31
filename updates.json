@@ -2,6 +2,7 @@
     "addon_version": "4.0.24", 
     "files": {
         "channels": [
+            "allpeliculasse", 
             "daftsex", 
             "doramaexpress", 
             "doramasflix", 
@@ -10,20 +11,27 @@
             "doramasorg", 
             "ennovelastv", 
             "entrepeliculasyseries", 
+            "gnulatv", 
             "megadedeoficial", 
+            "osjonosu", 
+            "pelis182", 
             "pelisgratishd", 
             "pornenix", 
+            "seriesyonkissx", 
             "yandispoiler"
         ], 
         "core": [
             "servertools"
         ], 
         "modules": [
+            "actions", 
             "generos", 
             "helper", 
             "novelty", 
+            "submnuctext", 
             "submnuteam", 
-            "tester"
+            "tester", 
+            "youtubetrailers"
         ], 
         "platformcode": [
             "platformtools"
@@ -33,10 +41,11 @@
             "version"
         ], 
         "servers": [
+            "mixdrop", 
             "various", 
             "zures"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "be78af6450e264010bc00578c263016e"
+    "fix_version": 2, 
+    "hash": "0ee0d3b1c6e20398451b8997fc4bbad6"
 }
