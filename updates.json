@@ -18,7 +18,8 @@
             "pelisgratishd", 
             "pornenix", 
             "seriesyonkissx", 
-            "yandispoiler"
+            "yandispoiler", 
+            "zonaleros"
         ], 
         "core": [
             "servertools"
@@ -26,7 +27,9 @@
         "modules": [
             "actions", 
             "generos", 
+            "groups", 
             "helper", 
+            "mainmenu", 
             "novelty", 
             "submnuctext", 
             "submnuteam", 
@@ -46,6 +49,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "0ee0d3b1c6e20398451b8997fc4bbad6"
+    "fix_version": 3, 
+    "hash": "7a22cf2bb995f62c394ad3407ee53560"
 }
