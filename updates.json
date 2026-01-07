@@ -12,13 +12,20 @@
             "ennovelastv", 
             "entrepeliculasyseries", 
             "estrenosanime", 
+            "gnula24", 
+            "gnulacenter", 
             "gnulatv", 
             "megadedeoficial", 
             "osjonosu", 
+            "peliculaspro", 
             "pelis182", 
+            "pelisflix", 
             "pelisgratishd", 
             "pornenix", 
             "seriesyonkissx", 
+            "sflix", 
+            "trailers", 
+            "verpelisonline", 
             "yandispoiler", 
             "zerowpanime", 
             "zonaleros"
@@ -28,12 +35,15 @@
         ], 
         "modules": [
             "actions", 
+            "filmaffinitylists", 
             "filters", 
             "generos", 
             "groups", 
             "helper", 
             "mainmenu", 
             "novelty", 
+            "proxysearch", 
+            "search", 
             "submnuctext", 
             "submnuteam", 
             "tester", 
@@ -42,6 +52,9 @@
         "platformcode": [
             "platformtools"
         ], 
+        "resources": [
+            "settings"
+        ], 
         "root dir": [
             "dominios", 
             "version"
@@ -49,9 +62,10 @@
         "servers": [
             "mixdrop", 
             "various", 
+            "vshare", 
             "zures"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "8b6a779844b2fc1d481edc637b186f8b"
+    "fix_version": 5, 
+    "hash": "db655991e1b37c127e73bc7e87ac93a7"
 }
