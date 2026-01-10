@@ -3,6 +3,8 @@
     "files": {
         "channels": [
             "allpeliculasse", 
+            "asialive", 
+            "cuevana3run", 
             "daftsex", 
             "doramaexpress", 
             "doramasflix", 
@@ -21,6 +23,8 @@
             "pelis182", 
             "pelisflix", 
             "pelisgratishd", 
+            "pelisplushd", 
+            "plushd", 
             "pornenix", 
             "seriesyonkissx", 
             "sflix", 
@@ -31,6 +35,8 @@
             "zonaleros"
         ], 
         "core": [
+            "httptools", 
+            "requeststools", 
             "servertools"
         ], 
         "modules": [
@@ -60,12 +66,13 @@
             "version"
         ], 
         "servers": [
+            "kinoger", 
             "mixdrop", 
             "various", 
             "vshare", 
             "zures"
         ]
     }, 
-    "fix_version": 5, 
-    "hash": "db655991e1b37c127e73bc7e87ac93a7"
+    "fix_version": 6, 
+    "hash": "bc0c07bd5d810cb9009519e47c4827ee"
 }
