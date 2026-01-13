@@ -14,22 +14,34 @@
             "ennovelastv", 
             "entrepeliculasyseries", 
             "estrenosanime", 
+            "estrenosdoramases", 
             "gnula24", 
             "gnulacenter", 
             "gnulatv", 
+            "henaojara", 
+            "henaojaran", 
+            "joinclub", 
             "megadedeoficial", 
+            "monoschinos", 
+            "netnovelas", 
             "osjonosu", 
+            "paraveronline", 
             "peliculaspro", 
             "pelis182", 
             "pelisflix", 
             "pelisgratishd", 
             "pelisplushd", 
             "plushd", 
+            "porn00", 
             "pornenix", 
+            "seriesplus", 
             "seriesyonkissx", 
             "sflix", 
             "trailers", 
+            "tubepelis", 
             "verpelisonline", 
+            "verseries", 
+            "xmfy", 
             "yandispoiler", 
             "zerowpanime", 
             "zonaleros"
@@ -73,6 +85,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 6, 
-    "hash": "bc0c07bd5d810cb9009519e47c4827ee"
+    "fix_version": 7, 
+    "hash": "9fa2bf1733ca7735b35d630a2d2cc9a5"
 }
