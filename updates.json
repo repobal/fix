@@ -11,6 +11,7 @@
             "doramasflixin", 
             "doramasflixio", 
             "doramasorg", 
+            "doramasyt", 
             "ennovelastv", 
             "entrepeliculasyseries", 
             "estrenosanime", 
@@ -80,11 +81,12 @@
         "servers": [
             "kinoger", 
             "mixdrop", 
+            "uqload", 
             "various", 
             "vshare", 
             "zures"
         ]
     }, 
-    "fix_version": 7, 
-    "hash": "9fa2bf1733ca7735b35d630a2d2cc9a5"
+    "fix_version": 8, 
+    "hash": "dc2ad68c42c172bb8d3f958cbdd31b93"
 }
