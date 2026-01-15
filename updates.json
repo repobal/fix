@@ -23,6 +23,7 @@
             "henaojaran", 
             "joinclub", 
             "megadedeoficial", 
+            "mejortorrentapp", 
             "monoschinos", 
             "netnovelas", 
             "osjonosu", 
@@ -32,6 +33,8 @@
             "pelisflix", 
             "pelisgratishd", 
             "pelisplushd", 
+            "playdede", 
+            "playplus", 
             "plushd", 
             "porn00", 
             "pornenix", 
@@ -44,6 +47,7 @@
             "verseries", 
             "xmfy", 
             "yandispoiler", 
+            "yts", 
             "zerowpanime", 
             "zonaleros"
         ], 
@@ -87,6 +91,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 8, 
-    "hash": "dc2ad68c42c172bb8d3f958cbdd31b93"
+    "fix_version": 9, 
+    "hash": "64adfe7473a4bbb3741a7f86ad8009ee"
 }
