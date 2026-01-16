@@ -41,6 +41,8 @@
             "seriesplus", 
             "seriesyonkissx", 
             "sflix", 
+            "star", 
+            "streamgratis", 
             "trailers", 
             "tubepelis", 
             "verpelisonline", 
@@ -54,10 +56,12 @@
         "core": [
             "httptools", 
             "requeststools", 
-            "servertools"
+            "servertools", 
+            "tvdb"
         ], 
         "modules": [
             "actions", 
+            "downloads", 
             "filmaffinitylists", 
             "filters", 
             "generos", 
@@ -91,6 +95,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 9, 
-    "hash": "64adfe7473a4bbb3741a7f86ad8009ee"
+    "fix_version": 10, 
+    "hash": "8dac69a66064ee4eed76d836efd8458f"
 }
