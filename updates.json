@@ -1,4 +1,34 @@
 {
     "addon_version": "4.0.25", 
-    "hash": "e1ac9ea48ddcbd3db78e8457753030ae"
+    "files": {
+        "channels": [
+            "allpeliculasse", 
+            "cinecalidadla", 
+            "cinecalidadlol", 
+            "cinecalidadrs", 
+            "cuevana3pro", 
+            "cuevana3re", 
+            "detodo", 
+            "dpeliculas", 
+            "hdcinema", 
+            "ikucomics", 
+            "latanime", 
+            "paraveronline", 
+            "peliculasonline", 
+            "seriesgato", 
+            "seriesyonkissx", 
+            "tubepelis"
+        ], 
+        "modules": [
+            "generos", 
+            "novelty", 
+            "youtubetrailers"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "5f626b52b45e4b65806e922256ece65d"
 }
