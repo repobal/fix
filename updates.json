@@ -8,27 +8,59 @@
             "cinecalidadrs", 
             "cuevana3pro", 
             "cuevana3re", 
+            "cuevanamx", 
             "detodo", 
+            "dontorrents", 
             "dpeliculas", 
             "hdcinema", 
             "ikucomics", 
             "latanime", 
+            "mirafilms", 
             "paraveronline", 
             "peliculasonline", 
+            "pelisflix", 
             "seriesgato", 
             "seriesyonkissx", 
-            "tubepelis"
+            "tubepelis", 
+            "vernovelas"
         ], 
         "modules": [
+            "filters", 
             "generos", 
+            "helper", 
             "novelty", 
+            "submnuteam", 
             "youtubetrailers"
         ], 
         "root dir": [
             "dominios", 
             "version"
+        ], 
+        "servers": [
+            "cloudvideo", 
+            "dailymotion", 
+            "doodstream", 
+            "flashx", 
+            "gamovideo", 
+            "gofile", 
+            "mixdrop", 
+            "playtube", 
+            "racaty", 
+            "streamlare", 
+            "streamtape", 
+            "streamvid", 
+            "uptobox", 
+            "uqload", 
+            "userscloud", 
+            "vidmoly", 
+            "vimeo", 
+            "vk", 
+            "voe", 
+            "vshare", 
+            "waaw", 
+            "youtube"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "5f626b52b45e4b65806e922256ece65d"
+    "fix_version": 2, 
+    "hash": "6b5cc9024082c822c957de6143951ec3"
 }
