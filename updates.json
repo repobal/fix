@@ -13,23 +13,31 @@
             "dontorrents", 
             "dpeliculas", 
             "hdcinema", 
+            "hdfull", 
             "ikucomics", 
             "latanime", 
             "mirafilms", 
+            "monoschinos", 
             "paraveronline", 
             "peliculasonline", 
             "pelisflix", 
             "seriesgato", 
             "seriesyonkissx", 
             "tubepelis", 
+            "tucineclasico", 
             "vernovelas"
         ], 
         "modules": [
+            "domains", 
             "filters", 
             "generos", 
+            "groups", 
             "helper", 
             "novelty", 
+            "proxysearch", 
+            "submnuctext", 
             "submnuteam", 
+            "tester", 
             "youtubetrailers"
         ], 
         "root dir": [
@@ -61,6 +69,6 @@
             "youtube"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "6b5cc9024082c822c957de6143951ec3"
+    "fix_version": 3, 
+    "hash": "323487d42348cc4ceff896e0531984f5"
 }
