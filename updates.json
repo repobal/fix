@@ -14,20 +14,28 @@
             "dpeliculas", 
             "hdcinema", 
             "hdfull", 
+            "henaojara", 
             "ikucomics", 
             "latanime", 
+            "mbstelenovelas", 
             "mirafilms", 
             "monoschinos", 
+            "onlinetv", 
             "paraveronline", 
             "peliculasonline", 
             "pelisflix", 
+            "pornxbit", 
+            "rarbg", 
             "retroflix", 
             "seriesgato", 
+            "seriesonline", 
             "seriesyonkissx", 
             "sflix", 
+            "t1337x", 
             "tubepelis", 
             "tucineclasico", 
-            "vernovelas"
+            "vernovelas", 
+            "veronline"
         ], 
         "core": [
             "proxytools", 
@@ -35,6 +43,7 @@
             "servertools"
         ], 
         "modules": [
+            "actions", 
             "domains", 
             "filters", 
             "generos", 
@@ -84,6 +93,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "803b776d3ffc40be1dd4ee89c73f8509"
+    "fix_version": 5, 
+    "hash": "085e352d508134682dfa68ba787ca98b"
 }
