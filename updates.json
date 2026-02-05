@@ -3,9 +3,11 @@
     "files": {
         "channels": [
             "allpeliculasse", 
+            "cinecalidad", 
             "cinecalidadla", 
             "cinecalidadlol", 
             "cinecalidadrs", 
+            "cineplus", 
             "cuevana3pro", 
             "cuevana3re", 
             "cuevanamx", 
@@ -31,11 +33,13 @@
             "seriesonline", 
             "seriesyonkissx", 
             "sflix", 
+            "star", 
             "t1337x", 
             "tubepelis", 
             "tucineclasico", 
             "vernovelas", 
-            "veronline"
+            "veronline", 
+            "verserieonline"
         ], 
         "core": [
             "proxytools", 
@@ -93,6 +97,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 5, 
-    "hash": "085e352d508134682dfa68ba787ca98b"
+    "fix_version": 6, 
+    "hash": "e9ce9cab13fd46294ab38fab9f8f20f0"
 }
