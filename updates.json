@@ -11,21 +11,28 @@
             "cuevana3pro", 
             "cuevana3re", 
             "cuevanamx", 
+            "daftsex", 
             "detodo", 
+            "documentarystorm", 
             "dontorrents", 
+            "doramasyt", 
             "dpeliculas", 
             "hdcinema", 
             "hdfull", 
             "henaojara", 
+            "homemade", 
             "ikucomics", 
             "latanime", 
             "mbstelenovelas", 
+            "megaserie", 
             "mirafilms", 
             "monoschinos", 
             "onlinetv", 
+            "pandamovies", 
             "paraveronline", 
             "peliculasonline", 
             "pelisflix", 
+            "pelisforte", 
             "pornxbit", 
             "rarbg", 
             "retroflix", 
@@ -37,9 +44,14 @@
             "t1337x", 
             "tubepelis", 
             "tucineclasico", 
+            "veranime", 
+            "verflix", 
             "vernovelas", 
             "veronline", 
-            "verserieonline"
+            "verpelisonline", 
+            "verserieonline", 
+            "xmoviesforyou", 
+            "xxxparody"
         ], 
         "core": [
             "proxytools", 
@@ -87,6 +99,7 @@
             "uptobox", 
             "uqload", 
             "userscloud", 
+            "various", 
             "vidmoly", 
             "vimeo", 
             "vk", 
@@ -97,6 +110,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 6, 
-    "hash": "e9ce9cab13fd46294ab38fab9f8f20f0"
+    "fix_version": 7, 
+    "hash": "1c6a0cf330c9301fab203eee9bf70944"
 }
