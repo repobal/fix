@@ -5,9 +5,12 @@
             "allpeliculasse", 
             "cinecalidad", 
             "cinecalidadla", 
+            "cinecalidadlat", 
             "cinecalidadlol", 
             "cinecalidadrs", 
             "cineplus", 
+            "cuevana2", 
+            "cuevana2esp", 
             "cuevana3pro", 
             "cuevana3re", 
             "cuevanamx", 
@@ -33,6 +36,7 @@
             "peliculasonline", 
             "pelisflix", 
             "pelisforte", 
+            "playplus", 
             "pornxbit", 
             "rarbg", 
             "retroflix", 
@@ -81,6 +85,7 @@
         ], 
         "root dir": [
             "dominios", 
+            "msgfixed", 
             "version"
         ], 
         "servers": [
@@ -110,6 +115,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 7, 
-    "hash": "1c6a0cf330c9301fab203eee9bf70944"
+    "fix_version": 8, 
+    "hash": "fa7ade197ff7a1a32f6c9e05491a4de0"
 }
