@@ -59,8 +59,10 @@
             "xxxparody"
         ], 
         "core": [
+            "httptools", 
             "proxytools", 
             "proxytoolsz", 
+            "requeststools", 
             "servertools"
         ], 
         "modules": [
@@ -116,6 +118,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 9, 
-    "hash": "76543496866489ea33667db8f2c7246d"
+    "fix_version": 10, 
+    "hash": "ba7d03052890bc60cc614694bf44c38b"
 }
