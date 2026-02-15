@@ -8,6 +8,7 @@
             "cinecalidadlat", 
             "cinecalidadlol", 
             "cinecalidadrs", 
+            "cinemitas", 
             "cineplus", 
             "cuevana2", 
             "cuevana2esp", 
@@ -35,6 +36,8 @@
             "pandamovies", 
             "paraveronline", 
             "peliculasonline", 
+            "peliculaspro", 
+            "pelis28re", 
             "pelisflix", 
             "pelisforte", 
             "playplus", 
@@ -98,6 +101,7 @@
             "flashx", 
             "gamovideo", 
             "gofile", 
+            "mailru", 
             "mixdrop", 
             "playtube", 
             "racaty", 
@@ -118,6 +122,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 10, 
-    "hash": "ba7d03052890bc60cc614694bf44c38b"
+    "fix_version": 11, 
+    "hash": "bd79ae4eeaeaa99cd846a75a2ec80324"
 }
