@@ -22,11 +22,13 @@
             "doramasmp4dev", 
             "doramasyt", 
             "dpeliculas", 
+            "gatotv", 
             "hdcinema", 
             "hdfull", 
             "henaojara", 
             "homemade", 
             "ikucomics", 
+            "lamovie", 
             "latanime", 
             "mbstelenovelas", 
             "megaserie", 
@@ -40,6 +42,7 @@
             "pelis28re", 
             "pelisflix", 
             "pelisforte", 
+            "pelisplushdlat", 
             "playplus", 
             "pornxbit", 
             "rarbg", 
@@ -122,6 +125,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 11, 
-    "hash": "bd79ae4eeaeaa99cd846a75a2ec80324"
+    "fix_version": 12, 
+    "hash": "fd9ac1cc640d109abd8158af262e3dfb"
 }
