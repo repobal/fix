@@ -15,6 +15,7 @@
             "cuevana3pro", 
             "cuevana3re", 
             "cuevanamx", 
+            "cuevanavip", 
             "daftsex", 
             "detodo", 
             "documentarystorm", 
@@ -22,6 +23,7 @@
             "doramasmp4dev", 
             "doramasyt", 
             "dpeliculas", 
+            "estrenoscinesaa", 
             "gatotv", 
             "hdcinema", 
             "hdfull", 
@@ -125,6 +127,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 12, 
-    "hash": "fd9ac1cc640d109abd8158af262e3dfb"
+    "fix_version": 13, 
+    "hash": "afc0e4abea1086ddfc884c865bd29af8"
 }
