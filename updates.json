@@ -1,4 +1,38 @@
 {
     "addon_version": "4.0.26", 
-    "hash": "463c908aafc927bca4ca3e7c144b11e3"
+    "files": {
+        "channels": [
+            "dontorrents", 
+            "hdfull", 
+            "pelispediaws"
+        ], 
+        "core": [
+            "httptools", 
+            "requeststools", 
+            "servertools"
+        ], 
+        "modules": [
+            "actions", 
+            "helper", 
+            "submnuteam"
+        ], 
+        "platformcode": [
+            "platformtools"
+        ], 
+        "resources": [
+            "settings"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ], 
+        "servers": [
+            "okru", 
+            "various", 
+            "voe", 
+            "zures"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "28646e8e678563ae8f28c05cbad2c699"
 }
