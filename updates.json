@@ -2,9 +2,18 @@
     "addon_version": "4.0.26", 
     "files": {
         "channels": [
+            "cinecalidadlol", 
+            "cinemundo", 
             "dontorrents", 
             "hdfull", 
-            "pelispediaws"
+            "novelas360", 
+            "pelisflix", 
+            "pelispediaws", 
+            "seriesturcas", 
+            "sflix", 
+            "sololatino", 
+            "todocineclasico", 
+            "verflix"
         ], 
         "core": [
             "httptools", 
@@ -13,7 +22,10 @@
         ], 
         "modules": [
             "actions", 
+            "generos", 
             "helper", 
+            "mainmenu", 
+            "novelty", 
             "submnuteam"
         ], 
         "platformcode": [
@@ -33,6 +45,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "28646e8e678563ae8f28c05cbad2c699"
+    "fix_version": 2, 
+    "hash": "abd581686ce1e7c92b9b2c5aae376674"
 }
