@@ -2,18 +2,28 @@
     "addon_version": "4.0.26", 
     "files": {
         "channels": [
+            "cinecalidadlat", 
             "cinecalidadlol", 
             "cinemundo", 
+            "cuevanamx", 
             "dontorrents", 
+            "flixcorn", 
+            "gnula24", 
+            "gnula24h", 
             "hdfull", 
             "novelas360", 
+            "papayaseries", 
             "pelisflix", 
             "pelispediaws", 
+            "series24", 
+            "seriesplus", 
             "seriesturcas", 
             "sflix", 
             "sololatino", 
             "todocineclasico", 
-            "verflix"
+            "verflix", 
+            "xmoviesforyou", 
+            "xxxdan"
         ], 
         "core": [
             "httptools", 
@@ -22,11 +32,14 @@
         ], 
         "modules": [
             "actions", 
+            "domains", 
             "generos", 
             "helper", 
             "mainmenu", 
             "novelty", 
-            "submnuteam"
+            "submnuctext", 
+            "submnuteam", 
+            "tester"
         ], 
         "platformcode": [
             "platformtools"
@@ -39,12 +52,13 @@
             "version"
         ], 
         "servers": [
+            "mixdrop", 
             "okru", 
             "various", 
             "voe", 
             "zures"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "abd581686ce1e7c92b9b2c5aae376674"
+    "fix_version": 3, 
+    "hash": "0c34ea627db8e49ddac2787fd1223d17"
 }
