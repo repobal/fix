@@ -11,8 +11,10 @@
             "gnula24", 
             "gnula24h", 
             "hdfull", 
+            "mirandogratis", 
             "novelas360", 
             "papayaseries", 
+            "pelis182", 
             "pelisflix", 
             "pelispediaws", 
             "series24", 
@@ -22,7 +24,9 @@
             "sololatino", 
             "todocineclasico", 
             "verflix", 
+            "vernovelas", 
             "xmoviesforyou", 
+            "xvideos", 
             "xxxdan"
         ], 
         "core": [
@@ -59,6 +63,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 3, 
-    "hash": "0c34ea627db8e49ddac2787fd1223d17"
+    "fix_version": 4, 
+    "hash": "2e9bad18d6d1631a973ce97e7443d288"
 }
