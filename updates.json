@@ -2,12 +2,16 @@
     "addon_version": "4.0.26", 
     "files": {
         "channels": [
+            "cine24h", 
             "cinecalidadlat", 
             "cinecalidadlol", 
+            "cinehdplus", 
             "cinemundo", 
             "cuevanamx", 
             "dontorrents", 
             "flixcorn", 
+            "gatotv", 
+            "gnula", 
             "gnula24", 
             "gnula24h", 
             "hdfull", 
@@ -17,8 +21,10 @@
             "pelis182", 
             "pelisflix", 
             "pelispediaws", 
+            "repelishd", 
             "series24", 
             "seriesplus", 
+            "seriesretro", 
             "seriesturcas", 
             "sflix", 
             "sololatino", 
@@ -27,11 +33,13 @@
             "vernovelas", 
             "xmoviesforyou", 
             "xvideos", 
-            "xxxdan"
+            "xxxdan", 
+            "zerowpanime"
         ], 
         "core": [
             "httptools", 
             "requeststools", 
+            "scrapertools", 
             "servertools"
         ], 
         "modules": [
@@ -41,6 +49,7 @@
             "helper", 
             "mainmenu", 
             "novelty", 
+            "search", 
             "submnuctext", 
             "submnuteam", 
             "tester"
@@ -63,6 +72,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "2e9bad18d6d1631a973ce97e7443d288"
+    "fix_version": 5, 
+    "hash": "a2cb6abf249b92b078b4b905b8750aa7"
 }
