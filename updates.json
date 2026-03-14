@@ -2,6 +2,7 @@
     "addon_version": "4.0.26", 
     "files": {
         "channels": [
+            "animeflv", 
             "cine24h", 
             "cinecalidadlat", 
             "cinecalidadlol", 
@@ -9,18 +10,22 @@
             "cinemundo", 
             "cuevanamx", 
             "dontorrents", 
+            "doramasorg", 
             "flixcorn", 
             "gatotv", 
             "gnula", 
             "gnula24", 
             "gnula24h", 
             "hdfull", 
+            "mejortorrentapp", 
             "mirandogratis", 
             "novelas360", 
             "papayaseries", 
             "pelis182", 
+            "pelis28re", 
             "pelisflix", 
             "pelispediaws", 
+            "plushd", 
             "repelishd", 
             "series24", 
             "seriesplus", 
@@ -31,6 +36,8 @@
             "todocineclasico", 
             "verflix", 
             "vernovelas", 
+            "verpelis", 
+            "verpelisonline", 
             "xmoviesforyou", 
             "xvideos", 
             "xxxdan", 
@@ -58,6 +65,7 @@
             "platformtools"
         ], 
         "resources": [
+            "Lista-proxies", 
             "settings"
         ], 
         "root dir": [
@@ -72,6 +80,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 5, 
-    "hash": "a2cb6abf249b92b078b4b905b8750aa7"
+    "fix_version": 6, 
+    "hash": "0b354657d7594d8bfc65ccabae56f13d"
 }
