@@ -3,6 +3,7 @@
     "files": {
         "channels": [
             "animeflv", 
+            "asialive", 
             "cine24h", 
             "cinecalidadlat", 
             "cinecalidadlol", 
@@ -10,7 +11,9 @@
             "cinemundo", 
             "cuevanamx", 
             "dontorrents", 
+            "doramaexpress", 
             "doramasorg", 
+            "eztv", 
             "flixcorn", 
             "gatotv", 
             "gnula", 
@@ -20,6 +23,7 @@
             "mejortorrentapp", 
             "mirandogratis", 
             "novelas360", 
+            "osjonosu", 
             "papayaseries", 
             "pelis182", 
             "pelis28re", 
@@ -34,6 +38,7 @@
             "sflix", 
             "sololatino", 
             "todocineclasico", 
+            "tubepelis", 
             "verflix", 
             "vernovelas", 
             "verpelis", 
@@ -41,6 +46,7 @@
             "xmoviesforyou", 
             "xvideos", 
             "xxxdan", 
+            "yandispoiler", 
             "zerowpanime"
         ], 
         "core": [
@@ -80,6 +86,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 6, 
-    "hash": "0b354657d7594d8bfc65ccabae56f13d"
+    "fix_version": 7, 
+    "hash": "05e20b59ac040189a59d91535950d187"
 }
