@@ -3,6 +3,7 @@
     "files": {
         "channels": [
             "animeflv", 
+            "animejl", 
             "asialive", 
             "cine24h", 
             "cinecalidadlat", 
@@ -47,6 +48,8 @@
             "xvideos", 
             "xxxdan", 
             "yandispoiler", 
+            "yts", 
+            "ytsmx", 
             "zerowpanime"
         ], 
         "core": [
@@ -79,6 +82,7 @@
             "version"
         ], 
         "servers": [
+            "dailymotion", 
             "mixdrop", 
             "okru", 
             "various", 
@@ -86,6 +90,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 7, 
-    "hash": "05e20b59ac040189a59d91535950d187"
+    "fix_version": 8, 
+    "hash": "5dc516c523a78a853a417794d0726d5c"
 }
