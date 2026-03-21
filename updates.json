@@ -33,17 +33,23 @@
             "plushd", 
             "repelishd", 
             "series24", 
+            "seriesgod", 
             "seriesplus", 
             "seriesretro", 
             "seriesturcas", 
             "sflix", 
             "sololatino", 
+            "subtorrents", 
             "todocineclasico", 
             "tubepelis", 
             "verflix", 
             "vernovelas", 
+            "veronlinelatino", 
             "verpelis", 
             "verpelisonline", 
+            "verserieonline", 
+            "villaanimex", 
+            "watchporn", 
             "xmoviesforyou", 
             "xvideos", 
             "xxxdan", 
@@ -90,6 +96,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 8, 
-    "hash": "5dc516c523a78a853a417794d0726d5c"
+    "fix_version": 9, 
+    "hash": "949faba0a5e570f002dbce246751ae7b"
 }
