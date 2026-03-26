@@ -2,6 +2,7 @@
     "addon_version": "4.0.26", 
     "files": {
         "channels": [
+            "animeclub", 
             "animeflv", 
             "animejl", 
             "asialive", 
@@ -19,6 +20,7 @@
             "doramasqueenin", 
             "doramasyt", 
             "doramedplaylat", 
+            "estrenosanime", 
             "eztv", 
             "flixcorn", 
             "gatotv", 
@@ -27,6 +29,7 @@
             "gnula24h", 
             "hdfull", 
             "jizzbunker", 
+            "latanime", 
             "mangoporn", 
             "mejortorrentapp", 
             "mirandogratis", 
@@ -48,7 +51,9 @@
             "seriesturcas", 
             "sflix", 
             "sololatino", 
+            "star", 
             "subtorrents", 
+            "tiodonghua", 
             "todocineclasico", 
             "topdocumentaryfilms", 
             "tubepelis", 
@@ -109,6 +114,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 10, 
-    "hash": "1dcba1dcdf8a410acaa1fe6add2ec789"
+    "fix_version": 11, 
+    "hash": "a28c636fc981b0cbee14c9b379c2e8ab"
 }
