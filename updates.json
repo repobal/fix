@@ -1,4 +1,40 @@
 {
     "addon_version": "4.0.27", 
-    "hash": "4a4ed9911375bef054586f371c6adba2"
+    "files": {
+        "channels": [
+            "cinehdplus", 
+            "jkanime", 
+            "repelishd", 
+            "subtorrents", 
+            "tubeonline"
+        ], 
+        "core": [
+            "servertools"
+        ], 
+        "modules": [
+            "actions", 
+            "domains", 
+            "filmaffinitylists", 
+            "generos", 
+            "helper", 
+            "submnuctext", 
+            "submnuteam"
+        ], 
+        "platformcode": [
+            "platformtools"
+        ], 
+        "resources": [
+            "settings"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ], 
+        "servers": [
+            "kinoger", 
+            "various"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "fd6f1c5a0969afb7a1e400489723cc6e"
 }
