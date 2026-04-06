@@ -3,20 +3,27 @@
     "files": {
         "channels": [
             "cinehdplus", 
+            "estrenoscinesaa", 
             "jkanime", 
             "repelishd", 
+            "streamgratis", 
             "subtorrents", 
-            "tubeonline"
+            "tubeonline", 
+            "verpelisonline"
         ], 
         "core": [
+            "httptools", 
+            "requeststools", 
             "servertools"
         ], 
         "modules": [
             "actions", 
             "domains", 
             "filmaffinitylists", 
+            "filters", 
             "generos", 
             "helper", 
+            "novelty", 
             "submnuctext", 
             "submnuteam"
         ], 
@@ -31,10 +38,13 @@
             "version"
         ], 
         "servers": [
+            "doodstream", 
             "kinoger", 
-            "various"
+            "supervideo", 
+            "various", 
+            "vidmoly"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "fd6f1c5a0969afb7a1e400489723cc6e"
+    "fix_version": 2, 
+    "hash": "c7a69cc04bfcc273f698c0f3378c51f8"
 }
