@@ -3,8 +3,10 @@
     "files": {
         "channels": [
             "cinehdplus", 
+            "dontorrents", 
             "estrenoscinesaa", 
             "jkanime", 
+            "mejortorrentapp", 
             "repelishd", 
             "streamgratis", 
             "subtorrents", 
@@ -45,6 +47,6 @@
             "vidmoly"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "c7a69cc04bfcc273f698c0f3378c51f8"
+    "fix_version": 3, 
+    "hash": "10aafa629db1fd412a786457b5676e43"
 }
