@@ -2,15 +2,27 @@
     "addon_version": "4.0.27", 
     "files": {
         "channels": [
+            "cinecalidadlat", 
+            "cinecalidadrs", 
             "cinehdplus", 
             "dontorrents", 
             "estrenoscinesaa", 
+            "gnula24h", 
             "jkanime", 
+            "lamovie", 
             "mejortorrentapp", 
+            "onlinetv", 
+            "pelispediaws", 
             "repelishd", 
+            "retrotv", 
+            "series24", 
+            "seriesonline", 
+            "seriesplus", 
             "streamgratis", 
             "subtorrents", 
             "tubeonline", 
+            "vernovelas", 
+            "veronline", 
             "verpelisonline"
         ], 
         "core": [
@@ -27,7 +39,8 @@
             "helper", 
             "novelty", 
             "submnuctext", 
-            "submnuteam"
+            "submnuteam", 
+            "tester"
         ], 
         "platformcode": [
             "platformtools"
@@ -37,6 +50,7 @@
         ], 
         "root dir": [
             "dominios", 
+            "msgfixed", 
             "version"
         ], 
         "servers": [
@@ -47,6 +61,6 @@
             "vidmoly"
         ]
     }, 
-    "fix_version": 3, 
-    "hash": "10aafa629db1fd412a786457b5676e43"
+    "fix_version": 4, 
+    "hash": "58edf979da4d73afe522b710a38242f0"
 }
