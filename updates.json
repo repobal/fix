@@ -8,8 +8,10 @@
             "dontorrents", 
             "estrenoscinesaa", 
             "gnula24h", 
+            "henaojara", 
             "jkanime", 
             "lamovie", 
+            "mbstelenovelas", 
             "mejortorrentapp", 
             "onlinetv", 
             "pelispediaws", 
@@ -18,12 +20,14 @@
             "series24", 
             "seriesonline", 
             "seriesplus", 
+            "srnovelas", 
             "streamgratis", 
             "subtorrents", 
             "tubeonline", 
             "vernovelas", 
             "veronline", 
-            "verpelisonline"
+            "verpelisonline", 
+            "vision"
         ], 
         "core": [
             "httptools", 
@@ -61,6 +65,6 @@
             "vidmoly"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "58edf979da4d73afe522b710a38242f0"
+    "fix_version": 5, 
+    "hash": "08826d81498aa0417913e0d308f5b1e8"
 }
