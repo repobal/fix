@@ -6,12 +6,14 @@
             "cinecalidadrs", 
             "cinehdplus", 
             "dontorrents", 
+            "doramaexpress", 
             "estrenoscinesaa", 
             "gnula24h", 
             "henaojara", 
             "jkanime", 
             "lamovie", 
             "mbstelenovelas", 
+            "megadedeoficial", 
             "mejortorrentapp", 
             "onlinetv", 
             "pelispediaws", 
@@ -20,6 +22,7 @@
             "series24", 
             "seriesonline", 
             "seriesplus", 
+            "sflix", 
             "srnovelas", 
             "streamgratis", 
             "subtorrents", 
@@ -27,7 +30,8 @@
             "vernovelas", 
             "veronline", 
             "verpelisonline", 
-            "vision"
+            "vision", 
+            "yandispoiler"
         ], 
         "core": [
             "httptools", 
@@ -40,6 +44,7 @@
             "filmaffinitylists", 
             "filters", 
             "generos", 
+            "groups", 
             "helper", 
             "novelty", 
             "submnuctext", 
@@ -53,6 +58,7 @@
             "settings"
         ], 
         "root dir": [
+            "default", 
             "dominios", 
             "msgfixed", 
             "version"
@@ -62,9 +68,10 @@
             "kinoger", 
             "supervideo", 
             "various", 
-            "vidmoly"
+            "vidmoly", 
+            "zures"
         ]
     }, 
-    "fix_version": 5, 
-    "hash": "08826d81498aa0417913e0d308f5b1e8"
+    "fix_version": 6, 
+    "hash": "8d025ff3e0bdf3dd9987117d0ea49f87"
 }
