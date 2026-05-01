@@ -1,4 +1,40 @@
 {
     "addon_version": "4.0.28", 
-    "hash": "5b39c90e1359235ea0cba2b943ab2fa8"
+    "files": {
+        "channels": [
+            "animeclub", 
+            "animeflv", 
+            "animeyt", 
+            "dontorrents", 
+            "estrenosanime", 
+            "henaojara", 
+            "henaojaran", 
+            "jkanime", 
+            "mbstelenovelas", 
+            "mejortorrentapp", 
+            "monoschinos", 
+            "subtorrents", 
+            "tioanime", 
+            "tiodonghua", 
+            "veranime", 
+            "villaanimex"
+        ], 
+        "core": [
+            "httptools", 
+            "requeststools"
+        ], 
+        "modules": [
+            "actions", 
+            "groups", 
+            "novelty", 
+            "submnuctext", 
+            "submnuteam"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "7b9fe9e61c9940b549229bb4e76599cc"
 }
