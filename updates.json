@@ -33,8 +33,11 @@
         "root dir": [
             "dominios", 
             "version"
+        ], 
+        "servers": [
+            "vidmoly"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "7b9fe9e61c9940b549229bb4e76599cc"
+    "fix_version": 2, 
+    "hash": "d5247bf7b135e2abfaa3703a986c7492"
 }
