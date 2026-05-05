@@ -13,6 +13,8 @@
             "mbstelenovelas", 
             "mejortorrentapp", 
             "monoschinos", 
+            "pelisplayhd", 
+            "pornburst", 
             "subtorrents", 
             "tioanime", 
             "tiodonghua", 
@@ -21,23 +23,33 @@
         ], 
         "core": [
             "httptools", 
-            "requeststools"
+            "requeststools", 
+            "servertools"
         ], 
         "modules": [
             "actions", 
             "groups", 
+            "helper", 
             "novelty", 
             "submnuctext", 
-            "submnuteam"
+            "submnuteam", 
+            "tester"
+        ], 
+        "resources": [
+            "settings"
         ], 
         "root dir": [
             "dominios", 
+            "msgfixed", 
             "version"
         ], 
         "servers": [
-            "vidmoly"
+            "mixdrop", 
+            "various", 
+            "vidmoly", 
+            "voe"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "d5247bf7b135e2abfaa3703a986c7492"
+    "fix_version": 3, 
+    "hash": "25a1a0cdf77f6160bb1b0eb7f0a92aa3"
 }
