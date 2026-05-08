@@ -5,8 +5,10 @@
             "animeclub", 
             "animeflv", 
             "animeyt", 
+            "divxtotal", 
             "dontorrents", 
             "estrenosanime", 
+            "gnulacenter", 
             "henaojara", 
             "henaojaran", 
             "jkanime", 
@@ -14,12 +16,15 @@
             "mejortorrentapp", 
             "monoschinos", 
             "pelisplayhd", 
+            "pelisplushdlat", 
             "pornburst", 
+            "seriesturcas", 
             "subtorrents", 
             "tioanime", 
             "tiodonghua", 
             "veranime", 
-            "villaanimex"
+            "villaanimex", 
+            "ytsmx"
         ], 
         "core": [
             "httptools", 
@@ -35,7 +40,11 @@
             "submnuteam", 
             "tester"
         ], 
+        "platformcode": [
+            "platformtools"
+        ], 
         "resources": [
+            "Lista-proxies", 
             "settings"
         ], 
         "root dir": [
@@ -44,12 +53,14 @@
             "version"
         ], 
         "servers": [
+            "doodstream", 
             "mixdrop", 
             "various", 
             "vidmoly", 
-            "voe"
+            "voe", 
+            "waaw"
         ]
     }, 
-    "fix_version": 3, 
-    "hash": "25a1a0cdf77f6160bb1b0eb7f0a92aa3"
+    "fix_version": 4, 
+    "hash": "c15afec0592395ebe9114b77809b4c37"
 }
