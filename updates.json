@@ -7,6 +7,7 @@
             "animeyt", 
             "divxtotal", 
             "dontorrents", 
+            "doramasyt", 
             "estrenosanime", 
             "gnulacenter", 
             "henaojara", 
@@ -15,10 +16,14 @@
             "mbstelenovelas", 
             "mejortorrentapp", 
             "monoschinos", 
+            "pediatorrent", 
             "pelisplayhd", 
             "pelisplushdlat", 
             "pornburst", 
+            "repelishd", 
             "seriesturcas", 
+            "sflix", 
+            "sololatino", 
             "subtorrents", 
             "tioanime", 
             "tiodonghua", 
@@ -61,6 +66,6 @@
             "waaw"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "c15afec0592395ebe9114b77809b4c37"
+    "fix_version": 5, 
+    "hash": "2d59c47e514a6b30bee96d983c322d04"
 }
