@@ -7,20 +7,24 @@
             "animeyt", 
             "divxtotal", 
             "dontorrents", 
+            "doramaexpress", 
             "doramasyt", 
             "estrenosanime", 
             "gnulacenter", 
             "henaojara", 
             "henaojaran", 
             "jkanime", 
+            "lilatorrent", 
             "mbstelenovelas", 
             "mejortorrentapp", 
             "monoschinos", 
+            "naranjatorrent", 
             "pediatorrent", 
             "pelisplayhd", 
             "pelisplushdlat", 
             "pornburst", 
             "repelishd", 
+            "rojotorrent", 
             "seriesturcas", 
             "sflix", 
             "sololatino", 
@@ -28,7 +32,9 @@
             "tioanime", 
             "tiodonghua", 
             "veranime", 
+            "verdetorrent", 
             "villaanimex", 
+            "yandispoiler", 
             "ytsmx"
         ], 
         "core": [
@@ -41,6 +47,7 @@
             "groups", 
             "helper", 
             "novelty", 
+            "proxysearch", 
             "submnuctext", 
             "submnuteam", 
             "tester"
@@ -63,9 +70,10 @@
             "various", 
             "vidmoly", 
             "voe", 
-            "waaw"
+            "waaw", 
+            "zures"
         ]
     }, 
-    "fix_version": 5, 
-    "hash": "2d59c47e514a6b30bee96d983c322d04"
+    "fix_version": 6, 
+    "hash": "d74df991355d59ef0b48270e8b76f911"
 }
