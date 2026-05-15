@@ -9,6 +9,7 @@
             "dontorrents", 
             "doramaexpress", 
             "doramasyt", 
+            "eporner", 
             "estrenosanime", 
             "gnulacenter", 
             "henaojara", 
@@ -23,6 +24,7 @@
             "pelisplayhd", 
             "pelisplushdlat", 
             "pornburst", 
+            "pornhub", 
             "repelishd", 
             "rojotorrent", 
             "seriesturcas", 
@@ -31,9 +33,12 @@
             "subtorrents", 
             "tioanime", 
             "tiodonghua", 
+            "tubepelis", 
             "veranime", 
             "verdetorrent", 
             "villaanimex", 
+            "watchpornfree", 
+            "xmoviesforyou", 
             "yandispoiler", 
             "ytsmx"
         ], 
@@ -44,6 +49,7 @@
         ], 
         "modules": [
             "actions", 
+            "generos", 
             "groups", 
             "helper", 
             "novelty", 
@@ -74,6 +80,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 6, 
-    "hash": "d74df991355d59ef0b48270e8b76f911"
+    "fix_version": 7, 
+    "hash": "95765c71907439e5f0b6b6f37df1c225"
 }
