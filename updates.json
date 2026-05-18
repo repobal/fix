@@ -5,6 +5,7 @@
             "animeclub", 
             "animeflv", 
             "animeyt", 
+            "cuevana3run", 
             "divxtotal", 
             "dontorrents", 
             "doramaexpress", 
@@ -20,7 +21,9 @@
             "mejortorrentapp", 
             "monoschinos", 
             "naranjatorrent", 
+            "osjonosu", 
             "pediatorrent", 
+            "pelisflix", 
             "pelisplayhd", 
             "pelisplushdlat", 
             "pornburst", 
@@ -36,10 +39,12 @@
             "tubepelis", 
             "veranime", 
             "verdetorrent", 
+            "verflix", 
             "villaanimex", 
             "watchpornfree", 
             "xmoviesforyou", 
             "yandispoiler", 
+            "yohentai", 
             "ytsmx"
         ], 
         "core": [
@@ -49,6 +54,7 @@
         ], 
         "modules": [
             "actions", 
+            "domains", 
             "generos", 
             "groups", 
             "helper", 
@@ -72,6 +78,7 @@
         ], 
         "servers": [
             "doodstream", 
+            "kinoger", 
             "mixdrop", 
             "various", 
             "vidmoly", 
@@ -80,6 +87,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 7, 
-    "hash": "95765c71907439e5f0b6b6f37df1c225"
+    "fix_version": 8, 
+    "hash": "d519e4808df7b67bf996a77d19ca4b33"
 }
