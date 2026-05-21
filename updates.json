@@ -4,6 +4,7 @@
         "channels": [
             "animeclub", 
             "animeflv", 
+            "animejara", 
             "animeyt", 
             "cuevana3run", 
             "divxtotal", 
@@ -36,6 +37,7 @@
             "subtorrents", 
             "tioanime", 
             "tiodonghua", 
+            "torrentgalaxy", 
             "tubepelis", 
             "veranime", 
             "verdetorrent", 
@@ -58,6 +60,7 @@
             "generos", 
             "groups", 
             "helper", 
+            "mainmenu", 
             "novelty", 
             "proxysearch", 
             "submnuctext", 
@@ -87,6 +90,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 8, 
-    "hash": "d519e4808df7b67bf996a77d19ca4b33"
+    "fix_version": 9, 
+    "hash": "fa0370334d8a35eeee5ce3758c278717"
 }
