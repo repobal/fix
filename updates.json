@@ -1,4 +1,25 @@
 {
     "addon_version": "4.0.29", 
-    "hash": "19274ca0c1b62708ffbcaecdaca2877a"
+    "files": {
+        "channels": [
+            "cuevana3pro", 
+            "dontorrents", 
+            "grantorrent", 
+            "hacktorrent", 
+            "lamovie", 
+            "pelisgratishd", 
+            "sololatino", 
+            "todocineclasico"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ], 
+        "servers": [
+            "waaw", 
+            "zures"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "100ae4ef0fa105bea4b0ec6c2abe49b1"
 }
