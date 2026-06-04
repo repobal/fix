@@ -16,10 +16,12 @@
             "version"
         ], 
         "servers": [
+            "doodstream", 
+            "various", 
             "waaw", 
             "zures"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "100ae4ef0fa105bea4b0ec6c2abe49b1"
+    "fix_version": 2, 
+    "hash": "0f41b1d046c812a65ccbb0b5267522db"
 }
