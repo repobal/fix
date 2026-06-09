@@ -4,12 +4,21 @@
         "channels": [
             "cuevana3pro", 
             "dontorrents", 
+            "doramedplaylat", 
+            "elitetorrentnz", 
             "grantorrent", 
             "hacktorrent", 
             "lamovie", 
+            "moviesdvdr", 
+            "pasateatorrent", 
+            "pediatorrent", 
             "pelisgratishd", 
             "sololatino", 
             "todocineclasico"
+        ], 
+        "modules": [
+            "generos", 
+            "submnuctext"
         ], 
         "root dir": [
             "dominios", 
@@ -22,6 +31,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "0f41b1d046c812a65ccbb0b5267522db"
+    "fix_version": 3, 
+    "hash": "cb416756187eac8390050e2512dd3530"
 }
