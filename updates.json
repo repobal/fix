@@ -2,10 +2,13 @@
     "addon_version": "4.0.29", 
     "files": {
         "channels": [
+            "cine24h", 
+            "cinecalidad", 
             "cuevana3pro", 
             "dontorrents", 
             "doramedplaylat", 
             "elitetorrentnz", 
+            "gnula", 
             "grantorrent", 
             "hacktorrent", 
             "lamovie", 
@@ -16,21 +19,30 @@
             "sololatino", 
             "todocineclasico"
         ], 
+        "core": [
+            "servertools"
+        ], 
         "modules": [
             "generos", 
             "submnuctext"
         ], 
+        "platformcode": [
+            "platformtools"
+        ], 
         "root dir": [
+            "Balandro-4.0.29-Fix-4", 
             "dominios", 
             "version"
         ], 
         "servers": [
             "doodstream", 
+            "mixdrop", 
             "various", 
+            "voe", 
             "waaw", 
             "zures"
         ]
     }, 
-    "fix_version": 3, 
-    "hash": "cb416756187eac8390050e2512dd3530"
+    "fix_version": 4, 
+    "hash": "259c158379f18a68010d80e2f330baa3"
 }
