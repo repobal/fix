@@ -9,6 +9,7 @@
             "doramaexpress", 
             "doramedplaylat", 
             "elitetorrentnz", 
+            "estrenoscinesaa", 
             "gnula", 
             "grantorrent", 
             "hacktorrent", 
@@ -23,9 +24,12 @@
             "yandispoiler"
         ], 
         "core": [
+            "httptools", 
+            "requeststools", 
             "servertools"
         ], 
         "modules": [
+            "actions", 
             "generos", 
             "submnuctext"
         ], 
@@ -39,6 +43,7 @@
         "servers": [
             "doodstream", 
             "mixdrop", 
+            "upstream", 
             "uqload", 
             "various", 
             "voe", 
@@ -46,6 +51,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 5, 
-    "hash": "301ec8369e7970d97e6e03288ebb3acf"
+    "fix_version": 6, 
+    "hash": "3086c045fca8269ab4e1de342ef6f700"
 }
