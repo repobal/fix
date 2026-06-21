@@ -15,11 +15,14 @@
             "hacktorrent", 
             "hdcinema", 
             "lamovie", 
+            "motherless", 
             "moviesdvdr", 
             "pasateatorrent", 
             "pediatorrent", 
             "pelisgratishd", 
+            "seriesturcas", 
             "sololatino", 
+            "subtorrents", 
             "todocineclasico", 
             "yandispoiler"
         ], 
@@ -30,11 +33,16 @@
         ], 
         "modules": [
             "actions", 
+            "domains", 
             "generos", 
+            "helper", 
             "submnuctext"
         ], 
         "platformcode": [
             "platformtools"
+        ], 
+        "resources": [
+            "settings"
         ], 
         "root dir": [
             "dominios", 
@@ -46,11 +54,12 @@
             "upstream", 
             "uqload", 
             "various", 
+            "vidmoly", 
             "voe", 
             "waaw", 
             "zures"
         ]
     }, 
-    "fix_version": 6, 
-    "hash": "3086c045fca8269ab4e1de342ef6f700"
+    "fix_version": 7, 
+    "hash": "f8277390b1749bb436b5c151e92eff96"
 }
