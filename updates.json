@@ -50,6 +50,7 @@
         ], 
         "servers": [
             "doodstream", 
+            "esprinahy", 
             "mixdrop", 
             "upstream", 
             "uqload", 
@@ -60,6 +61,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 7, 
-    "hash": "f8277390b1749bb436b5c151e92eff96"
+    "fix_version": 8, 
+    "hash": "55e15fb2cd6555a30760247286982701"
 }
