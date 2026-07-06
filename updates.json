@@ -1,4 +1,38 @@
 {
     "addon_version": "4.0.30", 
-    "hash": "6c90436c09b66768b60cb1f2ae70dd0b"
+    "files": {
+        "channels": [
+            "animeflv", 
+            "detodo", 
+            "dpeliculas", 
+            "hdcinema", 
+            "lamovie", 
+            "pelisforte", 
+            "repelishd", 
+            "tiodonghua", 
+            "tubeonline", 
+            "xmoviesforyou"
+        ], 
+        "core": [
+            "servertools"
+        ], 
+        "modules": [
+            "generos", 
+            "helper", 
+            "novelty"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ], 
+        "servers": [
+            "kinoger", 
+            "mediafire", 
+            "mixdrop", 
+            "streamtape", 
+            "zures"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "80495c09269540fb9dead6902a3267e9"
 }
