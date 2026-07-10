@@ -5,6 +5,7 @@
             "animeav1", 
             "animeflv", 
             "detodo", 
+            "documentalesonline", 
             "dpeliculas", 
             "hdcinema", 
             "lamovie", 
@@ -13,13 +14,17 @@
             "pelisforte", 
             "repelishd", 
             "tiodonghua", 
+            "topdocumentaryfilms", 
             "tubeonline", 
             "xmoviesforyou"
         ], 
         "core": [
+            "httptools", 
+            "requeststools", 
             "servertools"
         ], 
         "modules": [
+            "actions", 
             "generos", 
             "helper", 
             "novelty"
@@ -32,6 +37,7 @@
             "version"
         ], 
         "servers": [
+            "dailymotion", 
             "kinoger", 
             "mediafire", 
             "mixdrop", 
@@ -41,6 +47,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "84992397afd72b264fc13694bbed0a47"
+    "fix_version": 3, 
+    "hash": "eba834e4aa2ce33b551f9d485deb188d"
 }
