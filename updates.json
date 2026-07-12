@@ -4,10 +4,12 @@
         "channels": [
             "animeav1", 
             "animeflv", 
+            "animeflvone", 
             "detodo", 
             "documentalesonline", 
             "dpeliculas", 
             "hdcinema", 
+            "henaojaran", 
             "lamovie", 
             "mundodonghua", 
             "mundodonghuaxyz", 
@@ -27,7 +29,8 @@
             "actions", 
             "generos", 
             "helper", 
-            "novelty"
+            "novelty", 
+            "youtubetrailers"
         ], 
         "platformcode": [
             "platformtools"
@@ -44,9 +47,10 @@
             "streamtape", 
             "various", 
             "yourupload", 
+            "youtube", 
             "zures"
         ]
     }, 
-    "fix_version": 3, 
-    "hash": "eba834e4aa2ce33b551f9d485deb188d"
+    "fix_version": 4, 
+    "hash": "96df46d7b44077da73987f8c1de1185b"
 }
