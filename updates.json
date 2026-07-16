@@ -5,19 +5,24 @@
             "animeav1", 
             "animeflv", 
             "animeflvone", 
+            "animejara", 
+            "animejl", 
             "detodo", 
             "documentalesonline", 
             "dpeliculas", 
             "hdcinema", 
             "henaojaran", 
             "lamovie", 
+            "monoschinos", 
             "mundodonghua", 
             "mundodonghuaxyz", 
             "pelisforte", 
             "repelishd", 
+            "tioanime", 
             "tiodonghua", 
             "topdocumentaryfilms", 
             "tubeonline", 
+            "villaanimex", 
             "xmoviesforyou"
         ], 
         "core": [
@@ -51,6 +56,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "96df46d7b44077da73987f8c1de1185b"
+    "fix_version": 5, 
+    "hash": "9f5d2390b5639f43eb114dc7e3787d2f"
 }
