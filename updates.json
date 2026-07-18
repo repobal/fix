@@ -9,21 +9,28 @@
             "animejl", 
             "detodo", 
             "documentalesonline", 
+            "doramaexpress", 
             "dpeliculas", 
+            "gnula", 
             "hdcinema", 
             "henaojaran", 
             "lamovie", 
+            "megaserie", 
             "monoschinos", 
             "mundodonghua", 
             "mundodonghuaxyz", 
+            "pasateatorrent", 
+            "peliculasonline", 
             "pelisforte", 
             "repelishd", 
+            "retrotv", 
             "tioanime", 
             "tiodonghua", 
             "topdocumentaryfilms", 
             "tubeonline", 
             "villaanimex", 
-            "xmoviesforyou"
+            "xmoviesforyou", 
+            "yandispoiler"
         ], 
         "core": [
             "httptools", 
@@ -56,6 +63,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 5, 
-    "hash": "9f5d2390b5639f43eb114dc7e3787d2f"
+    "fix_version": 6, 
+    "hash": "07741f2dbad682d0d2e5f2b4f113eddc"
 }
