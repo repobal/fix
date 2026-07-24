@@ -2,35 +2,61 @@
     "addon_version": "4.0.30", 
     "files": {
         "channels": [
+            "allpeliculasse", 
             "animeav1", 
             "animeflv", 
             "animeflvone", 
             "animejara", 
             "animejl", 
+            "cine24h", 
             "detodo", 
+            "divxatope", 
             "documentalesonline", 
+            "dontorrent21", 
+            "dontorrents", 
+            "dontorrentsin", 
             "doramaexpress", 
             "dpeliculas", 
+            "elitedivx", 
+            "elitetorrent", 
+            "elitetorrentnz", 
             "gnula", 
+            "grantorrent", 
             "hdcinema", 
             "henaojaran", 
+            "ikucomics", 
             "lamovie", 
+            "lilatorrent", 
             "megaserie", 
+            "mejortorrentapp", 
+            "mejortorrentin", 
+            "mitorrent", 
             "monoschinos", 
             "mundodonghua", 
             "mundodonghuaxyz", 
+            "naranjatorrent", 
             "pasateatorrent", 
+            "pediatorrent", 
             "peliculasonline", 
             "pelisforte", 
+            "reinventorrent", 
             "repelishd", 
             "retrotv", 
+            "rojotorrent", 
+            "serieskao", 
             "tioanime", 
             "tiodonghua", 
+            "todotorrents", 
+            "tomadivx", 
             "topdocumentaryfilms", 
+            "torrentgalaxy", 
             "tubeonline", 
+            "verdetorrent", 
+            "verpelis", 
             "villaanimex", 
             "xmoviesforyou", 
-            "yandispoiler"
+            "yandispoiler", 
+            "yts"
         ], 
         "core": [
             "httptools", 
@@ -40,8 +66,10 @@
         "modules": [
             "actions", 
             "generos", 
+            "groups", 
             "helper", 
             "novelty", 
+            "submnuctext", 
             "youtubetrailers"
         ], 
         "platformcode": [
@@ -63,6 +91,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 6, 
-    "hash": "07741f2dbad682d0d2e5f2b4f113eddc"
+    "fix_version": 7, 
+    "hash": "8f5ff47495aea5fd65f00975831a0978"
 }
