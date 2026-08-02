@@ -1,4 +1,26 @@
 {
     "addon_version": "4.0.31", 
-    "hash": "5645fe6b302806697d8e30a4ad1c5801"
+    "files": {
+        "channels": [
+            "animeav1", 
+            "animeflv", 
+            "animejl", 
+            "doramaexpress", 
+            "seriesretro", 
+            "tubeonline", 
+            "tubepelis", 
+            "yandispoiler"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ], 
+        "servers": [
+            "kinoger", 
+            "various", 
+            "vidmoly"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "e332c3aee8eb8a5724ac322867703971"
 }
