@@ -3,13 +3,36 @@
     "files": {
         "channels": [
             "animeav1", 
+            "animeclub", 
             "animeflv", 
             "animejl", 
+            "cineplus", 
             "doramaexpress", 
+            "doramasqueenin", 
+            "gnula", 
+            "retrocinema", 
             "seriesretro", 
             "tubeonline", 
             "tubepelis", 
-            "yandispoiler"
+            "yandispoiler", 
+            "yts"
+        ], 
+        "core": [
+            "httptools", 
+            "requeststools"
+        ], 
+        "modules": [
+            "actions", 
+            "domains", 
+            "generos", 
+            "helper", 
+            "novelty", 
+            "submnuctext", 
+            "submnuteam", 
+            "tester"
+        ], 
+        "resources": [
+            "settings"
         ], 
         "root dir": [
             "dominios", 
@@ -18,9 +41,10 @@
         "servers": [
             "kinoger", 
             "various", 
-            "vidmoly"
+            "vidmoly", 
+            "vk"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "e332c3aee8eb8a5724ac322867703971"
+    "fix_version": 2, 
+    "hash": "320a7edaf15b8c7c6d42e9792b20ce6c"
 }
