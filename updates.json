@@ -7,6 +7,8 @@
             "animeflv", 
             "animejl", 
             "animemix", 
+            "animeyt", 
+            "bloghorror", 
             "cineplus", 
             "doramaexpress", 
             "doramasqueenin", 
@@ -15,12 +17,18 @@
             "eztv", 
             "gnula", 
             "lamovie", 
+            "lilatorrent", 
+            "naranjatorrent", 
             "retrocinema", 
             "retrotv", 
+            "rojotorrent", 
             "seriesretro", 
+            "tiodonghua", 
             "tubehentai", 
             "tubeonline", 
             "tubepelis", 
+            "verdetorrent", 
+            "vivatorrents", 
             "yandispoiler", 
             "yts"
         ], 
@@ -61,6 +69,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 3, 
-    "hash": "7ca93825c1d98042a0acf60ac839793e"
+    "fix_version": 4, 
+    "hash": "ea0b71e9e6bdb002b6924fa17b06e99e"
 }
