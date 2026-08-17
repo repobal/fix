@@ -10,14 +10,19 @@
             "animeyt", 
             "bloghorror", 
             "cineplus", 
+            "divxtotal", 
             "doramaexpress", 
             "doramasqueenin", 
+            "doramasyt", 
             "elitetorrent", 
             "elitetorrentnz", 
             "eztv", 
             "gnula", 
+            "hacktorrent", 
             "lamovie", 
             "lilatorrent", 
+            "mbstelenovelas", 
+            "mitorrent", 
             "naranjatorrent", 
             "retrocinema", 
             "retrotv", 
@@ -28,6 +33,7 @@
             "tubeonline", 
             "tubepelis", 
             "verdetorrent", 
+            "veronline", 
             "vivatorrents", 
             "yandispoiler", 
             "yts"
@@ -69,6 +75,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "ea0b71e9e6bdb002b6924fa17b06e99e"
+    "fix_version": 5, 
+    "hash": "e081536ab485e57dbfbd154b5ad8355b"
 }
