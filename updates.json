@@ -1,4 +1,47 @@
 {
     "addon_version": "4.0.32", 
-    "hash": "a7fe6d58204fd3eca0e8a47dd46e1c5d"
+    "files": {
+        "channels": [
+            "allpeliculasse", 
+            "daftsex", 
+            "doramaexpress", 
+            "elitetorrentnz", 
+            "genteclic", 
+            "pelis182", 
+            "redtube", 
+            "repelishd", 
+            "sexu", 
+            "tiodonghua"
+        ], 
+        "core": [
+            "servertools"
+        ], 
+        "modules": [
+            "actions", 
+            "domains", 
+            "generos", 
+            "helper", 
+            "submnuctext"
+        ], 
+        "platformcode": [
+            "platformtools"
+        ], 
+        "resources": [
+            "settings"
+        ], 
+        "root dir": [
+            "default", 
+            "dominios", 
+            "version"
+        ], 
+        "servers": [
+            "dailymotion", 
+            "various", 
+            "videoapp", 
+            "vidmoly", 
+            "zures"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "a022b68d4aeba1fd50fe2b66d8e53a11"
 }
