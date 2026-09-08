@@ -3,15 +3,26 @@
     "files": {
         "channels": [
             "allpeliculasse", 
+            "animeyt", 
+            "beeg", 
             "daftsex", 
+            "documentalesonline", 
+            "documentaryheaven", 
+            "dontorrents", 
             "doramaexpress", 
             "elitetorrentnz", 
+            "estrenosanime", 
             "genteclic", 
+            "jizzbunker", 
             "pelis182", 
             "redtube", 
             "repelishd", 
+            "retrocinema", 
+            "seriesturcas", 
             "sexu", 
-            "tiodonghua"
+            "tiodonghua", 
+            "todocineclasico", 
+            "topdocumentaryfilms"
         ], 
         "core": [
             "servertools"
@@ -21,7 +32,8 @@
             "domains", 
             "generos", 
             "helper", 
-            "submnuctext"
+            "submnuctext", 
+            "submnuteam"
         ], 
         "platformcode": [
             "platformtools"
@@ -39,9 +51,10 @@
             "various", 
             "videoapp", 
             "vidmoly", 
+            "youtube", 
             "zures"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "a022b68d4aeba1fd50fe2b66d8e53a11"
+    "fix_version": 2, 
+    "hash": "7d386645ae9be019bf777f0ae48e0ac6"
 }
