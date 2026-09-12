@@ -14,15 +14,21 @@
             "estrenosanime", 
             "genteclic", 
             "jizzbunker", 
+            "mbstelenovelas", 
             "pelis182", 
+            "pelisplushdlat", 
+            "porndoe", 
             "redtube", 
             "repelishd", 
             "retrocinema", 
+            "retrotv", 
             "seriesturcas", 
             "sexu", 
+            "srnovelas", 
             "tiodonghua", 
             "todocineclasico", 
-            "topdocumentaryfilms"
+            "topdocumentaryfilms", 
+            "tubeonline"
         ], 
         "core": [
             "servertools"
@@ -51,10 +57,12 @@
             "various", 
             "videoapp", 
             "vidmoly", 
+            "voe", 
+            "waaw", 
             "youtube", 
             "zures"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "7d386645ae9be019bf777f0ae48e0ac6"
+    "fix_version": 3, 
+    "hash": "c53ad618f9d927ddc2384dbda5311038"
 }
