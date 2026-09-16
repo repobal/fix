@@ -3,9 +3,11 @@
     "files": {
         "channels": [
             "allpeliculasse", 
+            "animejara", 
             "animeyt", 
             "beeg", 
             "daftsex", 
+            "divxtotal", 
             "documentalesonline", 
             "documentaryheaven", 
             "dontorrents", 
@@ -16,11 +18,13 @@
             "jizzbunker", 
             "mbstelenovelas", 
             "pelis182", 
+            "pelis28re", 
             "pelisplushdlat", 
             "porndoe", 
             "redtube", 
             "repelishd", 
             "retrocinema", 
+            "retroflix", 
             "retrotv", 
             "seriesturcas", 
             "sexu", 
@@ -54,6 +58,8 @@
         ], 
         "servers": [
             "dailymotion", 
+            "mixdrop", 
+            "streamtape", 
             "various", 
             "videoapp", 
             "vidmoly", 
@@ -63,6 +69,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 3, 
-    "hash": "c53ad618f9d927ddc2384dbda5311038"
+    "fix_version": 4, 
+    "hash": "8ac4efea35b413d3feb6e28c62573d46"
 }
