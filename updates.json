@@ -6,16 +6,19 @@
             "animejara", 
             "animeyt", 
             "beeg", 
+            "cinecalidadrs", 
             "daftsex", 
             "divxtotal", 
             "documentalesonline", 
             "documentaryheaven", 
             "dontorrents", 
             "doramaexpress", 
+            "doramedplaylat", 
             "elitetorrentnz", 
             "estrenosanime", 
             "genteclic", 
             "jizzbunker", 
+            "lacartoons", 
             "mbstelenovelas", 
             "pelis182", 
             "pelis28re", 
@@ -35,12 +38,15 @@
             "tubeonline"
         ], 
         "core": [
+            "httptools", 
+            "requeststools", 
             "servertools"
         ], 
         "modules": [
             "actions", 
             "domains", 
             "generos", 
+            "groups", 
             "helper", 
             "submnuctext", 
             "submnuteam"
@@ -58,6 +64,7 @@
         ], 
         "servers": [
             "dailymotion", 
+            "kinoger", 
             "mixdrop", 
             "streamtape", 
             "various", 
@@ -69,6 +76,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "8ac4efea35b413d3feb6e28c62573d46"
+    "fix_version": 5, 
+    "hash": "65748d2dbb26f6ddbe454f672ad0dbaa"
 }
