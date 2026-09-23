@@ -5,6 +5,7 @@
             "allpeliculasse", 
             "animejara", 
             "animeyt", 
+            "asialive", 
             "beeg", 
             "cinecalidadrs", 
             "daftsex", 
@@ -13,13 +14,20 @@
             "documentaryheaven", 
             "dontorrents", 
             "doramaexpress", 
+            "doramasflix", 
+            "doramasflixin", 
+            "doramasflixio", 
             "doramedplaylat", 
             "elitetorrentnz", 
             "estrenosanime", 
             "genteclic", 
+            "hdfull", 
             "jizzbunker", 
             "lacartoons", 
             "mbstelenovelas", 
+            "mejortorrentapp", 
+            "pandramaio", 
+            "pediatorrent", 
             "pelis182", 
             "pelis28re", 
             "pelisplushdlat", 
@@ -66,6 +74,7 @@
             "dailymotion", 
             "kinoger", 
             "mixdrop", 
+            "playtube", 
             "streamtape", 
             "various", 
             "videoapp", 
@@ -76,6 +85,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 5, 
-    "hash": "65748d2dbb26f6ddbe454f672ad0dbaa"
+    "fix_version": 6, 
+    "hash": "11be3543cf034fb21c8b4c350776b5ae"
 }
