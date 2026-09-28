@@ -5,6 +5,7 @@
             "allpeliculasse", 
             "animejara", 
             "animeyt", 
+            "area51", 
             "asialive", 
             "beeg", 
             "cinecalidadrs", 
@@ -18,12 +19,14 @@
             "doramasflixin", 
             "doramasflixio", 
             "doramedplaylat", 
+            "elifilms", 
             "elitetorrentnz", 
             "estrenosanime", 
             "genteclic", 
             "hdfull", 
             "jizzbunker", 
             "lacartoons", 
+            "lamovie", 
             "mbstelenovelas", 
             "mejortorrentapp", 
             "pandramaio", 
@@ -43,7 +46,10 @@
             "tiodonghua", 
             "todocineclasico", 
             "topdocumentaryfilms", 
-            "tubeonline"
+            "tubeonline", 
+            "vision", 
+            "xxxparody", 
+            "youjizz"
         ], 
         "core": [
             "httptools", 
@@ -63,6 +69,7 @@
             "platformtools"
         ], 
         "resources": [
+            "Lista-proxies", 
             "settings"
         ], 
         "root dir": [
@@ -85,6 +92,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 6, 
-    "hash": "11be3543cf034fb21c8b4c350776b5ae"
+    "fix_version": 7, 
+    "hash": "cc8bf45431cf373b7a37647b7ac25bca"
 }
