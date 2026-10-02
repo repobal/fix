@@ -1,4 +1,26 @@
 {
     "addon_version": "4.0.33", 
-    "hash": "48e7b6ef2330d84814b2b0c5ae606796"
+    "files": {
+        "channels": [
+            "divxtotal", 
+            "elitetorrent", 
+            "elitetorrentnz", 
+            "grantorrent", 
+            "megaserie", 
+            "pandamovies", 
+            "pasateatorrent"
+        ], 
+        "modules": [
+            "generos", 
+            "helper", 
+            "submnuctext", 
+            "tester"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "696c6beb09d40a7d3d4edc4b613dafc2"
 }
