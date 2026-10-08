@@ -2,25 +2,43 @@
     "addon_version": "4.0.33", 
     "files": {
         "channels": [
+            "animeyt", 
             "divxtotal", 
             "elitetorrent", 
             "elitetorrentnz", 
             "grantorrent", 
+            "mangoporn", 
             "megaserie", 
             "pandamovies", 
-            "pasateatorrent"
+            "pasateatorrent", 
+            "repelis28", 
+            "watchpornfree", 
+            "xxxparody"
+        ], 
+        "core": [
+            "httptools", 
+            "requeststools", 
+            "servertools"
         ], 
         "modules": [
+            "actions", 
             "generos", 
             "helper", 
+            "novelty", 
             "submnuctext", 
             "tester"
+        ], 
+        "platformcode": [
+            "platformtools"
         ], 
         "root dir": [
             "dominios", 
             "version"
+        ], 
+        "servers": [
+            "various"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "696c6beb09d40a7d3d4edc4b613dafc2"
+    "fix_version": 2, 
+    "hash": "6c1f416da633fb4fe902332b28a726c9"
 }
