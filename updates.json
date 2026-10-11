@@ -2,16 +2,27 @@
     "addon_version": "4.0.33", 
     "files": {
         "channels": [
+            "animeav1", 
             "animeyt", 
+            "cumlouder", 
+            "divxatope", 
             "divxtotal", 
+            "dontorrents", 
+            "elitedivx", 
             "elitetorrent", 
             "elitetorrentnz", 
             "grantorrent", 
+            "hdfull", 
             "mangoporn", 
             "megaserie", 
+            "mejortorrentapp", 
             "pandamovies", 
             "pasateatorrent", 
+            "pornburst", 
+            "reinventorrent", 
             "repelis28", 
+            "todotorrents", 
+            "tomadivx", 
             "watchpornfree", 
             "xxxparody"
         ], 
@@ -22,6 +33,7 @@
         ], 
         "modules": [
             "actions", 
+            "domains", 
             "generos", 
             "helper", 
             "novelty", 
@@ -31,14 +43,18 @@
         "platformcode": [
             "platformtools"
         ], 
+        "resources": [
+            "settings"
+        ], 
         "root dir": [
             "dominios", 
             "version"
         ], 
         "servers": [
-            "various"
+            "various", 
+            "voe"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "6c1f416da633fb4fe902332b28a726c9"
+    "fix_version": 3, 
+    "hash": "953741da8a8daea818236ff4233df0fe"
 }
