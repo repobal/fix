@@ -4,6 +4,7 @@
         "channels": [
             "animeav1", 
             "animeyt", 
+            "beeg", 
             "cumlouder", 
             "divxatope", 
             "divxtotal", 
@@ -27,16 +28,22 @@
             "pornburst", 
             "reinventorrent", 
             "repelis28", 
+            "repelishd", 
             "seriesbiblicas", 
             "seriesmetron", 
             "todotorrents", 
             "tomadivx", 
+            "torrentgalaxy", 
+            "tubepelis", 
             "villaanimex", 
+            "watchporn", 
             "watchpornfree", 
-            "xxxparody"
+            "xxxparody", 
+            "zbporn"
         ], 
         "core": [
             "httptools", 
+            "proxytoolsz", 
             "requeststools", 
             "servertools"
         ], 
@@ -61,9 +68,10 @@
         ], 
         "servers": [
             "various", 
-            "voe"
+            "voe", 
+            "zures"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "adb02786d0bbc76089ff175210de2ee2"
+    "fix_version": 5, 
+    "hash": "dacbf59b1e27ba5ccdf52560ae1e9d2d"
 }
