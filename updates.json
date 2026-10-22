@@ -29,6 +29,7 @@
             "reinventorrent", 
             "repelis28", 
             "repelishd", 
+            "retrotv", 
             "seriesbiblicas", 
             "seriesmetron", 
             "todotorrents", 
@@ -39,6 +40,7 @@
             "watchporn", 
             "watchpornfree", 
             "xxxparody", 
+            "ytsoficial", 
             "zbporn"
         ], 
         "core": [
@@ -53,6 +55,8 @@
             "generos", 
             "helper", 
             "novelty", 
+            "proxysearch", 
+            "search", 
             "submnuctext", 
             "tester"
         ], 
@@ -67,11 +71,13 @@
             "version"
         ], 
         "servers": [
+            "okru", 
             "various", 
+            "vk", 
             "voe", 
             "zures"
         ]
     }, 
-    "fix_version": 5, 
-    "hash": "dacbf59b1e27ba5ccdf52560ae1e9d2d"
+    "fix_version": 6, 
+    "hash": "8d38ff76daca205375911d9b6d1399b2"
 }
