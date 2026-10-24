@@ -5,6 +5,7 @@
             "animeav1", 
             "animeyt", 
             "beeg", 
+            "cuevanavip", 
             "cumlouder", 
             "divxatope", 
             "divxtotal", 
@@ -58,6 +59,7 @@
             "proxysearch", 
             "search", 
             "submnuctext", 
+            "submnuteam", 
             "tester"
         ], 
         "platformcode": [
@@ -68,16 +70,18 @@
         ], 
         "root dir": [
             "dominios", 
+            "msgfixed", 
             "version"
         ], 
         "servers": [
             "okru", 
+            "peertube", 
             "various", 
             "vk", 
             "voe", 
             "zures"
         ]
     }, 
-    "fix_version": 6, 
-    "hash": "8d38ff76daca205375911d9b6d1399b2"
+    "fix_version": 7, 
+    "hash": "1947fc22116935576cace6984b1dc3a8"
 }
