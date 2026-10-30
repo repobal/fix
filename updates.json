@@ -6,6 +6,7 @@
             "animeav1", 
             "animeyt", 
             "beeg", 
+            "cinematteflix", 
             "cuevanavip", 
             "cumlouder", 
             "divxatope", 
@@ -17,6 +18,7 @@
             "elitetorrent", 
             "elitetorrentnz", 
             "gatotv", 
+            "gnulatv", 
             "grantorrent", 
             "hdfull", 
             "homecine", 
@@ -27,8 +29,10 @@
             "pandamovies", 
             "pasateatorrent", 
             "pediatorrent", 
+            "peliculasonline", 
             "pelis182", 
             "pelis28re", 
+            "porn00", 
             "pornburst", 
             "reinventorrent", 
             "repelis28", 
@@ -37,17 +41,20 @@
             "seriesbiblicas", 
             "seriesgato", 
             "seriesmetron", 
+            "sigloxx", 
             "todotorrents", 
             "tomadivx", 
             "torrentgalaxy", 
             "tubepelis", 
+            "tvseries", 
             "villaanimex", 
             "watchporn", 
             "watchpornfree", 
             "xxxparody", 
             "yandispoiler", 
             "ytsoficial", 
-            "zbporn"
+            "zbporn", 
+            "zoowomaniacos"
         ], 
         "core": [
             "httptools", 
@@ -59,6 +66,7 @@
             "actions", 
             "domains", 
             "generos", 
+            "groups", 
             "helper", 
             "mainmenu", 
             "novelty", 
@@ -89,6 +97,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 8, 
-    "hash": "ae3dbd3a454c02164ee5ee60453f28f5"
+    "fix_version": 9, 
+    "hash": "bcbc444ed4da92e8d21798127358ad8e"
 }
