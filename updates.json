@@ -1,4 +1,29 @@
 {
     "addon_version": "4.0.34", 
-    "hash": "59918614cfc8568cbab9181109551961"
+    "files": {
+        "channels": [
+            "absoluporn", 
+            "animeyt", 
+            "areshd", 
+            "legalmentegratis", 
+            "monoschinos2", 
+            "sigloxx", 
+            "ultrapelis", 
+            "youtubedocs", 
+            "zoowomaniacos"
+        ], 
+        "modules": [
+            "generos", 
+            "helper", 
+            "novelty", 
+            "submnuctext"
+        ], 
+        "root dir": [
+            "dominios", 
+            "msgfixed", 
+            "version"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "8654b1781c6fbd421a96997cd2a7c988"
 }
