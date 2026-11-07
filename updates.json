@@ -5,12 +5,26 @@
             "absoluporn", 
             "animeyt", 
             "areshd", 
+            "cinecalidad", 
+            "cinecalidadla", 
+            "cinecalidadlol", 
+            "cinedeantes", 
+            "cuevana3pro", 
+            "cuevanavip", 
             "legalmentegratis", 
             "monoschinos2", 
+            "seriesretro", 
             "sigloxx", 
+            "sololatino", 
+            "tvseries", 
             "ultrapelis", 
             "youtubedocs", 
             "zoowomaniacos"
+        ], 
+        "core": [
+            "httptools", 
+            "requeststools", 
+            "servertools"
         ], 
         "modules": [
             "generos", 
@@ -22,8 +36,12 @@
             "dominios", 
             "msgfixed", 
             "version"
+        ], 
+        "servers": [
+            "mediafire", 
+            "voe"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "8654b1781c6fbd421a96997cd2a7c988"
+    "fix_version": 2, 
+    "hash": "a8beb6503a6db03f9b5bcac934d4984d"
 }
