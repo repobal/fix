@@ -20,6 +20,7 @@
             "doramasflix", 
             "doramasflixin", 
             "doramasflixio", 
+            "entrepeliculasyseries", 
             "estrenosanime", 
             "flizzmovies", 
             "genteclic", 
@@ -27,12 +28,19 @@
             "henaojaran", 
             "ikucomics", 
             "jkanime", 
+            "lamovie", 
             "latanime", 
             "legalmentegratis", 
             "mbstelenovelas", 
+            "megadedeoficial", 
             "monoschinos2", 
             "pandramaio", 
+            "pelisgratishd", 
+            "pelisplushdnz", 
+            "repelis28", 
             "seriesbiblicas", 
+            "seriesdonghua", 
+            "serieskao", 
             "seriesretro", 
             "sigloxx", 
             "sololatino", 
@@ -58,22 +66,29 @@
         "platformcode": [
             "platformtools"
         ], 
+        "resources": [
+            "settings"
+        ], 
         "root dir": [
             "dominios", 
             "msgfixed", 
             "version"
         ], 
         "servers": [
+            "clicknupload", 
             "kinoger", 
             "ktp", 
             "mediafire", 
+            "megaup", 
+            "nupload", 
             "various", 
             "vidmoly", 
+            "vidsrc", 
             "vk", 
             "voe", 
             "zures"
         ]
     }, 
-    "fix_version": 3, 
-    "hash": "8f1823c3ff891fa7c52eb2fb6d230f41"
+    "fix_version": 4, 
+    "hash": "de00f03269fe9688b70fcd3d9b702c67"
 }
