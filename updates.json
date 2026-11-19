@@ -7,6 +7,7 @@
             "animeclub", 
             "animeflvone", 
             "animejl", 
+            "animeonline", 
             "animeyt", 
             "areshd", 
             "cinecalidad", 
@@ -14,6 +15,7 @@
             "cinecalidadlol", 
             "cinedeantes", 
             "cinehindi", 
+            "cineplus", 
             "cuevana3pro", 
             "cuevanavip", 
             "dontorrents", 
@@ -35,6 +37,7 @@
             "megadedeoficial", 
             "monoschinos2", 
             "pandramaio", 
+            "pelisflix", 
             "pelisgratishd", 
             "pelisplushdnz", 
             "repelis28", 
@@ -56,6 +59,9 @@
             "httptools", 
             "requeststools", 
             "servertools"
+        ], 
+        "lib": [
+            "decrypters"
         ], 
         "modules": [
             "generos", 
@@ -89,6 +95,6 @@
             "zures"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "de00f03269fe9688b70fcd3d9b702c67"
+    "fix_version": 5, 
+    "hash": "c64a0850f78bb03dfa4a4621d813dbb3"
 }
